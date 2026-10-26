@@ -1,5 +1,5 @@
 /**
- * /library/[book] — 单部古籍目录页
+ * /library/[book] — mục lục một sách
  */
 
 import Link from 'next/link';
@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: { params: Promise<{ book: str
   const book = getBookBySlug(slug);
   if (!book) return {};
   return {
-    title: `《${book.title}》· ${book.dynasty} · 紫微斗数古籍原典库`,
+    title: `${book.title} (${book.titleHan}) · Cổ thư Tử Vi`,
     description: book.intro,
   };
 }
@@ -26,76 +26,33 @@ export default async function BookPage({ params }: { params: Promise<{ book: str
   if (!book) notFound();
 
   return (
-    <div style={{ background: 'var(--bg-page)', minHeight: '100vh' }}>
-      <div className="px-6 py-4 flex items-center justify-between"
-        style={{ borderBottom: '1px solid rgba(184,146,42,0.15)', background: 'var(--bg-page)' }}>
-        <Link href="/library" style={{ fontSize: '12px', color: 'var(--ac)', letterSpacing: '0.3em', textDecoration: 'none' }}>
-          ← 古籍库
-        </Link>
-        <div style={{ fontSize: '12px', color: 'var(--tx-3)', letterSpacing: '0.2em' }}>
-          《{book.title}》
-        </div>
-        <Link href="/" style={{ fontSize: '12px', color: 'var(--ac)', letterSpacing: '0.2em', textDecoration: 'none' }}>
-          首页 →
-        </Link>
-      </div>
+    <main className="page page--read">
+      <nav aria-label="Đường dẫn" className="crumbs">
+        <Link href="/library">Cổ thư</Link>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">{book.title}</span>
+      </nav>
 
-      <div className="max-w-3xl mx-auto px-6 py-12">
-        {/* 书名信息 */}
-        <div className="text-center mb-12">
-          <div style={{ fontSize: '11px', color: 'var(--tx-3)', letterSpacing: '0.3em', marginBottom: '8px' }}>
-            {book.dynasty} · {book.author}
-          </div>
-          <h1 style={{ fontSize: 'clamp(28px, 4vw, 42px)', fontWeight: 700, color: 'var(--tx-0)', letterSpacing: '0.15em', marginBottom: '14px' }}>
-            《{book.title}》
-          </h1>
-          <p style={{ fontSize: '13px', color: 'var(--tx-2)', lineHeight: 1.8, maxWidth: '500px', margin: '0 auto' }}>
-            {book.intro}
-          </p>
-        </div>
+      <header className="index-head">
+        <h1>{book.title}</h1>
+        <p className="index-row__sub"><span lang="zh">{book.titleHan}</span> · {book.dynasty} · {book.author}</p>
+        <p>{book.intro}</p>
+      </header>
 
-        {/* 章节目录 */}
-        <div style={{ background: 'var(--bg-card)', borderRadius: '14px', border: '1px solid rgba(184,146,42,0.2)', overflow: 'hidden' }}>
-          <div style={{ padding: '14px 20px', borderBottom: '1px solid rgba(184,146,42,0.15)', fontSize: '11px', color: 'var(--tx-3)', letterSpacing: '0.3em' }}>
-            CHAPTERS · 章节目录
-          </div>
-          {book.chapters.map((chapter, i) => (
-            <Link
-              key={i}
-              href={`/library/${book.slug}/${i}`}
-              style={{
-                display: 'flex',
-                alignItems: 'baseline',
-                gap: '14px',
-                padding: '14px 20px',
-                borderBottom: i === book.chapters.length - 1 ? 'none' : '1px dashed rgba(184,146,42,0.15)',
-                textDecoration: 'none',
-                color: 'inherit',
-                transition: 'background 0.15s',
-              }}
-              className="hover:bg-amber-50"
-            >
-              <div style={{ fontSize: '12px', color: 'var(--ac)', fontWeight: 600, minWidth: '40px', letterSpacing: '0.1em' }}>
-                {String(i + 1).padStart(2, '0')}
-              </div>
-              <div style={{ flex: 1 }}>
-                <div style={{ fontSize: '15px', color: 'var(--tx-0)', fontWeight: 500, letterSpacing: '0.08em', marginBottom: '2px' }}>
-                  {chapter.title}
-                </div>
-                {chapter.subtitle && (
-                  <div style={{ fontSize: '11px', color: 'var(--tx-3)' }}>
-                    {chapter.subtitle}
-                  </div>
-                )}
-              </div>
-              <div style={{ fontSize: '10px', color: 'var(--tx-3)', letterSpacing: '0.1em' }}>
-                {chapter.paragraphs.length} 段
-              </div>
-              <div style={{ fontSize: '12px', color: 'var(--ac)' }}>→</div>
+      <ol className="toc">
+        {book.chapters.map((chapter, i) => (
+          <li key={i}>
+            <Link href={`/library/${book.slug}/${i}`}>
+              <span className="toc__no num">{String(i + 1).padStart(2, '0')}</span>
+              <span className="toc__title">
+                {chapter.title}
+                {chapter.subtitle && <span className="toc__sub">{chapter.subtitle}</span>}
+              </span>
+              <span className="toc__count num">{chapter.paragraphs.length} đoạn</span>
             </Link>
-          ))}
-        </div>
-      </div>
-    </div>
+          </li>
+        ))}
+      </ol>
+    </main>
   );
 }

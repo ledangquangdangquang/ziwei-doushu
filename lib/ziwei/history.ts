@@ -2,7 +2,7 @@ import { useEffect, useState, useCallback } from 'react';
 import type { BirthFormState } from '@/components/BirthForm';
 
 const STORAGE_KEY = 'ziwei_history';
-const MAX_ENTRIES = 10;
+const MAX_ENTRIES = 20;
 
 export interface HistoryEntry {
   id: string;
@@ -17,16 +17,17 @@ export function useHistory() {
   useEffect(() => {
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
-      if (raw) setHistory(JSON.parse(raw));
-    } catch { /* localStorage 不可用时静默失败 */ }
+      const data = raw ? JSON.parse(raw) : [];
+      if (Array.isArray(data)) setHistory(data);
+    } catch { /* trình duyệt chặn localStorage thì bỏ qua */ }
   }, []);
 
   const save = useCallback((form: BirthFormState) => {
     const label = [
-      form.name,
-      `${form.year}年${form.month}月${form.day}日`,
+      `${form.day}/${form.month}/${form.year}`,
+      form.unknownTime ? 'không rõ giờ' : `${form.clockHour.padStart(2, '0')}:${form.clockMinute.padStart(2, '0')}`,
       form.city || form.province || '',
-      form.gender === 'male' ? '男' : '女',
+      form.gender === 'male' ? 'Nam' : 'Nữ',
     ].filter(Boolean).join(' · ');
 
     const entry: HistoryEntry = {
@@ -37,7 +38,7 @@ export function useHistory() {
     };
 
     setHistory(prev => {
-      // 去重：相同出生年月日+性别+时辰视为同一条记录
+      // Cùng ngày giờ sinh + giới tính coi là một lá số; mục mới thay mục cũ
       const deduped = prev.filter(e =>
         !(e.form.year === form.year &&
           e.form.month === form.month &&

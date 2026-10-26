@@ -1,0 +1,90 @@
+/* Hallmark · design-system tokens · genre: atmospheric · theme: custom
+ * vibe: "đêm Bắc Đẩu, mực tím chàm, ánh vàng cổ" · paper: oklch(14% 0.020 285) · accent: oklch(80% 0.13 82)
+ * display: Cormorant Garamond · body: Be Vietnam Pro · axes: dark / roman-serif / chromatic-amber ~82°
+ * Nguồn duy nhất cho màu, font, khoảng cách, chuyển động. Xem design.md.
+ */
+:root {
+  /* Nền đêm tím chàm (hue 285) — bậc cao hơn sáng hơn */
+  --color-paper:   oklch(14% 0.020 285);
+  --color-paper-2: oklch(18% 0.022 285);
+  --color-paper-3: oklch(22% 0.024 285);
+
+  /* Chữ */
+  --color-ink:   oklch(94% 0.010 285);
+  --color-ink-2: oklch(82% 0.014 285);
+  --color-muted: oklch(68% 0.016 285);
+
+  /* Đường kẻ: rule = trang trí; rule-strong = viền ô nhập (≥ 3:1 trên paper) */
+  --color-rule:        oklch(32% 0.022 285);
+  --color-rule-2:      oklch(26% 0.022 285);
+  --color-rule-strong: oklch(50% 0.025 285);
+
+  /* Màu nhấn duy nhất: vàng cổ (≤ 5% mỗi khung nhìn) */
+  --color-accent:     oklch(80% 0.13 82);
+  --color-accent-ink: oklch(16% 0.020 285);
+  --color-focus:      oklch(84% 0.17 82);
+
+  /* Chọn cung / tam phương tứ chính — tím sáng cùng hue nền, không tranh với vàng */
+  --color-select: oklch(72% 0.10 285);
+
+  /* Ngữ nghĩa lá số: Tứ Hóa, cát tinh, sát tinh */
+  --color-loc:   oklch(78% 0.14 155);
+  --color-quyen: oklch(76% 0.12 250);
+  --color-khoa:  oklch(86% 0.12 115);
+  --color-ky:    oklch(72% 0.17 25);
+  --color-cat:   oklch(78% 0.07 220);
+  --color-sat:   oklch(70% 0.10 25);
+
+  /* Quầng sáng nền (lớp phủ, nên được phép trong suốt) */
+  --color-bloom:   oklch(80% 0.13 82 / 0.07);
+  --color-bloom-2: oklch(45% 0.07 285 / 0.22);  /* ánh trăng cùng hue nền, không phải màu nhấn thứ hai */
+  --color-shadow:  oklch(8% 0.02 285 / 0.6);
+
+  /* Font (biến --font-cormorant / --font-be-vietnam do next/font gắn ở layout) */
+  --font-display: var(--font-cormorant), "Cormorant Garamond", ui-serif, Georgia, serif;
+  --font-body:    var(--font-be-vietnam), "Be Vietnam Pro", ui-sans-serif, sans-serif;
+
+  /* Cỡ chữ — tỉ lệ major third 1.25 */
+  --text-2xs: 0.625rem;
+  --text-xs:  0.75rem;
+  --text-sm:  0.875rem;
+  --text-md:  1rem;
+  --text-lg:  1.25rem;
+  --text-xl:  1.5625rem;
+  --text-2xl: 1.953rem;
+  --text-3xl: 2.441rem;
+  --text-display: clamp(2.5rem, 4vw + 1.25rem, 4.75rem);
+
+  /* Khoảng cách — thang 4pt */
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs:  0.5rem;
+  --space-sm:  0.75rem;
+  --space-md:  1rem;
+  --space-lg:  1.5rem;
+  --space-xl:  2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --page-gutter: clamp(1rem, 4vw, 3rem);
+  --measure: 65ch;
+
+  /* Bo góc, đường kẻ */
+  --radius-input: 10px;
+  --radius-card:  16px;
+  --radius-pill:  999px;
+  --rule-hair: 1px;
+
+  /* Chuyển động */
+  --ease-out:    cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in:     cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 120ms;
+  --dur-short: 220ms;
+  --dur-long:  420ms;
+
+  /* Lớp z */
+  --z-base: 1;
+  --z-raised: 10;
+  --z-sticky: 200;
+  --z-modal: 400;
+}

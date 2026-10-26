@@ -124,3 +124,6 @@ export const STAR_DESCRIPTIONS: Record<string, { keywords: string; nature: strin
   '七杀': { keywords: '将星·果决·孤克', nature: '凶星', element: '金' },
   '破军': { keywords: '开创·变动·破坏', nature: '凶星', element: '水' },
 };
+
+/** Bản cung, cung đối diện, hai cung tam hợp (theo địa chi) */
+export const tamPhuongTuChinh = (branch: number): number[] => [branch, (branch + 6) % 12, (branch + 4) % 12, (branch + 8) % 12];

@@ -1,0 +1,771 @@
+{
+ "紫微": {
+  "dinhDieu": "Tử Vi ở cung Phụ Mẫu: sách xưa nói “Tử Vi không khắc”; duyên với cha mẹ không mỏng, cha mẹ có uy vọng, đáng nương tựa.",
+  "cotLoi": [
+   "Tử Vi ở cung Phụ Mẫu: sách xưa chỉ cho hai chữ “không khắc”, tức duyên với cha mẹ không dễ xảy ra tổn thương hay chia lìa sớm; cùng cung Thiên Phủ, Thiên Tướng, Tham Lang mà không có sát tinh thêm vào thì cũng không có tầng tổn thương này — đây là điều quan trọng nhất của cung này. Cha mẹ thường có địa vị hoặc khí thế rất mạnh, kỳ vọng nhiều ở con; với cấp trên, bề trên cũng luôn mang chút không khí cấp trên — cấp dưới, nên giữ chút kính trọng trong thái độ. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên bị giảm, dễ xa cách; cùng Phá Quân thì sự xa cách này đến sớm hơn."
+  ],
+  "canCu": [
+   "Tử Vi vào Phụ Mẫu — cha hoặc bề trên mang khí sao đế, có uy quyền.",
+   "Tử Vi hội lục sát ở Phụ Mẫu — cha, bề trên mạnh mẽ khó gần, cần giữ khoảng cách."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Tử Vi không khắc; cùng Thiên Phủ cũng không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp cũng khắc; cùng Thiên Tướng thì không hình; cùng Tham Lang không có sát thêm cũng không hình; cùng Phá Quân thì khắc sớm.",
+    "goc": "紫微无克，天府同亦无刑，加羊陀火铃空劫亦克，天相同无刑，贪狼同无杀加亦无刑，破军同早克。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thất Sát, mục Phá Quân)",
+    "dich": "Cùng Tử Vi thêm cát tinh thì không hình; cùng Tử Vi thì không hình.",
+    "goc": "紫微同加吉星无刑；紫微同无刑"
+   }
+  ]
+ },
+ "天机": {
+  "dinhDieu": "Thiên Cơ ở cung Phụ Mẫu: cha mẹ thông minh, nhà coi trọng học thức.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Phụ Mẫu: cha mẹ thông minh, giáo dục trong nhà coi trọng học thức. Sách xưa chia hai trường hợp: nhập miếu (sao mạnh) thì giữa con với cha mẹ không có tổn thương hay chia lìa gì; hãm lại gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, sách xưa nói “ở nhờ họ khác, bái lại cha mẹ, hoặc làm con nuôi, ở rể”, tức ở nhờ nhà người khác, nhận cha mẹ nuôi, hoặc làm con thừa tự, ở rể — phần nhiều là các trường hợp sớm rời cha mẹ, lớn lên cùng người lớn khác, không cần nghĩ theo hướng xấu. Cùng cung Thái Âm, Thiên Lương mà không có sát tinh, sách xưa nói “cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình”, thêm sát tinh thì “cũng không tránh được hình thương”; cùng Cự Môn thì “Cự Môn hình sớm”, tuổi nhỏ với cha mẹ đã có cản trở. Giao tiếp với cha mẹ nên linh hoạt một chút."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Phụ Mẫu — cha mẹ thông minh, giáo dục coi trọng trí thức.",
+   "Thiên Cơ gặp Không Kiếp ở Phụ Mẫu — quan hệ với cha mẹ xa cách, duyên mỏng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Cơ Miếu Vượng thì không hình; ở đất hãm gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở nhờ họ khác, bái lại cha mẹ, hoặc làm con nuôi, ở rể. Cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình, đều cần không có sát; nếu có sát thêm vào thì cũng không tránh được hình thương; (cùng) Cự Môn thì hình sớm.",
+    "goc": "天机庙旺无刑，陷地逢羊陀火铃空劫，二姓寄居，重拜父母，或过房入赘；太阴同免刑，天梁同无刑，俱要无杀，加有杀，加也不免刑伤，巨门早刑。"
+   }
+  ]
+ },
+ "太阳": {
+  "dinhDieu": "Thái Dương ở cung Phụ Mẫu: Thái Dương xem cha; duyên dày hay mỏng xem độ sáng của Thái Dương, sao cùng cung và sát tinh.",
+  "canCu": [
+   "Thái Dương vào Phụ Mẫu — cha và cấp trên phần nhiều phát huy ảnh hưởng ở nơi công cộng.",
+   "Thái Dương ở Phụ Mẫu nhập miếu — cha có địa vị xã hội cao, là quý nhân quan trọng.",
+   "Thái Dương ở Phụ Mẫu hãm — sách xưa nói “ở đất hãm thì khắc cha”, chủ khắc cha trước."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Ở cung Phụ Mẫu, với nam chỉ làm sao cha; có ánh sáng thì tốt, không ánh sáng thì khắc cha.",
+    "goc": "父母宫男子单作父星，有辉则吉，无辉克父。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Phàm xem cha mẹ thì lấy Thái Dương làm cha, Thái Âm làm mẹ. Thái Dương ở cung hãm chủ khắc cha trước, Thái Âm ở cung hãm chủ khắc mẹ trước. Nếu hai sao đều ở đất hãm thì chỉ lấy giờ sinh của người đó: sinh ngày chủ cha còn, sinh đêm chủ mẹ còn. Thái Dương nhập miếu thì không khắc, ở đất hãm thì khắc cha; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì khắc cha mẹ sớm. Cùng Cự Môn thêm tứ sát, Không Kiếp thì khắc sớm; cùng Thiên Lương thì không hình.",
+    "goc": "凡看父母以太阳星为父，太阴星为母。太阳在陷宫主先克父，太阴星在陷宫主先克母。如二星具在陷地，只以人之本生时，日生者主父存，夜生者主母在。太阳入庙无克，陷地克父，加羊陀火铃空劫克父母早；巨门同加四杀空劫早克，天梁同无刑。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thái Âm, Thiên Lương, Cự Môn)",
+    "dich": "Cùng Thái Dương không có tứ sát thì cha mẹ song toàn; cùng Thái Dương thì khắc muộn, thêm tứ sát, Không Kiếp thì cũng khắc sớm; cùng Thái Dương thì ít hòa.",
+    "goc": "太阳同无四杀父母双全；太阳同克迟，加四杀空劫亦克早；太阳同少和"
+   },
+   {
+    "nguon": "Nghê Hải Hạ, Thiên Kỷ, tập 11, 13:06",
+    "dich": "Đây gọi là lục thân không nhờ được, không nhờ được cha mẹ — Nhật Nguyệt phản bối.",
+    "goc": "这叫做六亲不靠，靠不到父母亲日月反背"
+   }
+  ]
+ },
+ "武曲": {
+  "dinhDieu": "Cha mẹ tính cứng rắn, duyên thời nhỏ hơi mỏng.",
+  "canCu": [
+   "Vũ Khúc vào Phụ Mẫu — cha mẹ phần nhiều cương nghị thực tế, gia giáo khá nghiêm.",
+   "Vũ Khúc gặp sát — cha mẹ sức khỏe hay mệt nhọc, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Vũ Khúc khắc sớm; lùi tổ nghiệp thì không hình; cùng Tham Lang thì hình khắc; cùng Thất Sát thì có hình; cùng Thiên Tướng thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì hình thương.",
+    "goc": "武曲克早，退祖业不刑，贪狼同刑克，七杀同有刑，天相同加羊陀火铃空劫刑伤。"
+   }
+  ]
+ },
+ "天同": {
+  "dinhDieu": "Thiên Đồng ở cung Phụ Mẫu: cha mẹ ôn hòa, dễ sống chung.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Phụ Mẫu: cha mẹ tính ôn hòa dễ tính, sống chung nhẹ nhàng; cấp trên cũng khá dễ nói chuyện, ít cảm giác bị đè nén. Sách nói Thiên Đồng một mình ngồi cung này lại nhập miếu (sao mạnh) thì duyên cha mẹ con cái không dễ có chuyện; cùng Thái Âm thì cha mẹ song toàn; cùng Thiên Lương thì hoặc không cản trở nhau, hoặc không giữ được gia nghiệp tổ tiên; cùng Cự Môn thì không hợp lắm. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên với cha mẹ không được trọn; xưa gọi là “bái lại cha mẹ”, tức nhận cha mẹ nuôi, làm con thừa tự, hoặc lúc nhỏ do người khác nuôi lớn."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Phụ Mẫu — cha mẹ phần nhiều ôn hòa, gia giáo thoải mái.",
+   "Thiên Đồng hội lục sát — sức khỏe cha mẹ bị tổn, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Đồng một mình thủ Miếu Vượng thì không hình; thêm tứ sát thì bái lại cha mẹ; cùng Cự Môn thì kém hòa; cùng Thái Âm thì cha mẹ song toàn; cùng Thiên Lương thì không hình hoặc lùi tổ nghiệp; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn.",
+    "goc": "天同独守庙旺无刑，加四杀重拜父母，巨门同欠和太阴同父母双全，天梁同无刑或退祖业，加羊陀火铃空劫父母不全。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thái Âm, Cự Môn, Thiên Lương)",
+    "dich": "Cùng Thiên Đồng thì rất đẹp; cùng Thiên Đồng thì hoặc lùi của tổ, không hình; cùng Thiên Đồng thêm tứ sát thì có hình, không có sát thì không hình.",
+    "goc": "天同同极美；天同同或退祖无刑；天同同加四杀有刑，无杀无刑"
+   }
+  ]
+ },
+ "廉贞": {
+  "dinhDieu": "Liêm Trinh ở cung Phụ Mẫu: duyên với cha mẹ hơi mỏng; cùng Thiên Phủ mới tránh được tầng cản trở này.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phụ Mẫu: “khó làm cha mẹ”, tức duyên với bề trên mỏng sẵn một lớp; cách của người xưa là “bái lại”, tức nhận cha mẹ nuôi, làm con thừa tự, để làm dịu bớt; cùng Tham Lang, Phá Quân thì sớm đã có cản trở; cùng Thất Sát thì cô đơn, dễ làm tổn thương nhau; chỉ cùng Thiên Phủ thì tránh được tầng cản trở này; thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên cha mẹ không trọn. Điều này nói về duyên dày mỏng, gặp ít xa nhiều, không phải đoán chắc sẽ có tai bệnh. Trong thực tế phần nhiều biểu hiện ở chỗ giữa cha mẹ con cái nhiều “kịch” tình cảm, hai bên đều cần giữ chút khoảng cách."
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phụ Mẫu — cha mẹ nhiều tài, nặng tình, gia giáo mang màu cảm xúc.",
+   "Liêm Trinh hội Hỏa Linh — bề trên tính nóng nảy, quan hệ căng thẳng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Liêm Trinh khó làm cha mẹ, nên bái lại; cùng Tham Lang thì hình sớm; Thất Sát thì cô khắc; cùng Thiên Phủ thì tránh được hình; cùng Phá Quân thì hình sớm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn vẹn.",
+    "goc": "廉贞难为父母，祖重拜，贪狼同早刑，七杀孤克，天府同免刑，破军同早刑，加羊陀火铃空劫，父母不周全。"
+   }
+  ]
+ },
+ "天府": {
+  "dinhDieu": "Thiên Phủ ở cung Phụ Mẫu: sách xưa nói “Thiên Phủ thì cha mẹ song toàn”.",
+  "cotLoi": [
+   "Thiên Phủ ở cung Phụ Mẫu, Toàn Thư nói gọn: “Thiên Phủ thì cha mẹ song toàn; cùng Tử Vi cũng không hình; cùng Liêm Trinh, Vũ Khúc mà ở Miếu Vượng thì không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì chủ tổn thương.” Nói dễ hiểu: cha mẹ đều còn, duyên trọn vẹn; cùng Tử Vi cũng không tổn; cùng Liêm Trinh, Vũ Khúc, chỉ cần Thiên Phủ nhập miếu hoặc vượng (đều là vị trí sao mạnh) cũng không tổn; nhưng thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì không mấy có lợi cho cha mẹ. Cha mẹ vững vàng chắc chắn, nhà có nền vật chất nhất định. Cung này cũng xem cấp trên: quan hệ ổn định đáng tin, dễ được tin cậy, nhưng phần nhiều đi đường xếp hàng theo thâm niên."
+  ],
+  "canCu": [
+   "Thiên Phủ vào Phụ Mẫu — cha mẹ mang khí kho tiền, gia cảnh vững chắc.",
+   "Thiên Phủ ở Phụ Mẫu hội Tả Phù, Hữu Bật — được cả cha mẹ lẫn cấp trên giúp sức.",
+   "Thiên Phủ ở Phụ Mẫu gặp Không Kiếp — kho tiền gia đình gặp không, hoặc cấp trên hứa suông.",
+   "Thiên Phủ hội Vũ Khúc — cha mẹ coi trọng việc thực, gia giáo thực tế."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Phủ thì cha mẹ song toàn; cùng Tử Vi cũng không hình; cùng Liêm Trinh, Vũ Khúc mà ở Miếu Vượng thì không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì chủ tổn thương.",
+    "goc": "天府父母双全，紫微同亦无刑，廉贞武曲同，在庙旺无刑，加羊陀火铃空劫主伤。"
+   }
+  ]
+ },
+ "太阴": {
+  "dinhDieu": "Thái Âm ở cung Phụ Mẫu: Thái Âm là sao mẹ, xem về mẹ là sát nhất.",
+  "cotLoi": [
+   "Thái Âm ở cung Phụ Mẫu: xem về mẹ là sát nhất — Thái Âm chính là sao mẹ, mẹ dịu dàng chu đáo, không khí gia đình ấm áp, thuộc gia đình “hệ mẹ”, tức sợi dây tình cảm đều ở mẹ. Sách nói Thái Âm nhập miếu (sao mạnh; hãm là sao yếu) thì giữa mẹ con không có cản trở; cùng Thái Dương mà không có bốn sát tinh Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì cha mẹ song toàn; thêm bốn sao này, sách xưa nói “thêm Dương, Đà, Hỏa, Linh thì khắc mẹ, không thì làm con nuôi, bỏ tổ”: khắc mẹ, không thì làm con thừa tự, rời quê."
+  ],
+  "canCu": [
+   "Thái Âm vào Phụ Mẫu — mẹ ảnh hưởng rất lớn, gia đình coi trọng tình ấm.",
+   "Thái Âm ở Phụ Mẫu nhập miếu — mẹ dịu dàng hiền đức, gia cảnh sung túc."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thái Âm nhập miếu thì không khắc; thêm Dương, Đà, Hỏa, Linh thì khắc mẹ, không thì làm con nuôi, bỏ tổ; cùng Thái Dương không có tứ sát thì cha mẹ song toàn; cùng Thiên Cơ thì không hình; cùng Thiên Đồng thì rất đẹp. Thái Âm ở cung hãm chủ khắc mẹ trước.",
+    "goc": "太阴入庙无克，加羊陀火铃克母，不然过房弃祖，太阳同无四杀父母双全，天机同无刑天同同极美。太阴星在陷宫主先克母。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi sao Thái Âm chủ về gì",
+    "dich": "Ở Phụ Mẫu, nếu ở đất hãm mất ánh sáng, gặp lưu niên Bạch Hổ, Thái Tuế thì chủ mẹ có tai họa.",
+    "goc": "在父母，如陷地失辉，遇流年白虎太岁，主母有灾。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu, mục Thái Âm (về Thiên Cơ)",
+    "dich": "Cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình, đều cần không có sát; nếu có sát thêm vào thì cũng không tránh được hình thương; (cùng) Cự Môn thì hình sớm.",
+    "goc": "太阴同免刑，天梁同无刑，俱要无杀，加有杀，加也不免刑伤，巨门早刑。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu, mục Thái Âm (câu tiếp)",
+    "dich": "Cùng Thái Âm … gặp Dương, Đà thì cha mẹ đủ mà hình muộn; cùng Cự Môn thêm tứ sát, Không Kiếp thì khắc sớm; cùng Thiên Lương thì không hình.",
+    "goc": "太阴同看无，羊陀凑父母全迟刑，巨门同加四杀空劫早克，天梁同无刑。"
+   }
+  ]
+ },
+ "贪狼": {
+  "dinhDieu": "Tham Lang ở cung Phụ Mẫu: cha mẹ ham chơi, đa tài; bạn cũng rất biết xoay xở với cấp trên.",
+  "cotLoi": [
+   "Tham Lang ở cung Phụ Mẫu: cha mẹ tính hoạt bát, đa tài đa nghệ, không khí trong nhà thoải mái, là kiểu “bố mẹ biết chơi”, tức có thể cùng bạn xem phim, chơi game; với cấp trên thì tròn trịa, rất biết xoay xở, dễ để lại ấn tượng tốt, ở chỗ làm thuộc kiểu “nhân duyên rất tốt”. Sách xưa nói về Tham Lang ở Phụ Mẫu có phân điều kiện: hãm thì “sớm bỏ tổ, bái lại cha mẹ, làm con nuôi, ở rể”, tức sớm rời nhà mình, nhận cha mẹ nuôi hoặc làm con thừa tự; cùng Liêm Trinh thì “hình sớm, chủ cô đơn”; cùng Tử Vi mà không có sát tinh thì cha mẹ “song toàn”."
+  ],
+  "canCu": [
+   "Tham Lang vào Phụ Mẫu — cha mẹ đa tài hoạt bát, quan hệ thoải mái.",
+   "Tham Lang ở Phụ Mẫu hội Hỏa Linh — cấp trên nâng đỡ mạnh, nhưng thay đổi nhanh."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Tham Lang ở đất hãm thì sớm bỏ tổ, bái lại cha mẹ, làm con nuôi, ở rể; cùng Liêm Trinh thì hình sớm, chủ cô đơn; cùng Tử Vi không có sát thêm thì song toàn.",
+    "goc": "贪狼狼陷地早弃祖，重拜过房，入赘，廉贞同早刑主孤单，紫微同无杀加双全。"
+   }
+  ]
+ },
+ "巨门": {
+  "dinhDieu": "Cự Môn ở cung Phụ Mẫu: với bề trên hay có va chạm lời nói.",
+  "cotLoi": [
+   "Sách nói Cự Môn ở cung Phụ Mẫu sẽ “bị bỏ rơi”, tức tuổi nhỏ dễ rời xa cha mẹ; quyển 2 viết “ở đất hãm thì tổn khắc, bỏ tổ, làm con nuôi”, tức Cự Môn hãm (sao ở vị trí này yếu) thì duyên cha mẹ con cái hơi mỏng; lúc nhỏ có thể rời nhà, làm con thừa tự, hoặc đi xa quê, với cha mẹ gặp ít xa nhiều. Với cha mẹ hoặc cấp trên thì khẩu thiệt thị phi nhiều, giao tiếp dễ sinh hiểu lầm; “con không có ý đó” là câu thoại quen thuộc. Cùng Thái Dương thì sách xưa nói “ít hòa”; cùng Thiên Cơ thì phải bái lại cha mẹ; cùng Thiên Đồng thì “hoặc lùi của tổ, không hình”; thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì “cha mẹ không trọn vẹn”."
+  ],
+  "canCu": [
+   "Cự Môn vào Phụ Mẫu — với cha mẹ, cấp trên nhiều va chạm lời nói.",
+   "Cự Môn gặp sát — quan hệ với bề trên căng thẳng, nên tránh đối đầu trực diện."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Cự Môn chủ về gì",
+    "dich": "Ở Phụ Mẫu thì bị bỏ rơi.",
+    "goc": "在父母则遭弃掷"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Cự Môn ở đất hãm thì tổn khắc, bỏ tổ, làm con nuôi; cùng Thái Dương thì ít hòa; cùng Thiên Cơ thì bái lại; cùng Thiên Đồng thì hoặc lùi của tổ, không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn vẹn.",
+    "goc": "巨门陷地伤克弃祖过房，太阳同少和，天机同重，拜天同同或退祖无刑，加羊陀火铃空劫父母不周全。"
+   }
+  ]
+ },
+ "天相": {
+  "dinhDieu": "Thiên Tướng ở cung Phụ Mẫu: cha mẹ trung hậu.",
+  "cotLoi": [
+   "Thiên Tướng ở cung Phụ Mẫu, sách xưa nói “Miếu Vượng thì không hình”, tức khi nhập miếu (sao mạnh) thì con với cha mẹ không cản trở nhau, duyên dày, ít trắc trở xa cách lâu. Cha mẹ trung hậu, gia cảnh chắc chắn, gia giáo coi trọng thành tín và thực tế; “làm người phải thật thà” là câu nghe từ nhỏ tới lớn. Quan hệ với cấp trên đúng mực, được tin cậy cơ bản, nhưng đường thăng tiến thiên về thận trọng, ít có chuyện “đề bạt vượt cấp”; hợp ở tổ chức ổn định, dùng biểu hiện lâu dài mà góp dần lòng tin. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì “hình sớm”, tức từ nhỏ duyên với bề trên đã chuyển mỏng, gặp ít xa nhiều; chuyện bề trên đã hứa hoặc hợp đồng trong nhà cũng dễ sinh biến."
+  ],
+  "canCu": [
+   "Thiên Tướng vào Phụ Mẫu — cha mẹ phần nhiều trung hậu, gia giáo coi trọng thành tín.",
+   "Thiên Tướng ở Phụ Mẫu hội Tả Phù, Hữu Bật — được cả cha mẹ lẫn cấp trên nâng đỡ.",
+   "Thiên Tướng ở Phụ Mẫu gặp Không Kiếp — lời hứa của bề trên có biến, giấy tờ bị tổn.",
+   "Thiên Tướng hội Hình, Kỵ — với cha mẹ hoặc cấp trên có kiện tụng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Tướng Miếu Vượng thì không hình; cùng Tử Vi thì không hình khắc; cùng Liêm Trinh cũng hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì hình sớm.",
+    "goc": "天相庙旺无刑，紫微同无刑克，廉贞同亦刑，加羊陀火铃空劫早刑。"
+   }
+  ]
+ },
+ "天梁": {
+  "dinhDieu": "Thiên Lương ở cung Phụ Mẫu: Thiên Lương là chủ tinh của cung Phụ Mẫu.",
+  "cotLoi": [
+   "Thiên Lương ở cung Phụ Mẫu: quyển 1 nói thẳng Thiên Lương “là chủ của cha mẹ”, tức Thiên Lương chính là chủ tinh của cung Phụ Mẫu; lại nói “ở cung Phụ Mẫu thì đôn hậu uy nghiêm”, tức bề trên đôn hậu có uy nghiêm. Trong nhà có tích đức, là thế “trong nhà có một người hiểu chuyện”. Toàn Thư khi xét từng cung cũng phần nhiều viết “cùng Thiên Lương thì không hình”, tức có Thiên Lương cùng cung thì giữa người thân ít cản trở, tổn thương. Nhưng chính mục Thiên Lương có phân biệt: cùng Thiên Đồng thì “thêm tứ sát thì có hình, không có sát thì không hình”; cùng Thái Dương thì “khắc muộn”, lại thêm sát tinh thì “cũng khắc sớm”. Ở chỗ làm cũng vậy, dễ gặp cấp trên lớn tuổi thật lòng nâng đỡ, tình thầy trò hơn quan hệ cấp trên cấp dưới."
+  ],
+  "canCu": [
+   "Thiên Lương vào Phụ Mẫu — sự che chở của cha mẹ sâu dày, già dặn chững chạc."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi sao Thiên Lương chủ về gì",
+    "dich": "Là chủ của cha mẹ; ở cung Phụ Mẫu thì đôn hậu uy nghiêm.",
+    "goc": "乃父母之主；在父母宫则厚重威严"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Lương ở đất hãm, thêm Dương, Đà, Hỏa, Linh thì cô khắc, bỏ tổ ở rể, đổi tên gửi người, nhờ nuôi thì tránh được hình. Cùng Thiên Đồng thêm tứ sát thì có hình, không có sát thì không hình; cùng Thiên Cơ thì không hình; cùng Thái Dương thì khắc muộn, thêm tứ sát, Không Kiếp thì cũng khắc sớm.",
+    "goc": "天梁陷地，加羊陀火铃孤克，弃祖入赘，更名寄人，保养免刑；天同同加四杀有刑，无杀无刑，天机同无刑，太阳同克迟，加四杀空劫亦克早。"
+   }
+  ]
+ },
+ "七杀": {
+  "dinhDieu": "Duyên với cha mẹ nhạt, sớm tự lập; với cha mẹ và cấp trên đừng cứng đối cứng.",
+  "cotLoi": [
+   "Thất Sát ở cung Phụ Mẫu: quan hệ với cha mẹ khá xa cách, từ nhỏ đã độc lập, tự nuôi mình; “từ nhỏ tôi không dựa vào cha mẹ” là lời tự kể hay gặp. Sách nói thẳng Thất Sát ở Phụ Mẫu “khắc sớm, rời tổ, lục thân cốt nhục cô độc”, tức duyên với cha mẹ nhạt, rời nhà rất sớm, người thân gặp ít xa nhiều. Nhưng cùng điều đó cũng chừa đường: cùng Tử Vi lại thêm cát tinh thì “không hình”, tức không có chuyện cản trở nhau; nếu gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì cha mẹ “không trọn vẹn”, tức sức khỏe hoặc sự chăm sóc của cha mẹ có thiếu, nên để tâm hơn. Với cấp trên cũng thiên về cứng, dễ đối đầu với cấp trên, người quản việc, là kiểu “không chịu cúi người” ở chỗ làm; nên chủ động mềm mỏng, học cách hòa giải. Bài học lớn nhất của cung này là “học cách cúi đầu”; cứng chọi chỉ làm đường càng hẹp."
+  ],
+  "canCu": [
+   "Thất Sát vào Phụ Mẫu — cha mẹ mạnh mẽ, quan hệ cha mẹ con cái xa cách.",
+   "Thất Sát với quyền uy — dễ xung đột với cấp trên, nên mềm mỏng.",
+   "Thất Sát gặp sát — quan hệ với bề trên căng thẳng, nên tránh đối đầu."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thất Sát khắc sớm, rời tổ, lục thân cốt nhục cô độc; cùng Vũ Khúc cũng hình; cùng Liêm Trinh thì hình sớm; cùng Tử Vi thêm cát tinh thì không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn vẹn.",
+    "goc": "七杀克早离祖，六亲骨肉孤独，武曲同亦刑，廉贞同刑早，紫微同加吉星无刑，加羊陀火铃空劫，父母不周全。"
+   }
+  ]
+ },
+ "破军": {
+  "dinhDieu": "Phá Quân ở cung Phụ Mẫu: duyên với cha mẹ nhạt, sớm rời nhà; mỗi bên độc lập, sống riêng thì cả hai lại yên.",
+  "cotLoi": [
+   "Phá Quân ở cung Phụ Mẫu, sách nói “Phá Quân khắc sớm, rời tổ”, tức duyên với cha mẹ nhạt, rất sớm rời nhà tự lập; quyển 1 cũng nói “ở Phụ Mẫu thì phá tướng, hình khắc”, tức đường thân duyên này hơi mỏng, hai bên dễ cản trở nhau. Cách ứng phó là “đổi tên, gửi nuôi thì tránh được hình”, tức đổi tên, làm con thừa tự hoặc gửi nuôi ở nhà người khác thì hai bên lại mỗi bên một yên. Cùng Tử Vi thì “không hình”, tức không có chuyện cản trở nhau; cùng Vũ Khúc, Liêm Trinh thì chuyện này đến sớm hơn. Phá Quân ở cung Ngọ nhập miếu lại thêm cát tinh, thầy Nghê nói là “Anh tinh nhập miếu thêm cát”, “nhận được tổ nghiệp của cha cô ấy”, lúc này không đoán theo hướng ly tán. Quan hệ với cấp trên cũng lên lên xuống xuống, khó ở dưới một người lâu dài."
+  ],
+  "canCu": [
+   "Phá Quân vào Phụ Mẫu — duyên cha mẹ mỏng, quan hệ cha mẹ con cái hay đổi.",
+   "Phá Quân với quyền uy — đổi cấp trên thường xuyên, khó hợp tác lâu dài."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Phá Quân chủ về gì",
+    "dich": "Ở Phụ Mẫu thì phá tướng, hình khắc.",
+    "goc": "在父母破相刑克"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Phá Quân khắc sớm, rời tổ; đổi tên, gửi nuôi thì tránh được hình; cùng Vũ Khúc thì khắc sớm; cùng Liêm Trinh cũng khắc sớm; cùng Tử Vi thì không hình.",
+    "goc": "破军克早离祖，更名寄养免刑，武曲同克早，廉贞同亦早克，紫微同无刑。"
+   },
+   {
+    "nguon": "Nghê Hải Hạ, Thiên Kỷ, tập 21, 17:32",
+    "dich": "Nhưng Phá Quân ở giờ Ngọ thấy không — giờ Ngọ là Anh tinh nhập miếu thêm cát, nên Thái Dương ở cung Thân của cô ấy, nhận được tổ nghiệp của cha cô ấy.",
+    "goc": "可是破军星是在午时看到没有，午时是英星入庙加吉，所以她太阳身，能够承受她父亲的祖业业下来"
+   }
+  ]
+ },
+ "天机+太阴": {
+  "dinhDieu": "Thiên Cơ ở cung Phụ Mẫu: cha mẹ thông minh, nhà coi trọng học thức.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Phụ Mẫu: cha mẹ thông minh, giáo dục trong nhà coi trọng học thức. Sách xưa chia hai trường hợp: nhập miếu (sao mạnh) thì giữa con với cha mẹ không có tổn thương hay chia lìa gì; hãm lại gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, sách xưa nói “ở nhờ họ khác, bái lại cha mẹ, hoặc làm con nuôi, ở rể”, tức ở nhờ nhà người khác, nhận cha mẹ nuôi, hoặc làm con thừa tự, ở rể — phần nhiều là các trường hợp sớm rời cha mẹ, lớn lên cùng người lớn khác, không cần nghĩ theo hướng xấu. Cùng cung Thái Âm, Thiên Lương mà không có sát tinh, sách xưa nói “cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình”, thêm sát tinh thì “cũng không tránh được hình thương”; cùng Cự Môn thì “Cự Môn hình sớm”, tuổi nhỏ với cha mẹ đã có cản trở. Giao tiếp với cha mẹ nên linh hoạt một chút."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Phụ Mẫu — cha mẹ thông minh, giáo dục coi trọng trí thức.",
+   "Thiên Cơ gặp Không Kiếp ở Phụ Mẫu — quan hệ với cha mẹ xa cách, duyên mỏng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Cơ Miếu Vượng thì không hình; ở đất hãm gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở nhờ họ khác, bái lại cha mẹ, hoặc làm con nuôi, ở rể. Cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình, đều cần không có sát; nếu có sát thêm vào thì cũng không tránh được hình thương; (cùng) Cự Môn thì hình sớm.",
+    "goc": "天机庙旺无刑，陷地逢羊陀火铃空劫，二姓寄居，重拜父母，或过房入赘；太阴同免刑，天梁同无刑，俱要无杀，加有杀，加也不免刑伤，巨门早刑。"
+   }
+  ]
+ },
+ "廉贞+贪狼": {
+  "dinhDieu": "Liêm Trinh ở cung Phụ Mẫu: duyên với cha mẹ hơi mỏng; cùng Thiên Phủ mới tránh được tầng cản trở này.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phụ Mẫu: “khó làm cha mẹ”, tức duyên với bề trên mỏng sẵn một lớp; cách của người xưa là “bái lại”, tức nhận cha mẹ nuôi, làm con thừa tự, để làm dịu bớt; cùng Tham Lang, Phá Quân thì sớm đã có cản trở; cùng Thất Sát thì cô đơn, dễ làm tổn thương nhau; chỉ cùng Thiên Phủ thì tránh được tầng cản trở này; thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên cha mẹ không trọn. Điều này nói về duyên dày mỏng, gặp ít xa nhiều, không phải đoán chắc sẽ có tai bệnh. Trong thực tế phần nhiều biểu hiện ở chỗ giữa cha mẹ con cái nhiều “kịch” tình cảm, hai bên đều cần giữ chút khoảng cách."
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phụ Mẫu — cha mẹ nhiều tài, nặng tình, gia giáo mang màu cảm xúc.",
+   "Liêm Trinh hội Hỏa Linh — bề trên tính nóng nảy, quan hệ căng thẳng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Liêm Trinh khó làm cha mẹ, nên bái lại; cùng Tham Lang thì hình sớm; Thất Sát thì cô khắc; cùng Thiên Phủ thì tránh được hình; cùng Phá Quân thì hình sớm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn vẹn.",
+    "goc": "廉贞难为父母，祖重拜，贪狼同早刑，七杀孤克，天府同免刑，破军同早刑，加羊陀火铃空劫，父母不周全。"
+   }
+  ]
+ },
+ "太阳+天梁": {
+  "dinhDieu": "Thái Dương ở cung Phụ Mẫu: Thái Dương xem cha; duyên dày hay mỏng xem độ sáng của Thái Dương, sao cùng cung và sát tinh.",
+  "canCu": [
+   "Thái Dương vào Phụ Mẫu — cha và cấp trên phần nhiều phát huy ảnh hưởng ở nơi công cộng.",
+   "Thái Dương ở Phụ Mẫu nhập miếu — cha có địa vị xã hội cao, là quý nhân quan trọng.",
+   "Thái Dương ở Phụ Mẫu hãm — sách xưa nói “ở đất hãm thì khắc cha”, chủ khắc cha trước."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Ở cung Phụ Mẫu, với nam chỉ làm sao cha; có ánh sáng thì tốt, không ánh sáng thì khắc cha.",
+    "goc": "父母宫男子单作父星，有辉则吉，无辉克父。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Phàm xem cha mẹ thì lấy Thái Dương làm cha, Thái Âm làm mẹ. Thái Dương ở cung hãm chủ khắc cha trước, Thái Âm ở cung hãm chủ khắc mẹ trước. Nếu hai sao đều ở đất hãm thì chỉ lấy giờ sinh của người đó: sinh ngày chủ cha còn, sinh đêm chủ mẹ còn. Thái Dương nhập miếu thì không khắc, ở đất hãm thì khắc cha; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì khắc cha mẹ sớm. Cùng Cự Môn thêm tứ sát, Không Kiếp thì khắc sớm; cùng Thiên Lương thì không hình.",
+    "goc": "凡看父母以太阳星为父，太阴星为母。太阳在陷宫主先克父，太阴星在陷宫主先克母。如二星具在陷地，只以人之本生时，日生者主父存，夜生者主母在。太阳入庙无克，陷地克父，加羊陀火铃空劫克父母早；巨门同加四杀空劫早克，天梁同无刑。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thái Âm, Thiên Lương, Cự Môn)",
+    "dich": "Cùng Thái Dương không có tứ sát thì cha mẹ song toàn; cùng Thái Dương thì khắc muộn, thêm tứ sát, Không Kiếp thì cũng khắc sớm; cùng Thái Dương thì ít hòa.",
+    "goc": "太阳同无四杀父母双全；太阳同克迟，加四杀空劫亦克早；太阳同少和"
+   },
+   {
+    "nguon": "Nghê Hải Hạ, Thiên Kỷ, tập 11, 13:06",
+    "dich": "Đây gọi là lục thân không nhờ được, không nhờ được cha mẹ — Nhật Nguyệt phản bối.",
+    "goc": "这叫做六亲不靠，靠不到父母亲日月反背"
+   }
+  ]
+ },
+ "廉贞+天相": {
+  "dinhDieu": "Liêm Trinh ở cung Phụ Mẫu: duyên với cha mẹ hơi mỏng; cùng Thiên Phủ mới tránh được tầng cản trở này.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phụ Mẫu: “khó làm cha mẹ”, tức duyên với bề trên mỏng sẵn một lớp; cách của người xưa là “bái lại”, tức nhận cha mẹ nuôi, làm con thừa tự, để làm dịu bớt; cùng Tham Lang, Phá Quân thì sớm đã có cản trở; cùng Thất Sát thì cô đơn, dễ làm tổn thương nhau; chỉ cùng Thiên Phủ thì tránh được tầng cản trở này; thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên cha mẹ không trọn. Điều này nói về duyên dày mỏng, gặp ít xa nhiều, không phải đoán chắc sẽ có tai bệnh. Trong thực tế phần nhiều biểu hiện ở chỗ giữa cha mẹ con cái nhiều “kịch” tình cảm, hai bên đều cần giữ chút khoảng cách."
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phụ Mẫu — cha mẹ nhiều tài, nặng tình, gia giáo mang màu cảm xúc.",
+   "Liêm Trinh hội Hỏa Linh — bề trên tính nóng nảy, quan hệ căng thẳng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Liêm Trinh khó làm cha mẹ, nên bái lại; cùng Tham Lang thì hình sớm; Thất Sát thì cô khắc; cùng Thiên Phủ thì tránh được hình; cùng Phá Quân thì hình sớm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn vẹn.",
+    "goc": "廉贞难为父母，祖重拜，贪狼同早刑，七杀孤克，天府同免刑，破军同早刑，加羊陀火铃空劫，父母不周全。"
+   }
+  ]
+ },
+ "太阳+太阴": {
+  "dinhDieu": "Thái Dương ở cung Phụ Mẫu: Thái Dương xem cha; duyên dày hay mỏng xem độ sáng của Thái Dương, sao cùng cung và sát tinh.",
+  "canCu": [
+   "Thái Dương vào Phụ Mẫu — cha và cấp trên phần nhiều phát huy ảnh hưởng ở nơi công cộng.",
+   "Thái Dương ở Phụ Mẫu nhập miếu — cha có địa vị xã hội cao, là quý nhân quan trọng.",
+   "Thái Dương ở Phụ Mẫu hãm — sách xưa nói “ở đất hãm thì khắc cha”, chủ khắc cha trước."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Ở cung Phụ Mẫu, với nam chỉ làm sao cha; có ánh sáng thì tốt, không ánh sáng thì khắc cha.",
+    "goc": "父母宫男子单作父星，有辉则吉，无辉克父。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Phàm xem cha mẹ thì lấy Thái Dương làm cha, Thái Âm làm mẹ. Thái Dương ở cung hãm chủ khắc cha trước, Thái Âm ở cung hãm chủ khắc mẹ trước. Nếu hai sao đều ở đất hãm thì chỉ lấy giờ sinh của người đó: sinh ngày chủ cha còn, sinh đêm chủ mẹ còn. Thái Dương nhập miếu thì không khắc, ở đất hãm thì khắc cha; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì khắc cha mẹ sớm. Cùng Cự Môn thêm tứ sát, Không Kiếp thì khắc sớm; cùng Thiên Lương thì không hình.",
+    "goc": "凡看父母以太阳星为父，太阴星为母。太阳在陷宫主先克父，太阴星在陷宫主先克母。如二星具在陷地，只以人之本生时，日生者主父存，夜生者主母在。太阳入庙无克，陷地克父，加羊陀火铃空劫克父母早；巨门同加四杀空劫早克，天梁同无刑。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thái Âm, Thiên Lương, Cự Môn)",
+    "dich": "Cùng Thái Dương không có tứ sát thì cha mẹ song toàn; cùng Thái Dương thì khắc muộn, thêm tứ sát, Không Kiếp thì cũng khắc sớm; cùng Thái Dương thì ít hòa.",
+    "goc": "太阳同无四杀父母双全；太阳同克迟，加四杀空劫亦克早；太阳同少和"
+   },
+   {
+    "nguon": "Nghê Hải Hạ, Thiên Kỷ, tập 11, 13:06",
+    "dich": "Đây gọi là lục thân không nhờ được, không nhờ được cha mẹ — Nhật Nguyệt phản bối.",
+    "goc": "这叫做六亲不靠，靠不到父母亲日月反背"
+   }
+  ]
+ },
+ "天机+天梁": {
+  "dinhDieu": "Thiên Cơ ở cung Phụ Mẫu: cha mẹ thông minh, nhà coi trọng học thức.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Phụ Mẫu: cha mẹ thông minh, giáo dục trong nhà coi trọng học thức. Sách xưa chia hai trường hợp: nhập miếu (sao mạnh) thì giữa con với cha mẹ không có tổn thương hay chia lìa gì; hãm lại gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, sách xưa nói “ở nhờ họ khác, bái lại cha mẹ, hoặc làm con nuôi, ở rể”, tức ở nhờ nhà người khác, nhận cha mẹ nuôi, hoặc làm con thừa tự, ở rể — phần nhiều là các trường hợp sớm rời cha mẹ, lớn lên cùng người lớn khác, không cần nghĩ theo hướng xấu. Cùng cung Thái Âm, Thiên Lương mà không có sát tinh, sách xưa nói “cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình”, thêm sát tinh thì “cũng không tránh được hình thương”; cùng Cự Môn thì “Cự Môn hình sớm”, tuổi nhỏ với cha mẹ đã có cản trở. Giao tiếp với cha mẹ nên linh hoạt một chút."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Phụ Mẫu — cha mẹ thông minh, giáo dục coi trọng trí thức.",
+   "Thiên Cơ gặp Không Kiếp ở Phụ Mẫu — quan hệ với cha mẹ xa cách, duyên mỏng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Cơ Miếu Vượng thì không hình; ở đất hãm gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở nhờ họ khác, bái lại cha mẹ, hoặc làm con nuôi, ở rể. Cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình, đều cần không có sát; nếu có sát thêm vào thì cũng không tránh được hình thương; (cùng) Cự Môn thì hình sớm.",
+    "goc": "天机庙旺无刑，陷地逢羊陀火铃空劫，二姓寄居，重拜父母，或过房入赘；太阴同免刑，天梁同无刑，俱要无杀，加有杀，加也不免刑伤，巨门早刑。"
+   }
+  ]
+ },
+ "廉贞+破军": {
+  "dinhDieu": "Liêm Trinh ở cung Phụ Mẫu: duyên với cha mẹ hơi mỏng; cùng Thiên Phủ mới tránh được tầng cản trở này.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phụ Mẫu: “khó làm cha mẹ”, tức duyên với bề trên mỏng sẵn một lớp; cách của người xưa là “bái lại”, tức nhận cha mẹ nuôi, làm con thừa tự, để làm dịu bớt; cùng Tham Lang, Phá Quân thì sớm đã có cản trở; cùng Thất Sát thì cô đơn, dễ làm tổn thương nhau; chỉ cùng Thiên Phủ thì tránh được tầng cản trở này; thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên cha mẹ không trọn. Điều này nói về duyên dày mỏng, gặp ít xa nhiều, không phải đoán chắc sẽ có tai bệnh. Trong thực tế phần nhiều biểu hiện ở chỗ giữa cha mẹ con cái nhiều “kịch” tình cảm, hai bên đều cần giữ chút khoảng cách."
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phụ Mẫu — cha mẹ nhiều tài, nặng tình, gia giáo mang màu cảm xúc.",
+   "Liêm Trinh hội Hỏa Linh — bề trên tính nóng nảy, quan hệ căng thẳng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Liêm Trinh khó làm cha mẹ, nên bái lại; cùng Tham Lang thì hình sớm; Thất Sát thì cô khắc; cùng Thiên Phủ thì tránh được hình; cùng Phá Quân thì hình sớm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn vẹn.",
+    "goc": "廉贞难为父母，祖重拜，贪狼同早刑，七杀孤克，天府同免刑，破军同早刑，加羊陀火铃空劫，父母不周全。"
+   }
+  ]
+ },
+ "天同+天梁": {
+  "dinhDieu": "Thiên Đồng ở cung Phụ Mẫu: cha mẹ ôn hòa, dễ sống chung.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Phụ Mẫu: cha mẹ tính ôn hòa dễ tính, sống chung nhẹ nhàng; cấp trên cũng khá dễ nói chuyện, ít cảm giác bị đè nén. Sách nói Thiên Đồng một mình ngồi cung này lại nhập miếu (sao mạnh) thì duyên cha mẹ con cái không dễ có chuyện; cùng Thái Âm thì cha mẹ song toàn; cùng Thiên Lương thì hoặc không cản trở nhau, hoặc không giữ được gia nghiệp tổ tiên; cùng Cự Môn thì không hợp lắm. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên với cha mẹ không được trọn; xưa gọi là “bái lại cha mẹ”, tức nhận cha mẹ nuôi, làm con thừa tự, hoặc lúc nhỏ do người khác nuôi lớn."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Phụ Mẫu — cha mẹ phần nhiều ôn hòa, gia giáo thoải mái.",
+   "Thiên Đồng hội lục sát — sức khỏe cha mẹ bị tổn, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Đồng một mình thủ Miếu Vượng thì không hình; thêm tứ sát thì bái lại cha mẹ; cùng Cự Môn thì kém hòa; cùng Thái Âm thì cha mẹ song toàn; cùng Thiên Lương thì không hình hoặc lùi tổ nghiệp; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn.",
+    "goc": "天同独守庙旺无刑，加四杀重拜父母，巨门同欠和太阴同父母双全，天梁同无刑或退祖业，加羊陀火铃空劫父母不全。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thái Âm, Cự Môn, Thiên Lương)",
+    "dich": "Cùng Thiên Đồng thì rất đẹp; cùng Thiên Đồng thì hoặc lùi của tổ, không hình; cùng Thiên Đồng thêm tứ sát thì có hình, không có sát thì không hình.",
+    "goc": "天同同极美；天同同或退祖无刑；天同同加四杀有刑，无杀无刑"
+   }
+  ]
+ },
+ "紫微+破军": {
+  "dinhDieu": "Tử Vi ở cung Phụ Mẫu: sách xưa nói “Tử Vi không khắc”; duyên với cha mẹ không mỏng, cha mẹ có uy vọng, đáng nương tựa.",
+  "cotLoi": [
+   "Tử Vi ở cung Phụ Mẫu: sách xưa chỉ cho hai chữ “không khắc”, tức duyên với cha mẹ không dễ xảy ra tổn thương hay chia lìa sớm; cùng cung Thiên Phủ, Thiên Tướng, Tham Lang mà không có sát tinh thêm vào thì cũng không có tầng tổn thương này — đây là điều quan trọng nhất của cung này. Cha mẹ thường có địa vị hoặc khí thế rất mạnh, kỳ vọng nhiều ở con; với cấp trên, bề trên cũng luôn mang chút không khí cấp trên — cấp dưới, nên giữ chút kính trọng trong thái độ. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên bị giảm, dễ xa cách; cùng Phá Quân thì sự xa cách này đến sớm hơn."
+  ],
+  "canCu": [
+   "Tử Vi vào Phụ Mẫu — cha hoặc bề trên mang khí sao đế, có uy quyền.",
+   "Tử Vi hội lục sát ở Phụ Mẫu — cha, bề trên mạnh mẽ khó gần, cần giữ khoảng cách."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Tử Vi không khắc; cùng Thiên Phủ cũng không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp cũng khắc; cùng Thiên Tướng thì không hình; cùng Tham Lang không có sát thêm cũng không hình; cùng Phá Quân thì khắc sớm.",
+    "goc": "紫微无克，天府同亦无刑，加羊陀火铃空劫亦克，天相同无刑，贪狼同无杀加亦无刑，破军同早克。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thất Sát, mục Phá Quân)",
+    "dich": "Cùng Tử Vi thêm cát tinh thì không hình; cùng Tử Vi thì không hình.",
+    "goc": "紫微同加吉星无刑；紫微同无刑"
+   }
+  ]
+ },
+ "武曲+天相": {
+  "dinhDieu": "Cha mẹ tính cứng rắn, duyên thời nhỏ hơi mỏng.",
+  "canCu": [
+   "Vũ Khúc vào Phụ Mẫu — cha mẹ phần nhiều cương nghị thực tế, gia giáo khá nghiêm.",
+   "Vũ Khúc gặp sát — cha mẹ sức khỏe hay mệt nhọc, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Vũ Khúc khắc sớm; lùi tổ nghiệp thì không hình; cùng Tham Lang thì hình khắc; cùng Thất Sát thì có hình; cùng Thiên Tướng thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì hình thương.",
+    "goc": "武曲克早，退祖业不刑，贪狼同刑克，七杀同有刑，天相同加羊陀火铃空劫刑伤。"
+   }
+  ]
+ },
+ "天同+巨门": {
+  "dinhDieu": "Thiên Đồng ở cung Phụ Mẫu: cha mẹ ôn hòa, dễ sống chung.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Phụ Mẫu: cha mẹ tính ôn hòa dễ tính, sống chung nhẹ nhàng; cấp trên cũng khá dễ nói chuyện, ít cảm giác bị đè nén. Sách nói Thiên Đồng một mình ngồi cung này lại nhập miếu (sao mạnh) thì duyên cha mẹ con cái không dễ có chuyện; cùng Thái Âm thì cha mẹ song toàn; cùng Thiên Lương thì hoặc không cản trở nhau, hoặc không giữ được gia nghiệp tổ tiên; cùng Cự Môn thì không hợp lắm. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên với cha mẹ không được trọn; xưa gọi là “bái lại cha mẹ”, tức nhận cha mẹ nuôi, làm con thừa tự, hoặc lúc nhỏ do người khác nuôi lớn."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Phụ Mẫu — cha mẹ phần nhiều ôn hòa, gia giáo thoải mái.",
+   "Thiên Đồng hội lục sát — sức khỏe cha mẹ bị tổn, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Đồng một mình thủ Miếu Vượng thì không hình; thêm tứ sát thì bái lại cha mẹ; cùng Cự Môn thì kém hòa; cùng Thái Âm thì cha mẹ song toàn; cùng Thiên Lương thì không hình hoặc lùi tổ nghiệp; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn.",
+    "goc": "天同独守庙旺无刑，加四杀重拜父母，巨门同欠和太阴同父母双全，天梁同无刑或退祖业，加羊陀火铃空劫父母不全。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thái Âm, Cự Môn, Thiên Lương)",
+    "dich": "Cùng Thiên Đồng thì rất đẹp; cùng Thiên Đồng thì hoặc lùi của tổ, không hình; cùng Thiên Đồng thêm tứ sát thì có hình, không có sát thì không hình.",
+    "goc": "天同同极美；天同同或退祖无刑；天同同加四杀有刑，无杀无刑"
+   }
+  ]
+ },
+ "天机+巨门": {
+  "dinhDieu": "Thiên Cơ ở cung Phụ Mẫu: cha mẹ thông minh, nhà coi trọng học thức.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Phụ Mẫu: cha mẹ thông minh, giáo dục trong nhà coi trọng học thức. Sách xưa chia hai trường hợp: nhập miếu (sao mạnh) thì giữa con với cha mẹ không có tổn thương hay chia lìa gì; hãm lại gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, sách xưa nói “ở nhờ họ khác, bái lại cha mẹ, hoặc làm con nuôi, ở rể”, tức ở nhờ nhà người khác, nhận cha mẹ nuôi, hoặc làm con thừa tự, ở rể — phần nhiều là các trường hợp sớm rời cha mẹ, lớn lên cùng người lớn khác, không cần nghĩ theo hướng xấu. Cùng cung Thái Âm, Thiên Lương mà không có sát tinh, sách xưa nói “cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình”, thêm sát tinh thì “cũng không tránh được hình thương”; cùng Cự Môn thì “Cự Môn hình sớm”, tuổi nhỏ với cha mẹ đã có cản trở. Giao tiếp với cha mẹ nên linh hoạt một chút."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Phụ Mẫu — cha mẹ thông minh, giáo dục coi trọng trí thức.",
+   "Thiên Cơ gặp Không Kiếp ở Phụ Mẫu — quan hệ với cha mẹ xa cách, duyên mỏng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Cơ Miếu Vượng thì không hình; ở đất hãm gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở nhờ họ khác, bái lại cha mẹ, hoặc làm con nuôi, ở rể. Cùng Thái Âm thì tránh được hình, cùng Thiên Lương thì không hình, đều cần không có sát; nếu có sát thêm vào thì cũng không tránh được hình thương; (cùng) Cự Môn thì hình sớm.",
+    "goc": "天机庙旺无刑，陷地逢羊陀火铃空劫，二姓寄居，重拜父母，或过房入赘；太阴同免刑，天梁同无刑，俱要无杀，加有杀，加也不免刑伤，巨门早刑。"
+   }
+  ]
+ },
+ "太阳+巨门": {
+  "dinhDieu": "Thái Dương ở cung Phụ Mẫu: Thái Dương xem cha; duyên dày hay mỏng xem độ sáng của Thái Dương, sao cùng cung và sát tinh.",
+  "canCu": [
+   "Thái Dương vào Phụ Mẫu — cha và cấp trên phần nhiều phát huy ảnh hưởng ở nơi công cộng.",
+   "Thái Dương ở Phụ Mẫu nhập miếu — cha có địa vị xã hội cao, là quý nhân quan trọng.",
+   "Thái Dương ở Phụ Mẫu hãm — sách xưa nói “ở đất hãm thì khắc cha”, chủ khắc cha trước."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Ở cung Phụ Mẫu, với nam chỉ làm sao cha; có ánh sáng thì tốt, không ánh sáng thì khắc cha.",
+    "goc": "父母宫男子单作父星，有辉则吉，无辉克父。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Phàm xem cha mẹ thì lấy Thái Dương làm cha, Thái Âm làm mẹ. Thái Dương ở cung hãm chủ khắc cha trước, Thái Âm ở cung hãm chủ khắc mẹ trước. Nếu hai sao đều ở đất hãm thì chỉ lấy giờ sinh của người đó: sinh ngày chủ cha còn, sinh đêm chủ mẹ còn. Thái Dương nhập miếu thì không khắc, ở đất hãm thì khắc cha; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì khắc cha mẹ sớm. Cùng Cự Môn thêm tứ sát, Không Kiếp thì khắc sớm; cùng Thiên Lương thì không hình.",
+    "goc": "凡看父母以太阳星为父，太阴星为母。太阳在陷宫主先克父，太阴星在陷宫主先克母。如二星具在陷地，只以人之本生时，日生者主父存，夜生者主母在。太阳入庙无克，陷地克父，加羊陀火铃空劫克父母早；巨门同加四杀空劫早克，天梁同无刑。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thái Âm, Thiên Lương, Cự Môn)",
+    "dich": "Cùng Thái Dương không có tứ sát thì cha mẹ song toàn; cùng Thái Dương thì khắc muộn, thêm tứ sát, Không Kiếp thì cũng khắc sớm; cùng Thái Dương thì ít hòa.",
+    "goc": "太阳同无四杀父母双全；太阳同克迟，加四杀空劫亦克早；太阳同少和"
+   },
+   {
+    "nguon": "Nghê Hải Hạ, Thiên Kỷ, tập 11, 13:06",
+    "dich": "Đây gọi là lục thân không nhờ được, không nhờ được cha mẹ — Nhật Nguyệt phản bối.",
+    "goc": "这叫做六亲不靠，靠不到父母亲日月反背"
+   }
+  ]
+ },
+ "武曲+贪狼": {
+  "dinhDieu": "Cha mẹ tính cứng rắn, duyên thời nhỏ hơi mỏng.",
+  "canCu": [
+   "Vũ Khúc vào Phụ Mẫu — cha mẹ phần nhiều cương nghị thực tế, gia giáo khá nghiêm.",
+   "Vũ Khúc gặp sát — cha mẹ sức khỏe hay mệt nhọc, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Vũ Khúc khắc sớm; lùi tổ nghiệp thì không hình; cùng Tham Lang thì hình khắc; cùng Thất Sát thì có hình; cùng Thiên Tướng thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì hình thương.",
+    "goc": "武曲克早，退祖业不刑，贪狼同刑克，七杀同有刑，天相同加羊陀火铃空劫刑伤。"
+   }
+  ]
+ },
+ "紫微+贪狼": {
+  "dinhDieu": "Tử Vi ở cung Phụ Mẫu: sách xưa nói “Tử Vi không khắc”; duyên với cha mẹ không mỏng, cha mẹ có uy vọng, đáng nương tựa.",
+  "cotLoi": [
+   "Tử Vi ở cung Phụ Mẫu: sách xưa chỉ cho hai chữ “không khắc”, tức duyên với cha mẹ không dễ xảy ra tổn thương hay chia lìa sớm; cùng cung Thiên Phủ, Thiên Tướng, Tham Lang mà không có sát tinh thêm vào thì cũng không có tầng tổn thương này — đây là điều quan trọng nhất của cung này. Cha mẹ thường có địa vị hoặc khí thế rất mạnh, kỳ vọng nhiều ở con; với cấp trên, bề trên cũng luôn mang chút không khí cấp trên — cấp dưới, nên giữ chút kính trọng trong thái độ. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên bị giảm, dễ xa cách; cùng Phá Quân thì sự xa cách này đến sớm hơn."
+  ],
+  "canCu": [
+   "Tử Vi vào Phụ Mẫu — cha hoặc bề trên mang khí sao đế, có uy quyền.",
+   "Tử Vi hội lục sát ở Phụ Mẫu — cha, bề trên mạnh mẽ khó gần, cần giữ khoảng cách."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Tử Vi không khắc; cùng Thiên Phủ cũng không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp cũng khắc; cùng Thiên Tướng thì không hình; cùng Tham Lang không có sát thêm cũng không hình; cùng Phá Quân thì khắc sớm.",
+    "goc": "紫微无克，天府同亦无刑，加羊陀火铃空劫亦克，天相同无刑，贪狼同无杀加亦无刑，破军同早克。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thất Sát, mục Phá Quân)",
+    "dich": "Cùng Tử Vi thêm cát tinh thì không hình; cùng Tử Vi thì không hình.",
+    "goc": "紫微同加吉星无刑；紫微同无刑"
+   }
+  ]
+ },
+ "武曲+七杀": {
+  "dinhDieu": "Cha mẹ tính cứng rắn, duyên thời nhỏ hơi mỏng.",
+  "canCu": [
+   "Vũ Khúc vào Phụ Mẫu — cha mẹ phần nhiều cương nghị thực tế, gia giáo khá nghiêm.",
+   "Vũ Khúc gặp sát — cha mẹ sức khỏe hay mệt nhọc, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Vũ Khúc khắc sớm; lùi tổ nghiệp thì không hình; cùng Tham Lang thì hình khắc; cùng Thất Sát thì có hình; cùng Thiên Tướng thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì hình thương.",
+    "goc": "武曲克早，退祖业不刑，贪狼同刑克，七杀同有刑，天相同加羊陀火铃空劫刑伤。"
+   }
+  ]
+ },
+ "廉贞+天府": {
+  "dinhDieu": "Liêm Trinh ở cung Phụ Mẫu: duyên với cha mẹ hơi mỏng; cùng Thiên Phủ mới tránh được tầng cản trở này.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phụ Mẫu: “khó làm cha mẹ”, tức duyên với bề trên mỏng sẵn một lớp; cách của người xưa là “bái lại”, tức nhận cha mẹ nuôi, làm con thừa tự, để làm dịu bớt; cùng Tham Lang, Phá Quân thì sớm đã có cản trở; cùng Thất Sát thì cô đơn, dễ làm tổn thương nhau; chỉ cùng Thiên Phủ thì tránh được tầng cản trở này; thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên cha mẹ không trọn. Điều này nói về duyên dày mỏng, gặp ít xa nhiều, không phải đoán chắc sẽ có tai bệnh. Trong thực tế phần nhiều biểu hiện ở chỗ giữa cha mẹ con cái nhiều “kịch” tình cảm, hai bên đều cần giữ chút khoảng cách."
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phụ Mẫu — cha mẹ nhiều tài, nặng tình, gia giáo mang màu cảm xúc.",
+   "Liêm Trinh hội Hỏa Linh — bề trên tính nóng nảy, quan hệ căng thẳng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Liêm Trinh khó làm cha mẹ, nên bái lại; cùng Tham Lang thì hình sớm; Thất Sát thì cô khắc; cùng Thiên Phủ thì tránh được hình; cùng Phá Quân thì hình sớm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn vẹn.",
+    "goc": "廉贞难为父母，祖重拜，贪狼同早刑，七杀孤克，天府同免刑，破军同早刑，加羊陀火铃空劫，父母不周全。"
+   }
+  ]
+ },
+ "天同+太阴": {
+  "dinhDieu": "Thiên Đồng ở cung Phụ Mẫu: cha mẹ ôn hòa, dễ sống chung.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Phụ Mẫu: cha mẹ tính ôn hòa dễ tính, sống chung nhẹ nhàng; cấp trên cũng khá dễ nói chuyện, ít cảm giác bị đè nén. Sách nói Thiên Đồng một mình ngồi cung này lại nhập miếu (sao mạnh) thì duyên cha mẹ con cái không dễ có chuyện; cùng Thái Âm thì cha mẹ song toàn; cùng Thiên Lương thì hoặc không cản trở nhau, hoặc không giữ được gia nghiệp tổ tiên; cùng Cự Môn thì không hợp lắm. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên với cha mẹ không được trọn; xưa gọi là “bái lại cha mẹ”, tức nhận cha mẹ nuôi, làm con thừa tự, hoặc lúc nhỏ do người khác nuôi lớn."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Phụ Mẫu — cha mẹ phần nhiều ôn hòa, gia giáo thoải mái.",
+   "Thiên Đồng hội lục sát — sức khỏe cha mẹ bị tổn, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Thiên Đồng một mình thủ Miếu Vượng thì không hình; thêm tứ sát thì bái lại cha mẹ; cùng Cự Môn thì kém hòa; cùng Thái Âm thì cha mẹ song toàn; cùng Thiên Lương thì không hình hoặc lùi tổ nghiệp; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn.",
+    "goc": "天同独守庙旺无刑，加四杀重拜父母，巨门同欠和太阴同父母双全，天梁同无刑或退祖业，加羊陀火铃空劫父母不全。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thái Âm, Cự Môn, Thiên Lương)",
+    "dich": "Cùng Thiên Đồng thì rất đẹp; cùng Thiên Đồng thì hoặc lùi của tổ, không hình; cùng Thiên Đồng thêm tứ sát thì có hình, không có sát thì không hình.",
+    "goc": "天同同极美；天同同或退祖无刑；天同同加四杀有刑，无杀无刑"
+   }
+  ]
+ },
+ "廉贞+七杀": {
+  "dinhDieu": "Liêm Trinh ở cung Phụ Mẫu: duyên với cha mẹ hơi mỏng; cùng Thiên Phủ mới tránh được tầng cản trở này.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phụ Mẫu: “khó làm cha mẹ”, tức duyên với bề trên mỏng sẵn một lớp; cách của người xưa là “bái lại”, tức nhận cha mẹ nuôi, làm con thừa tự, để làm dịu bớt; cùng Tham Lang, Phá Quân thì sớm đã có cản trở; cùng Thất Sát thì cô đơn, dễ làm tổn thương nhau; chỉ cùng Thiên Phủ thì tránh được tầng cản trở này; thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên cha mẹ không trọn. Điều này nói về duyên dày mỏng, gặp ít xa nhiều, không phải đoán chắc sẽ có tai bệnh. Trong thực tế phần nhiều biểu hiện ở chỗ giữa cha mẹ con cái nhiều “kịch” tình cảm, hai bên đều cần giữ chút khoảng cách."
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phụ Mẫu — cha mẹ nhiều tài, nặng tình, gia giáo mang màu cảm xúc.",
+   "Liêm Trinh hội Hỏa Linh — bề trên tính nóng nảy, quan hệ căng thẳng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Liêm Trinh khó làm cha mẹ, nên bái lại; cùng Tham Lang thì hình sớm; Thất Sát thì cô khắc; cùng Thiên Phủ thì tránh được hình; cùng Phá Quân thì hình sớm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cha mẹ không trọn vẹn.",
+    "goc": "廉贞难为父母，祖重拜，贪狼同早刑，七杀孤克，天府同免刑，破军同早刑，加羊陀火铃空劫，父母不周全。"
+   }
+  ]
+ },
+ "紫微+天府": {
+  "dinhDieu": "Tử Vi ở cung Phụ Mẫu: sách xưa nói “Tử Vi không khắc”; duyên với cha mẹ không mỏng, cha mẹ có uy vọng, đáng nương tựa.",
+  "cotLoi": [
+   "Tử Vi ở cung Phụ Mẫu: sách xưa chỉ cho hai chữ “không khắc”, tức duyên với cha mẹ không dễ xảy ra tổn thương hay chia lìa sớm; cùng cung Thiên Phủ, Thiên Tướng, Tham Lang mà không có sát tinh thêm vào thì cũng không có tầng tổn thương này — đây là điều quan trọng nhất của cung này. Cha mẹ thường có địa vị hoặc khí thế rất mạnh, kỳ vọng nhiều ở con; với cấp trên, bề trên cũng luôn mang chút không khí cấp trên — cấp dưới, nên giữ chút kính trọng trong thái độ. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên bị giảm, dễ xa cách; cùng Phá Quân thì sự xa cách này đến sớm hơn."
+  ],
+  "canCu": [
+   "Tử Vi vào Phụ Mẫu — cha hoặc bề trên mang khí sao đế, có uy quyền.",
+   "Tử Vi hội lục sát ở Phụ Mẫu — cha, bề trên mạnh mẽ khó gần, cần giữ khoảng cách."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Tử Vi không khắc; cùng Thiên Phủ cũng không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp cũng khắc; cùng Thiên Tướng thì không hình; cùng Tham Lang không có sát thêm cũng không hình; cùng Phá Quân thì khắc sớm.",
+    "goc": "紫微无克，天府同亦无刑，加羊陀火铃空劫亦克，天相同无刑，贪狼同无杀加亦无刑，破军同早克。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thất Sát, mục Phá Quân)",
+    "dich": "Cùng Tử Vi thêm cát tinh thì không hình; cùng Tử Vi thì không hình.",
+    "goc": "紫微同加吉星无刑；紫微同无刑"
+   }
+  ]
+ },
+ "武曲+破军": {
+  "dinhDieu": "Cha mẹ tính cứng rắn, duyên thời nhỏ hơi mỏng.",
+  "canCu": [
+   "Vũ Khúc vào Phụ Mẫu — cha mẹ phần nhiều cương nghị thực tế, gia giáo khá nghiêm.",
+   "Vũ Khúc gặp sát — cha mẹ sức khỏe hay mệt nhọc, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Vũ Khúc khắc sớm; lùi tổ nghiệp thì không hình; cùng Tham Lang thì hình khắc; cùng Thất Sát thì có hình; cùng Thiên Tướng thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì hình thương.",
+    "goc": "武曲克早，退祖业不刑，贪狼同刑克，七杀同有刑，天相同加羊陀火铃空劫刑伤。"
+   }
+  ]
+ },
+ "紫微+七杀": {
+  "dinhDieu": "Tử Vi ở cung Phụ Mẫu: sách xưa nói “Tử Vi không khắc”; duyên với cha mẹ không mỏng, cha mẹ có uy vọng, đáng nương tựa.",
+  "cotLoi": [
+   "Tử Vi ở cung Phụ Mẫu: sách xưa chỉ cho hai chữ “không khắc”, tức duyên với cha mẹ không dễ xảy ra tổn thương hay chia lìa sớm; cùng cung Thiên Phủ, Thiên Tướng, Tham Lang mà không có sát tinh thêm vào thì cũng không có tầng tổn thương này — đây là điều quan trọng nhất của cung này. Cha mẹ thường có địa vị hoặc khí thế rất mạnh, kỳ vọng nhiều ở con; với cấp trên, bề trên cũng luôn mang chút không khí cấp trên — cấp dưới, nên giữ chút kính trọng trong thái độ. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên bị giảm, dễ xa cách; cùng Phá Quân thì sự xa cách này đến sớm hơn."
+  ],
+  "canCu": [
+   "Tử Vi vào Phụ Mẫu — cha hoặc bề trên mang khí sao đế, có uy quyền.",
+   "Tử Vi hội lục sát ở Phụ Mẫu — cha, bề trên mạnh mẽ khó gần, cần giữ khoảng cách."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Tử Vi không khắc; cùng Thiên Phủ cũng không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp cũng khắc; cùng Thiên Tướng thì không hình; cùng Tham Lang không có sát thêm cũng không hình; cùng Phá Quân thì khắc sớm.",
+    "goc": "紫微无克，天府同亦无刑，加羊陀火铃空劫亦克，天相同无刑，贪狼同无杀加亦无刑，破军同早克。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thất Sát, mục Phá Quân)",
+    "dich": "Cùng Tử Vi thêm cát tinh thì không hình; cùng Tử Vi thì không hình.",
+    "goc": "紫微同加吉星无刑；紫微同无刑"
+   }
+  ]
+ },
+ "武曲+天府": {
+  "dinhDieu": "Cha mẹ tính cứng rắn, duyên thời nhỏ hơi mỏng.",
+  "canCu": [
+   "Vũ Khúc vào Phụ Mẫu — cha mẹ phần nhiều cương nghị thực tế, gia giáo khá nghiêm.",
+   "Vũ Khúc gặp sát — cha mẹ sức khỏe hay mệt nhọc, nên chủ động quan tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Vũ Khúc khắc sớm; lùi tổ nghiệp thì không hình; cùng Tham Lang thì hình khắc; cùng Thất Sát thì có hình; cùng Thiên Tướng thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì hình thương.",
+    "goc": "武曲克早，退祖业不刑，贪狼同刑克，七杀同有刑，天相同加羊陀火铃空劫刑伤。"
+   }
+  ]
+ },
+ "紫微+天相": {
+  "dinhDieu": "Tử Vi ở cung Phụ Mẫu: sách xưa nói “Tử Vi không khắc”; duyên với cha mẹ không mỏng, cha mẹ có uy vọng, đáng nương tựa.",
+  "cotLoi": [
+   "Tử Vi ở cung Phụ Mẫu: sách xưa chỉ cho hai chữ “không khắc”, tức duyên với cha mẹ không dễ xảy ra tổn thương hay chia lìa sớm; cùng cung Thiên Phủ, Thiên Tướng, Tham Lang mà không có sát tinh thêm vào thì cũng không có tầng tổn thương này — đây là điều quan trọng nhất của cung này. Cha mẹ thường có địa vị hoặc khí thế rất mạnh, kỳ vọng nhiều ở con; với cấp trên, bề trên cũng luôn mang chút không khí cấp trên — cấp dưới, nên giữ chút kính trọng trong thái độ. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì duyên bị giảm, dễ xa cách; cùng Phá Quân thì sự xa cách này đến sớm hơn."
+  ],
+  "canCu": [
+   "Tử Vi vào Phụ Mẫu — cha hoặc bề trên mang khí sao đế, có uy quyền.",
+   "Tử Vi hội lục sát ở Phụ Mẫu — cha, bề trên mạnh mẽ khó gần, cần giữ khoảng cách."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu",
+    "dich": "Tử Vi không khắc; cùng Thiên Phủ cũng không hình; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp cũng khắc; cùng Thiên Tướng thì không hình; cùng Tham Lang không có sát thêm cũng không hình; cùng Phá Quân thì khắc sớm.",
+    "goc": "紫微无克，天府同亦无刑，加羊陀火铃空劫亦克，天相同无刑，贪狼同无杀加亦无刑，破军同早克。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phụ Mẫu (mục Thất Sát, mục Phá Quân)",
+    "dich": "Cùng Tử Vi thêm cát tinh thì không hình; cùng Tử Vi thì không hình.",
+    "goc": "紫微同加吉星无刑；紫微同无刑"
+   }
+  ]
+ }
+}

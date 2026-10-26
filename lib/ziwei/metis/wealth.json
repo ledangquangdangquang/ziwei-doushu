@@ -1,0 +1,839 @@
+{
+ "紫微": {
+  "dinhDieu": "Tiền bạc đầy đủ; đi đường lương bổng chính đáng.",
+  "cotLoi": [
+   "Tử Vi ở cung Tài Bạch, sách xưa có bốn chữ “phong túc thương tương”, tức kho đựng đầy ắp, tiền gạo không thiếu, không phải chỉ có địa vị mà không có tiền; cùng cung Thiên Tướng thì tiền giữ được, cùng Phá Quân thì trước khó sau dễ. Thầy Nghê chỉ rõ tính chất của việc kiếm tiền: Tử Vi đi đường chính tài, làm cho người khác, nhận lương cố định, thu nhập theo chức vụ và địa vị mà đi lên, nên thăng chức cải thiện tài vận tốt hơn đầu cơ.",
+   "Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì không vượng lên được; lúc ấy giữ tốt hơn tấn công. Giữ chắc thu nhập chính đáng, đừng đầu cơ mạo hiểm."
+  ],
+  "canCu": [
+   "Tử Vi ở Tài Bạch — Toàn Thư quyển 2, cung Tài Bạch: “Tử Vi thì kho đựng đầy đủ, thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì không vượng”; bản thân chủ tiền gạo không thiếu, gặp sát mới không vượng.",
+   "Tử Vi, Phụ Bật ở Tài Bạch — Toàn Thư quyển 3: “Tử Vi, Phụ Bật phần nhiều là quan coi tài phú”, nói vị trí quản tiền cho người khác; quản tiền không có nghĩa tiền thuộc về bạn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Chư tinh vấn đáp luận – Tử Vi",
+    "dich": "Thân Mệnh nếu có Lộc Tồn cùng cung, Nhật Nguyệt tam hợp chiếu về, quý không nói hết (nói cung Thân Mệnh, không riêng Tài Bạch).",
+    "goc": "身命若值禄存同宫，日月三合相照，贵不可言"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Tăng bổ Thái Vi Phú",
+    "dich": "Mệnh Thân gặp Tử Phủ thì chất chồng vàng bạc; hai chủ gặp Kiếp Không thì cơm áo không đủ.",
+    "goc": "命身遇紫府迭积金银，二主逢劫空衣食不足。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Tử Vi",
+    "dich": "Tử Vi thì kho đựng đầy đủ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì không vượng; cùng Phá Quân thì trước khó sau dễ; cùng Thiên Tướng thì tiền bạc tích trữ được.",
+    "goc": "紫微丰足仓箱，加羊陀火铃空劫不旺，破军同先难后易，天相同财帛蓄积"
+   }
+  ]
+ },
+ "天机": {
+  "dinhDieu": "Kiếm tiền bằng cái đầu nhưng vất vả; lương cố định là gốc.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Tài Bạch, sách xưa nói thật: “Thiên Cơ lao tâm tốn sức mà sinh tiền”, tức tiền nhờ động não mà kiếm, lại kiếm không nhẹ nhàng; cùng cung Thiên Lương thì nhờ mẹo khéo mà kiếm thêm ngoài nghề chính; cùng Thái Âm lại hãm (sao yếu) thì thu nhập lên xuống lớn; nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì càng cả đời có thành có bại, tiền đến rồi đi, khó tích lâu dài.",
+   "Thầy Nghê phán Thiên Cơ đi đường chính tài, tức làm cho người, nhận lương cố định — đây mới là đường tiền vững nhất của Thiên Cơ; thu nhập từ tri thức, kỹ năng hay hoạch định là hợp nhất, hướng đầu tư cứ đổi qua đổi lại thì lại hao tiền. Chuyên vào một hai kênh kiếm tiền tốt hơn nhiều so với rải lưới khắp nơi."
+  ],
+  "canCu": [
+   "Thiên Cơ ở Tài Bạch — chủ trí tuệ sinh tiền, tiền đến từ sức óc, quan hệ.",
+   "Thiên Cơ + Cự Môn ở Tài Bạch — quyển 2 mục Thiên Cơ: “cùng Cự Môn thì cầu lấy giữa chốn náo nhiệt”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thiên Cơ lao tâm tốn sức mà sinh tiền; cùng Cự Môn thì cầu lấy giữa chốn náo nhiệt; cùng Thiên Lương thì mưu khéo sinh tiền ngoài; cùng Thái Âm ở cung hãm thì thành bại; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cả đời có thành có bại.",
+    "goc": "天机劳心费力生财，巨门同闹中求取，天梁同机关巧计生外财，太阴同陷宫成败，加羊陀火铃空劫一生有成有败"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Cự Môn",
+    "dich": "Cùng Thiên Cơ thì tiền và khí sinh thân, việc làm không nhất định.",
+    "goc": "天机同财气生身，所作不一"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Thiên Cơ",
+    "dich": "Thiên Cơ cùng (sao khác) thì lao tâm dùng sức phát tài không nhiều, đổi nghề mới thấy thành nhà; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì trước khó sau dễ, chỉ đủ sống qua ngày.",
+    "goc": "天机同劳心用力发财不多，更改方见成家，加羊陀火铃空劫，先难后易仅足度日。"
+   }
+  ]
+ },
+ "太阳": {
+  "dinhDieu": "Tiền của Thái Dương thuộc hoành tài, vào bao nhiêu khó biết trước.",
+  "cotLoi": [
+   "Thái Dương ở cung Tài Bạch, thầy Nghê phán Thái Dương thuộc hoành tài: “hoành tài là anh làm ăn, làm chủ”, tháng sau kiếm bao nhiêu không biết trước; Tử Vi, Thiên Cơ thuộc chính tài, “tức là làm cho người ta, nhận lương cố định gọi là chính tài” (Nghê Hải Hạ, Thiên Kỷ, tập 5, 37:18). Muốn thật sự tự làm chủ thì còn phải xem cung Tài Bạch có Quyền, Lộc gặp nhau không (Lộc Tồn cũng tính là Lộc): thầy Nghê giảng “người Quyền Lộc gặp nhau thì nhất định đi vào tài bạch, làm sự nghiệp, làm chủ” (tập 15, 19:52). Sách xưa nói “Thái Dương nhập miếu thì đầy đủ, ở cung hãm thì lao lực không toại”, tức khi nhập miếu (sao mạnh) đường tiền sáng sủa, tay rộng rãi; hãm (sao yếu) thì tiền đến rồi đi, bận rộn mà thu ít. Quyển 1 nói Thái Dương ở Tài Bạch ở đất vượng lại có cát tinh giúp thì “không sợ Cự Môn quấn, phú quý bền lâu”; cùng Cự Môn thì mục Thái Dương nói “cùng Cự Môn thì tuổi trẻ thành bại, trung niên chưa dồi dào”, tức tuổi trẻ có thành có bại, tới trung niên tay vẫn chưa rộng; mục Cự Môn lại nói “cùng Thái Dương nhập miếu thì giữ được, thành được nhà”, hai thuyết cùng tồn tại."
+  ],
+  "canCu": [
+   "Thái Dương ở Tài Bạch — tính hoành tài, tiền từ kinh doanh, việc công, độ phủ của thương hiệu.",
+   "Thái Dương hãm ở Tài Bạch — lao lực ít công, tiền đến rồi đi.",
+   "Thái Dương + Thái Âm cùng ở Tài Bạch — Toàn Thư quyển 2 cung Tài Bạch: “cùng Thái Âm thêm Tả Hữu, cát tinh thì phát tài không nhỏ”, phải có Tả Phù, Hữu Bật và cát tinh cùng tới mới luận như vậy.",
+   "Nhật Nguyệt kẹp Tài — hai cung hai bên Tài Bạch là Thái Dương, Thái Âm; Toàn Thư phần “Định phú cục”: “Nhật Nguyệt kẹp Tài — Vũ thủ Mệnh mà Nhật Nguyệt tới kẹp là vậy, cung Tài Bạch cũng thế”. Chỉ tính hai ô hai bên, tam phương hội chiếu không tính."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Chư tinh vấn đáp luận – Thái Dương",
+    "dich": "Nếu cung Tài Bạch ở đất vượng, gặp cát tinh giúp, thì không sợ Cự Môn quấn, phú quý bền lâu.",
+    "goc": "若财帛宫于旺地，会吉相助，不怕巨门缠，其富贵绵远矣"
+   },
+   {
+    "nguon": "Nghê Hải Hạ, Thiên Kỷ, tập 5, 37:18",
+    "dich": "Có một thứ gọi là hoành tài, như Thái Dương thuộc hoành tài; như Tử Vi, Thiên Cơ vừa nói đều thuộc chính tài, tức làm cho người ta, nhận lương cố định gọi là chính tài. Hoành tài là anh làm ăn làm chủ; mọi ông chủ làm ăn trên đời, lớn hay nhỏ, ông chủ tiệm tạp hóa trước cửa nhà anh, đều không biết tháng sau kiếm được bao nhiêu, đó gọi là hoành tài. Anh biết tháng sau lĩnh một vạn, đó là chính tài.",
+    "goc": "有一个叫做横财。像太阳星就是属于横财。像刚刚讲的紫微星天机星，它都属于正财。就是你帮人家做领固定的薪水叫正财。横财你做生意当老板。全世界的大生意的老板，不管是做大了做小的，你家门口的杂货店的老板，他都不知道下个月赚多少钱，那叫做横财。你知道下个月要领1万块，那个是正财。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Thái Dương",
+    "dich": "Thái Dương nhập miếu thì đầy đủ, ở cung hãm thì lao lực không toại; cùng Thái Âm thêm Tả Hữu, cát tinh thì phát tài không nhỏ; cùng Lộc Tồn thì lo nghĩ mà được tiền, đại phú; cùng Cự Môn thì tuổi trẻ thành bại, trung niên chưa dồi dào.",
+    "goc": "太阳入庙丰足，陷宫劳碌不遂，太阴同加左右吉星发财不小，禄存同操心得财玫大富，巨门同早年成败中未充盈。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Cự Môn",
+    "dich": "Cùng Thái Dương nhập miếu thì giữ được, thành được nhà; cùng Thiên Cơ thì tiền và khí sinh thân, việc làm không nhất định; cùng Thiên Đồng thì tay trắng thành nhà, người cửu lưu thì tốt; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì phá tài nhiều mối.",
+    "goc": "太阳同入庙守见成家计，天机同财气生身，所作不一，天同同白手成家，九流人吉，加羊陀火铃空劫破财多端。"
+   }
+  ]
+ },
+ "武曲": {
+  "dinhDieu": "Sao coi tiền ngồi cung coi tiền: nền tiền bạc trong tay đầy đủ.",
+  "cotLoi": [
+   "Vũ Khúc nhập miếu (nhất là ở bốn cung Mộ Thìn, Tuất, Sửu, Mùi càng vượng) thủ cung Tài Bạch: tài tinh ở đúng bản vị, phát huy tới cực điểm; là tượng “kho tiền dày dặn” thật sự, khả năng kiếm tiền và giữ tiền đều giỏi; nên lấy thực nghiệp hoặc tài sản cứng làm trục chính."
+  ],
+  "hoa": {
+   "禄": [
+    "Vũ Khúc Hóa Lộc vào Tài Bạch hoặc tam phương: tài tinh hóa Lộc tức “tài tinh được Lộc”, là cách đại phú mạnh nhất trong 14 chính tinh — thầy Nghê nói “Vũ Khúc là tài tinh”, hóa Lộc thì tài tinh lại thêm Lộc, nguồn tiền rộng mở tự tuôn vào; tài chính, thực nghiệp, quản lý tài sản, đầu tư bất động sản đều là đường tiền vượng nhất. Số được cách này nên mạnh dạn mở rộng sự nghiệp, tốc độ tích lũy của cải vượt xa người cùng lứa."
+   ],
+   "权": [
+    "Vũ Khúc Hóa Quyền vào Tài Bạch hoặc tam phương: quyền giữ tiền — bạn bẩm sinh có khả năng làm chủ, làm người cầm trịch quản tiền, quyền quyết định tài chính nắm chắc trong tay mình. Khẩu quyết xưa nói “Vũ Khúc hóa Quyền, làm chủ lập nhà”; nên tự khởi nghiệp hoặc làm giám đốc tài chính doanh nghiệp; quyền chủ động điều phối tiền bạc là mật mã tài sản lớn nhất của bạn."
+   ]
+  },
+  "canCu": [
+   "Vũ Khúc ở Tài Bạch — Toàn Thư gọi Tài Bạch, Điền Trạch là “chỗ chuyên coi” của Vũ Khúc; thành đại phú hay không còn phải đối chiếu từng điều với Phá Quân, Tham Lang, Thất Sát cùng cung và Kình Đà, Không Kiếp.",
+   "Vũ Khúc gặp Không Kiếp — quyển 2 mục Vũ Khúc: “thêm Dương, Đà, Hỏa, Linh thì không tụ, sợ nhất Không Vong”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Vũ Khúc thì đầy đủ, hóa tốt thì có gia tài bạc vạn; không có cát mà thêm (sát) thì kiếm tiền giữa chốn náo nhiệt.",
+    "goc": "武曲丰足化吉有巨万家资，无吉加闹中进财"
+   },
+   {
+    "nguon": "Chư tinh vấn đáp luận – Vũ Khúc",
+    "dich": "Vũ Khúc là sao thứ sáu Bắc Đẩu, hành Kim, là chủ cung Tài Bạch. Hi Di tiên sinh nói: Tài Bạch, Điền Trạch là chỗ chuyên coi của nó.",
+    "goc": "武曲北斗第六星，属金，乃财帛宫主；希夷先生曰：「财帛田宅为专司之所」"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 3, Luận chư tinh đồng viên",
+    "dich": "Vũ Khúc, Tham Lang ở Tài Bạch, Điền Trạch thì phát tiền của bất ngờ — kỵ Không Vong.",
+    "goc": "武曲贪狼财宅横发资财  忌空亡。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Vũ Khúc",
+    "dich": "Vũ Khúc cùng thủ cung Tỵ Hợi thì đông tới tây đi; cùng Tử Vi thì trước mất sau sinh; cùng Liêm Trinh thì lao lực sinh tiền, trước khó sau thuận; thêm Không Kiếp thì cực nghèo.",
+    "goc": "武曲同守巳亥宫，东来西去，紫微同先去后生，廉贞同劳碌生财，先难后遂，加空劫极贫。"
+   }
+  ]
+ },
+ "天同": {
+  "dinhDieu": "Thiên Đồng ở Tài Bạch: tự tay trắng kiếm tiền, phát hơi muộn.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Tài Bạch, sách nói “Thiên Đồng tay trắng sinh tiền, phát muộn”, tức tổ tiên không giúp được gì, tiền phần nhiều tự mình kiếm từng chút, lại phát hơi muộn, sau trung niên mới thấy rõ; cùng cung Thiên Lương thì tài vận rất vượng; cùng Cự Môn thì tiền ra vào không ổn định. Nếu thêm bốn sát tinh Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, lại thêm Địa Không, Địa Kiếp, thì phần nhiều kiếm tiền, lập nhà bằng tay nghề, kỹ thuật chuyên môn."
+  ],
+  "canCu": [
+   "Thiên Đồng ở Tài Bạch — tài vận đều đều, tiền đến vững, nhưng khó đại phú.",
+   "Thiên Đồng kỵ nhất lười nhác — bỏ lỡ cơ hội là nguy cơ lớn nhất của tiền Thiên Đồng.",
+   "Thiên Đồng thêm tứ sát, Không Kiếp — quyển 2: “thêm tứ sát, Không Kiếp hoặc là người cửu lưu (nghề tay nghề, dịch vụ) mà sinh tiền thành nhà”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thiên Đồng tay trắng sinh tiền, phát muộn.",
+    "goc": "天同白手生财晚发"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Thiên Đồng",
+    "dich": "Thiên Đồng tay trắng sinh tiền, phát muộn; cùng Cự Môn thì tiền và khí tiến lùi; cùng Thiên Lương thì tiền rất vượng; thêm tứ sát, Không Kiếp hoặc người cửu lưu mà sinh tiền thành nhà.",
+    "goc": "天同白手生财晚发，巨门同财气进退，天梁同财大旺，加四杀空劫或九流人生财成家。"
+   }
+  ]
+ },
+ "廉贞": {
+  "dinhDieu": "Đường tiền phải xem sao cùng cung mà định.",
+  "cotLoi": [
+   "Sách xưa nói về Liêm Trinh ở cung Tài Bạch: ở Dần, Thân thì “sinh tiền giữa chốn náo nhiệt”, tức tiền đến từ chỗ đông người, náo nhiệt; khi hãm (sao yếu) thì “trước khó sau dễ”, tức lúc đầu khó kiếm, về sau mới thuận; cùng Tham Lang thì tiền đến mạnh đi cũng mạnh, gặp Kình Dương, Hỏa Tinh thì có của bất ngờ, đến nhanh đi cũng nhanh; cùng Thất Sát thì cũng kiếm tiền ở chỗ náo nhiệt; cùng Thiên Tướng thì “kho đựng giàu đủ”, tức gia sản đầy đặn, không thiếu tiền; gặp Đại Hao, Địa Kiếp, Thiên Không thì hay vì kiện tụng, những chuyện dính tới nhà nước mà hao tiền. Đường kiếm tiền phần nhiều liên quan tài nghệ, quan hệ, sáng tạo; nguồn nhiều mà cũng hay đổi.",
+   "Liêm Trinh Miếu Vượng (cung Dần, Thân) thủ Tài Bạch: tài nghệ văn võ và sức hút đào hoa cùng biến thành tiền; vòng giao tiếp chính là vòng tài sản, càng năng động càng có tiền, hợp nhất khởi nghiệp kiểu thương hiệu cá nhân hoặc sáng tạo."
+  ],
+  "canCu": [
+   "Liêm Trinh ở Tài Bạch — chủ tài nghệ sinh tiền, quan hệ thành tiền.",
+   "Liêm Trinh + Tham Lang ở Tài Bạch — quyển 2: “(cùng) Tham Lang thì sinh bất ngờ, phá bất ngờ; gặp Dương, Hỏa thì rất hay có tiền vào bất ngờ”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Liêm Trinh ở cung Thân, Dần thì sinh tiền giữa chốn náo nhiệt; ở cung hãm thì trước khó sau dễ.",
+    "goc": "廉贞在申寅宫闹中生财，陷宫先难后易"
+   },
+   {
+    "nguon": "Chư tinh vấn đáp luận – Liêm Trinh",
+    "dich": "Gặp Lộc Tồn chủ phú quý; gặp Văn Xương thì thích lễ nhạc; gặp sát diệu thì hiển đạt nghề võ; ở Quan Lộc thì có uy quyền.",
+    "goc": "遇禄存主富贵，遇文昌好礼乐，遇杀曜显武职，在官禄有威权"
+   }
+  ]
+ },
+ "天府": {
+  "dinhDieu": "Tài Bạch là một trong những chỗ Thiên Phủ thoải mái nhất, cả đời tay rộng rãi; gặp Lộc Tồn, Vũ Khúc càng đại phú.",
+  "cotLoi": [
+   "Thiên Phủ ở cung Tài Bạch là một trong những vị trí Thiên Phủ ở thoải mái nhất. Toàn Thư quyển 2 cung Tài Bạch nói “Thiên Phủ thì giàu đủ, gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì có thành có bại”, tức Thiên Phủ ngồi Tài Bạch thì tay rộng rãi; gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì có thành có bại, lên lên xuống xuống.",
+   "Vì vậy đừng đọc Thiên Phủ chỉ là “biết giữ mà không biết kiếm”: nó vừa giữ được tiền, vừa kiếm được tiền. Quyển 1 còn nói gặp Lộc Tồn, Vũ Khúc thì tích được một khoản của cải rất lớn. Thầy Nghê khi giảng ví dụ cung Phu Thê có Thiên Phủ, Thiên Mã nói Thiên Phủ giỏi quản lý tiền, phúc hậu lại chịu xông pha (Nghê Hải Hạ, Thiên Kỷ, tập 27, 03:37) — ví dụ đó nói về người bạn đời; bản tính giỏi quản lý tiền của sao này rơi vào cung Tài Bạch thì nói về bản lĩnh quản tiền của chính bạn: giỏi quản lý cộng với chịu làm mới là đường tiền thật của Thiên Phủ. Lấy phân bổ vững vàng làm chính, tích lũy lâu dài thì nền rất dày."
+  ],
+  "sang": [
+   "Thiên Phủ Miếu Vượng (nhất là ở Sửu, Mùi, Tỵ, Hợi càng tốt) thủ Tài Bạch: kho tiền Nam Đẩu ở đúng bản vị phát huy tới cực điểm, là tượng “gia tài bạc vạn, đời đời không suy” thật sự. Hợp nhất phân bổ tài sản vững vàng nắm giữ lâu: bất động sản vị trí tốt, cổ phiếu hàng đầu, trái phiếu để lại cho con cháu, sưu tầm nghệ thuật — càng giữ càng có tiền."
+  ],
+  "ham": [],
+  "canCu": [
+   "Thiên Phủ ở Tài Bạch — “sao giữ tiền” về đúng chỗ, quản tiền hạng nhất.",
+   "Thiên Phủ gặp Không Kiếp — Toàn Thư quyển 2 viết “gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì có thành có bại”, là có lên có xuống, không phải tan hết.",
+   "Thiên Phủ gặp Lộc Tồn, Vũ Khúc — Toàn Thư, “Hỏi Thiên Phủ”: “gặp Lộc Tồn, Vũ Khúc thì ắt giàu bạc vạn”.",
+   "Thiên Phủ + Tử Vi ở Tài Bạch — quyển 2 mục Thiên Phủ: “cùng Tử Vi thì tích lớn”, khối lượng tích được lớn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Chư tinh vấn đáp luận – Thiên Phủ",
+    "dich": "Gặp Lộc Tồn, Vũ Khúc thì ắt giàu bạc vạn.",
+    "goc": "逢禄存武曲，必有巨万之富"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thiên Phủ thì giàu đủ, gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì có thành có bại; cùng Tử Vi thì tích lớn; cùng Liêm Trinh, Vũ Khúc thêm Quyền Lộc thì là ông nhà giàu xa hoa.",
+    "goc": "天府富足，见羊陀火铃空劫有成败，紫微同巨积，廉贞武曲同加权禄为富奢翁"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Thiên Phủ",
+    "dich": "Thiên Phủ cùng (sao khác) thì giàu đủ, cả đời giữ được; thêm Tả Hữu là quan coi tài phú; cùng Thất Sát thêm cát thì tiền bạc phát bất ngờ.",
+    "goc": "天府同富足终身保守，加左右为财富之官，七杀同加吉财帛横发。"
+   }
+  ]
+ },
+ "太阴": {
+  "dinhDieu": "Tiền nhờ thu nhập ổn định mà tích dần, nước chảy nhỏ mà lâu dài.",
+  "cotLoi": [
+   "Thái Âm ở cung Tài Bạch: sách nói khi nhập miếu (sao mạnh; hãm là sao yếu) thì kho đầy rương chắc, là một trong những sao giỏi tụ tiền nhất; cùng Lộc Tồn lại thêm Tả Phù, Hữu Bật cùng cung càng dễ thành đại phú; cùng Thiên Đồng thì tiền vượng, người cũng được nuôi dưỡng tốt; cùng Thiên Cơ thì tay trắng sinh tiền, gây dựng được một cái nhà. Thái Âm lại là chủ Điền Trạch, tiền phần nhiều từ bất động sản hoặc tích lũy ổn định; khi hãm thì có thành có bại, đến nhanh đi cũng nhanh.",
+   "Bài thơ “Luận định người giàu đủ” trong Toàn Thư nói “Thái Âm nhập miếu có quang huy, tiền vào đất tiền càng lạ kỳ; phá hao hung tinh đều không phạm, chồng vàng chất ngọc con nhà giàu”, tức Thái Âm ở vị trí tốt, ánh sáng đầy, lại đúng ngồi cung Tài Bạch thì càng hiếm có; chỉ cần không gặp các hung tinh phá hao thì là nhà giàu chất vàng chồng ngọc. Cách này nói đúng Thái Âm ngồi Tài Bạch, nhập miếu, không gặp hung tinh phá hao. Tiền của Thái Âm là nước chảy nhỏ mà lâu tích lên, hợp lập kế hoạch tài chính dài hạn; nhà đất và tài sản cố định là nền gia sản khá vững."
+  ],
+  "sang": [
+   "Thái Âm nhập miếu (cung Dậu, Tuất, Hợi, Tý, Sửu, nhất là Hợi, Tý, Sửu) thủ Tài Bạch: trăng tròn sáng nhất, là tượng giàu một phương — năng lực về nhà đất và đầu tư bất động sản mạnh nhất, là trạng thái tài vận nhà đất tốt nhất trong 14 chính tinh; nên phân bổ vào tài sản nặng."
+  ],
+  "ham": [
+   "Thái Âm hãm (cung Mão, Thìn, Tỵ, Ngọ, Mùi) ở Tài Bạch hoặc tam phương: trăng mờ, khí chất phú quý giảm, tài vận không ổn định lại dễ bị cảm xúc chi phối. Nên lấy tích trữ vững vàng làm chính, ít đầu tư rủi ro cao, chờ vận chuyển tốt rồi mới mở rộng."
+  ],
+  "hoa": {
+   "科": [
+    "Thái Âm Hóa Khoa ở Tài Bạch hoặc tam phương: tiền đến từ các nghề chuyên môn dịu dàng tinh tế như văn giáo, nghệ thuật, thiết kế, tư vấn tâm lý, kiếm tiền nhờ cái đẹp và giá trị tình cảm — nữ mệnh có cách này thì đường tiền thường mang tính thẩm mỹ, như làm đẹp, thiết kế nội thất, hàng tiêu dùng cho phụ nữ; tiền đến có phẩm vị, danh tiếng và tích lũy cùng coi trọng."
+   ]
+  },
+  "canCu": [
+   "Thái Âm ở Tài Bạch — Toàn Thư quyển 2 cung Tài Bạch: “Thái Âm nhập miếu thì kho đựng giàu đủ, ở cung hãm thì thành bại không tụ”; giàu đủ phải xem có nhập miếu không.",
+   "Thái Âm nhập miếu ở Tài Bạch — kho đựng giàu đủ; lại có Lộc Tồn cùng Tả Phù, Hữu Bật cùng cung, quyển 2 nói “cùng Lộc Tồn kiêm Tả Hữu thì chủ đại phú”.",
+   "Thái Âm chủ nhà đất — bất động sản là kho tiền trời cho."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thái Âm nhập miếu thì kho đựng giàu đủ, ở cung hãm thì thành bại không tụ.",
+    "goc": "太阴入庙富足仓箱，陷宫成败不聚"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 3, Luận chư tinh đồng viên",
+    "dich": "Thái Âm gặp Kình Dương, Đà La ắt chủ người lìa, tiền tan.",
+    "goc": "太阴羊陀必主人离财散"
+   }
+  ]
+ },
+ "贪狼": {
+  "dinhDieu": "Tham Lang ngồi Tài Bạch: tiền đến không đều.",
+  "cotLoi": [
+   "Tham Lang ở cung Tài Bạch: ham muốn vượng, tiêu nhiều, thời điểm và số tiền vào đều không đều. Sách xưa nói cung này “Miếu Vượng thì phát bất ngờ, đất hãm thì nghèo”, tức Tham Lang nhập miếu (sao mạnh) dễ đột ngột phát một khoản, hãm (sao yếu) thì tay túng; sách xưa còn chỉ ra “gặp Hỏa Tinh thì trước ba mươi tuổi thành bại, sau ba mươi phát bất ngờ”, tức người gặp Hỏa Tinh trước ba mươi tuổi kiếm rồi lỗ là chuyện thường, vào tiền thật sự là sau ba mươi.",
+   "Hỏa Tinh, Linh Tinh gặp Tham Lang ở Thìn, Tuất, Sửu, Mùi, Toàn Thư quyển 3 còn có câu “Tham Lang gặp Linh Hỏa ở cung tứ Mộ thì nhà giàu tiền của, quý như hầu bá” — câu này vốn luận cách Mệnh."
+  ],
+  "sang": [
+   "Tham Lang Miếu Vượng (cung Mộ Sửu, Mùi) thủ Tài Bạch: tài vận từ tài nghệ và giao tế mở hết; gặp Hỏa, Linh cùng cung thì thành “cách Hỏa Tham”, “cách Linh Tham”, là một trong những cách có sức bùng phát tiền bất ngờ mạnh nhất trong 14 chính tinh, cơ hội của trời cho cao hơn hẳn các sao khác."
+  ],
+  "ham": [],
+  "hoa": {
+   "权": [
+    "Tham Lang Hóa Quyền ở Tài Bạch hoặc tam phương: ham muốn hóa thành sức kiểm soát việc sinh tiền — có thể tổ chức vòng giao tế, quan hệ, tài nghệ thành bản đồ kinh doanh thực chất; là cách bẩm sinh của ông chủ ngành giải trí, người sáng lập thương hiệu ẩm thực, giám đốc kinh doanh. Cần tự kỷ luật chi tiêu, không thì kiếm nhiều tiêu càng nhiều."
+   ]
+  },
+  "canCu": [
+   "Tham Lang ở Tài Bạch — quyển 2: “Tham Lang Miếu Vượng thì phát bất ngờ, đất hãm thì nghèo”.",
+   "Tham Lang + Hỏa Tinh ở Tài Bạch — quyển 2 cung Tài Bạch: “gặp Hỏa Tinh thì trước ba mươi tuổi thành bại, sau ba mươi phát bất ngờ”, phát sau ba mươi tuổi.",
+   "Tham Lang + Hỏa Linh ở Thìn Tuất Sửu Mùi — Toàn Thư quyển 3: “Tham Lang gặp Linh Hỏa ở cung tứ Mộ thì nhà giàu tiền của, quý như hầu bá”, chỉ ở bốn cung Mộ, vốn luận cách Mệnh."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Tham Lang Miếu Vượng thì phát bất ngờ, đất hãm thì nghèo; cùng Tử Vi thủ thì có sẵn, gia kế về sau càng sung túc.",
+    "goc": "贪狼庙旺横发，陷地贫穷，紫微同守现成，家计自后更丰盈"
+   },
+   {
+    "nguon": "Chư tinh vấn đáp luận – Tham Lang",
+    "dich": "Chỉ gặp Hỏa Linh mới phú quý; đẹp ở Tài Bạch cùng Vũ Khúc, Thái Âm; nếu rốt cuộc không phải tự phát thì là dâm dật.",
+    "goc": "惟会火铃能富贵，美在财帛与武曲太阴同，终非所自发，则为淫佚。"
+   }
+  ]
+ },
+ "巨门": {
+  "dinhDieu": "Tay trắng lập nghiệp, tiền phải kiếm ở chỗ đông người náo nhiệt; thành cũng nhờ miệng, bại cũng vì miệng.",
+  "cotLoi": [
+   "Sách nói Cự Môn ở cung Tài Bạch là “tay trắng sinh tiền, lập nhà, nên lấy ở chốn náo nhiệt”, tức không dựa vào của tổ để lại, tay trắng gây dựng, tiền phải kiếm ở chỗ đông người náo nhiệt; lại cảnh báo “người khí cao thì phá ngang”, tức lòng cao, miệng lớn thì dễ phá tài một lần. Quyển 1 cũng nói Cự Môn ở Tài Bạch “có ý tranh giành”, tức tiền là tranh mà có, cũng dễ vì tiền mà xảy ra tranh chấp với người."
+  ],
+  "canCu": [
+   "Cự Môn ở Tài Bạch — tiền đến từ tài ăn nói, dạy học, tư vấn.",
+   "Cự Môn + Thái Dương ở Tài Bạch — mục Thái Dương: “cùng Cự Môn thì tuổi trẻ thành bại, trung niên chưa dồi dào”; mục Cự Môn: “cùng Thái Dương nhập miếu thì giữ được, thành được nhà”.",
+   "Cự Môn kỵ nhất gặp Kình Đà — cãi vã chuốc hung, kiện tụng phá tài."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Cự Môn tay trắng sinh tiền lập nhà, nên lấy ở chốn náo nhiệt; người khí cao thì phá ngang.",
+    "goc": "巨门白手生财成家，宜闹中取，气高之人横破"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Cự Môn chủ về gì",
+    "dich": "Ở Tài Bạch thì có ý tranh giành.",
+    "goc": "在财帛有争竞之意"
+   }
+  ]
+ },
+ "天相": {
+  "dinhDieu": "Thiên Tướng ngồi Tài Bạch: cơm áo không lo, hợp tích tiền vững vàng.",
+  "cotLoi": [
+   "Thiên Tướng ở cung Tài Bạch: sách xưa nói “Thiên Tướng thì giàu đủ”, tức ăn mặc chi dùng không thiếu; cùng cung Tử Vi thì “tiền và khí vào bất ngờ”, tức tiền có thể vào một khoản lớn một lần; cùng Liêm Trinh thì “buôn bán sinh tiền”, tiền phần nhiều từ mua bán; cùng Vũ Khúc lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì “bách công sinh tiền”, sống bằng tay nghề. Tiền của Thiên Tướng phần nhiều từ quan hệ và vị trí mang lại, nhờ lòng tin tích dần, không nhờ liều mạng. Thu nhập ổn định, chủ yếu dựa vào lương vững vàng và tích lũy lâu dài; làm công việc chính thức thuận tay hơn tự mở cửa làm ăn.",
+   "Quản lý tiền phải thận trọng vững vàng; gửi tiết kiệm có kỳ hạn hoặc mua nhà là khá hợp; không hợp đầu cơ rủi ro cao — tài sản dựa vào tích góp chứ không dựa vào phát đột ngột. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp hoặc Hao, Kỵ thì Toàn Thư nói “thành bại, không tích tụ”, tức có thành có bại, không giữ được tiền."
+  ],
+  "canCu": [
+   "Thiên Tướng ở Tài Bạch — chủ tiền lương, tích lũy vững vàng.",
+   "Thiên Tướng gặp Lộc Tồn — Toàn Thư “Hỏi Lộc Tồn” nói Lộc Tồn “trong mười hai cung chỉ Thân Mệnh, Điền Trạch, Tài Bạch là quan trọng, chủ giàu”.",
+   "Thiên Tướng + Tử Vi ở Tài Bạch — quyển 2 cung Tài Bạch: “Thiên Tướng thì giàu đủ; cùng Tử Vi thì tiền và khí vào bất ngờ”.",
+   "Thiên Tướng kỵ nhất gặp Không Kiếp — kho tiền gặp không, tiền đến rồi đi."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thiên Tướng thì giàu đủ; cùng Tử Vi thì tiền và khí vào bất ngờ.",
+    "goc": "天相富足，紫微同财气横进"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 3, Luận chư tinh đồng viên các ty sở nghi, phân biệt phú quý bần tiện yểu thọ",
+    "dich": "Phủ Tướng triều viên, nghìn chung thực lộc. (Nguyên chú: Mệnh ở Dần Thân, Phủ Tướng ở Tài Bạch, Quan Lộc chầu về là thượng cách, cung khác kém hơn.)",
+    "goc": "府相朝垣千钟食禄"
+   }
+  ]
+ },
+ "天梁": {
+  "dinhDieu": "Thiên Lương ngồi Tài Bạch: tiền phần nhiều đến từ học thức, phục vụ.",
+  "cotLoi": [
+   "Thiên Lương ở cung Tài Bạch: tiền phần nhiều đến từ học thức hoặc phục vụ người khác; Toàn Thư nói Thiên Lương ở Tài Bạch “giàu đủ”. Đầu tư nên vững một chút, đừng mạo hiểm; kiếm tiền bằng kỹ năng chuyên môn, phục vụ hoặc học thức là hợp nhất.",
+   "Hình Tính Phú trong Toàn Thư có câu “Lộc gặp Lương ấm thì ôm tiền riêng giúp cho người khác”, tức Thiên Lương gặp Lộc thì tiền trong tay thường đem đi giúp người. Vì vậy tiền của Thiên Lương phần nhiều gắn với giúp người, trọng tình nghĩa."
+  ],
+  "canCu": [
+   "Thiên Lương ở Tài Bạch — chủ tiền từ học thức, phục vụ, chuyên môn.",
+   "Thiên Lương gặp Lộc — Hình Tính Phú: “Lộc gặp Lương ấm thì ôm tiền riêng giúp cho người khác”.",
+   "Thiên Lương nên đầu tư vững vàng — không nên mạo hiểm, nên gửi tiết kiệm, mua nhà.",
+   "Thiên Lương kỵ nhất đầu cơ — lấy đạo nghĩa đổi tiền mới là chính đạo của tiền Thiên Lương."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thiên Lương thì giàu đủ, nhập miếu là bậc phú quý thượng đẳng; ở cung hãm thì cần cù cầu tiền qua ngày.",
+    "goc": "天梁富足入庙上等富贵，陷宫辛勤求财度日"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hình Tính Phú",
+    "dich": "Lộc gặp Lương ấm thì ôm tiền riêng giúp cho người khác.",
+    "goc": "禄逢梁荫抱私财益与他人"
+   }
+  ]
+ },
+ "七杀": {
+  "dinhDieu": "Tiền nhờ xông pha, dám mạo hiểm mà có; lên xuống lớn, ra tay phải tính rủi ro trước.",
+  "cotLoi": [
+   "Thất Sát ở cung Tài Bạch: tiền nhờ cố gắng cộng thêm chút mạo hiểm mà kiếm, kiếm tiền phải bỏ nhiều sức, tài vận lên xuống cũng lớn. Thầy Nghê giảng Thất Sát, Phá Quân “chủ hao, chủ lao” (Nghê Hải Hạ, Thiên Kỷ, tập 7, 03:45), tức tiêu hao lớn, lao lực nhiều: bôn ba vất vả, thường một mình cắm đầu làm, tiền vào được mà giữ không được — đó là nền của Thất Sát ở cung này. Không sợ khổ, không sợ mệt là ưu thế lớn nhất; lời lớn lỗ lớn đều có thể.",
+   "Phải phòng đầu tư bốc đồng mà lỗ lớn; trước khi ra tay hãy tính rõ rủi ro. Tiền của Thất Sát là xông pha mà có, nhưng càng phải học cách giữ: dám xông pha cộng đủ lý trí mới là mấu chốt quản lý tiền ở cung này."
+  ],
+  "canCu": [
+   "Thất Sát ở Tài Bạch — tiền từ phấn đấu, mạo hiểm, lên xuống lớn.",
+   "Thất Sát + Vũ Khúc ở Tài Bạch — quyển 2 mục Vũ Khúc: “cùng Thất Sát thì tay trắng sinh tiền lập nhà”.",
+   "Thất Sát kỵ nhất gặp Không Kiếp — tiền đến rồi đi, phấn đấu không thành."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Không có mục riêng cho Thất Sát; ba điều về Thất Sát cùng cung nằm ở mục Tử Vi “cùng Thất Sát thêm cát thì tiền bạc phát bất ngờ”, mục Vũ Khúc “cùng Thất Sát thì tay trắng sinh tiền lập nhà”, mục Liêm Trinh “cùng Thất Sát thì lấy ở chốn náo nhiệt”.",
+    "goc": "七杀同加吉财帛横发；七杀同白手生财成家；七杀同闹中取"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch (mục Vũ Khúc)",
+    "dich": "Cùng Thất Sát thì tay trắng sinh tiền lập nhà; cùng Tham Lang thì sau ba mươi tuổi mới phát tài; thêm Dương, Đà, Hỏa, Linh thì không tụ, sợ nhất Không Vong.",
+    "goc": "七杀同白手生财成家，贪狼同三十年后方发财，加羊陀火铃不聚极怕空亡。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch (mục Liêm Trinh)",
+    "dich": "Cùng Thất Sát thì lấy ở chốn náo nhiệt; cùng Thiên Tướng thì kho đựng giàu đủ; nếu gặp Hao, Kiếp, Thiên Không thì thường phá tài nơi cửa quan.",
+    "goc": "七杀同闹中取，天相同富足仓箱，如耗劫天空常在官府中破财。"
+   }
+  ]
+ },
+ "破军": {
+  "dinhDieu": "Phá Quân ngồi Tài Bạch: tiền ra vào nhanh; giữ được hay không phải xem sao cùng cung.",
+  "cotLoi": [
+   "Phá Quân ở cung Tài Bạch: tiền đến rồi đi là chuyện thường. Thầy Nghê nói nghĩa của sao Phá Quân là tiêu hao và phá tổn; như Thất Sát, vừa hao vừa lao, tiền ra vào nhanh, khó tích. Nhưng phải phân nhập miếu hay hãm (nhập miếu là sao mạnh, hãm là sao yếu): sách nói “Phá Quân ở cung Tý Ngọ thì nhiều vàng bạc châu báu tích trữ”, tức rơi vào Tý, Ngọ lại giữ được vàng bạc của quý; ở vị trí vượng Thìn Tuất thì tài khí cũng vượng; chỉ khi hãm mới “phá, không tụ được của tổ”, tức không giữ được của tổ. Quyển 1 thì nói chung chung Phá Quân “ở Tài Bạch như nước sôi dội tuyết”, không phân Miếu hãm, tức tiền như nước nóng dội lên tuyết, tan ngay; điều này khác với câu quyển 2 “ở Tý Ngọ nhiều vàng bạc châu báu tích trữ”; hai thuyết cùng tồn tại, bài này đọc theo quyển 2 có phân cung.",
+   "Tài vận lên xuống lớn; đừng quá thận trọng, chủ động ra tay lại thu được nhiều. Gặp Hỏa Tinh, Linh Tinh, Toàn Thư quyển 3 nói “Phá Quân, Hỏa, Linh thì bôn ba lao lực”, tức tiền phải bôn ba lao lực mới kiếm được. Chỉ có Quyền thì chưa nói được tự làm chủ, phải Quyền Lộc gặp nhau (Lộc Tồn cũng tính là Lộc) mới tự làm sự nghiệp, làm chủ (Nghê Hải Hạ, Thiên Kỷ, tập 15, 19:52)."
+  ],
+  "canCu": [
+   "Phá Quân ở Tài Bạch — tiêu nhiều, tiền đến rồi đi, biến động lớn.",
+   "Phá Quân + Hỏa Linh ở Tài Bạch — quyển 3: “Phá Quân, Hỏa, Linh thì bôn ba lao lực”.",
+   "Phá Quân kỵ nhất gặp Không Kiếp — kho tiền gặp không, mãi khó tích lũy."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 1, Chư tinh vấn đáp luận – Phá Quân",
+    "dich": "Ở Tử Tức thì trước tổn sau thành; ở Tài Bạch thì như nước sôi dội tuyết.",
+    "goc": "在子息先损后成；在财帛如汤浇雪"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Phá Quân ở cung Tý Ngọ thì nhiều vàng bạc châu báu tích trữ; ở cung vượng Thìn Tuất cũng tiền thịnh; ở cung hãm thì phá, không tụ được của tổ.",
+    "goc": "破军在子午宫，多有金银宝贝蓄积，辰戌旺宫亦财盛，陷宫破不祖聚"
+   }
+  ]
+ },
+ "紫微+天府": {
+  "dinhDieu": "Thiên Phủ là kho tiền, giữ tiền giỏi nhất; tài vận vững mà đi lên, không cầu giàu nhanh nhưng càng góp càng dày.",
+  "tom": "Sao đế đi cùng sao kho: quý khí và vững vàng cùng có, số thành đạt muộn mà chắc.",
+  "cotLoi": [
+   "Tử Vi, Thiên Phủ cùng ngồi cung Tài Bạch là số của người giỏi quản lý tiền. Thiên Phủ là sao kho tiền, bẩm sinh biết quản tiền, biết góp tiền. Quyển 2 nói “cùng Tử Vi thì tích lớn”, tức có Tử Vi vào thì tầm của cải được nâng lên, khối tích được rất lớn, thu nhập phần nhiều theo chức vụ và địa vị. Người số này tiêu tiền có chừng mực, đầu tư thiên về thận trọng, lợi nhuận dài hạn cao; hội thêm Tả Phù, Hữu Bật thì là “quan coi tài phú” mà sách nói, tức vai trò bẩm sinh là quản tiền.",
+   "Đường tiền nhìn chung đi lên, nhưng nếu gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh hoặc Địa Không, Địa Kiếp thì sách nói “có thành có bại”, tức giữa chừng có lên có xuống, không êm suốt. Cách kiếm tiền tốt nhất là nhờ thăng tiến sự nghiệp, nhờ dẫn dắt người mà tăng thu nhập, chứ không phải đầu cơ mạo hiểm. Tử Phủ ngồi Tài Bạch phần nhiều là làm người quản lý trong công ty tư nhân; công ty chưa chắc thuộc về bạn — quản tiền, nắm quyền và tự sở hữu doanh nghiệp là ba chuyện khác nhau."
+  ],
+  "canCu": [
+   "Thiên Phủ là sao kho vào Tài Bạch, chủ tích góp dày.",
+   "Tử Vi gia trì cho Tài Bạch, nâng tầm của cải."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thiên Phủ cùng (sao khác) thì giàu đủ, cả đời giữ được; thêm Tả Hữu là quan coi tài phú.",
+    "goc": "天府同富足终身保守，加左右为财富之官"
+   }
+  ]
+ },
+ "紫微+贪狼": {
+  "dinhDieu": "Giữ của có sẵn, gia sản càng về sau càng dày; gặp Hỏa Tinh thì sau trung niên phát được một khoản.",
+  "tom": "Sao đế gặp đào hoa: quyền lực và dục vọng đan xen, đa tài đa nghệ.",
+  "cotLoi": [
+   "Tử Vi, Tham Lang ngồi cung Tài Bạch: Toàn Thư nói “cùng Tử Vi thủ thì có sẵn, gia kế về sau càng sung túc”, tức tiền thiên về giữ gìn, nhận cục diện có sẵn, tuổi càng lớn gia sản càng dày. Tiêu tiền cầu kỳ, đãi khách hào phóng; tửu sắc tài khí và những thú hưởng lạc là chỗ rò tiền. Sách còn ghi “gặp Hỏa Tinh thì trước ba mươi tuổi thành bại, sau ba mươi phát bất ngờ”, tức trước ba mươi lên xuống, sau ba mươi phát được một khoản; dao động trước trung niên khó tránh."
+  ],
+  "canCu": [
+   "Tham Lang ở Tài Bạch: tiền đến từ quan hệ giao tế.",
+   "Tiêu tiền trọng hưởng thụ, không phải kiểu giữ tiền."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Tham Lang Miếu Vượng thì phát bất ngờ, đất hãm thì nghèo; cùng Tử Vi thủ thì có sẵn, gia kế về sau càng sung túc.",
+    "goc": "贪狼庙旺横发，陷地贫穷，紫微同守现成，家计自后更丰盈"
+   }
+  ]
+ },
+ "紫微+天相": {
+  "dinhDieu": "Thiên Tướng giữ tiền nhờ tích lũy, tiền giữ được; thỉnh thoảng cũng có tiền nhanh, nhưng đừng chỉ trông vào đầu cơ.",
+  "tom": "Sao đế đi cùng sao ấn: quyền lực và thực thi cùng coi trọng, hợp đường quan chức, việc công.",
+  "cotLoi": [
+   "Tử Vi, Thiên Tướng ngồi cung Tài Bạch: sách nói Thiên Tướng ở Tài Bạch chủ yếu nhờ tích lũy, còn Tử Vi đem tới những khoản vào nhanh. Nền là lương và thu nhập từ vị trí quản lý, thỉnh thoảng cũng có lúc vào tiền khá nhanh. Thiên Tướng không đi đường thiên tài (tiền bất ngờ), tiêu tiền coi trọng chất lượng và thể diện. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì tiền dễ hao, không giữ được; vì vậy đừng dồn hết vào đầu cơ."
+  ],
+  "canCu": [
+   "Thiên Tướng là sao ấn; sao ấn ở Tài Bạch chủ chính tài ổn định.",
+   "Không hợp đầu cơ thiên tài."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thiên Tướng thì giàu đủ; cùng Tử Vi thì tiền và khí vào bất ngờ.",
+    "goc": "天相富足，紫微同财气横进"
+   }
+  ]
+ },
+ "紫微+七杀": {
+  "dinhDieu": "Có cát tinh giúp thì phát được một khoản; tiền đến nhanh đi cũng nhanh.",
+  "tom": "Sao đế đi cùng tướng tinh: quyền lực và sát phạt cùng có, cách cục khai sáng.",
+  "cotLoi": [
+   "Tử Vi, Thất Sát ngồi cung Tài Bạch: sách nói “cùng Thất Sát thêm cát thì tiền bạc phát bất ngờ”, tức khi có cát tinh tới hội, tiền có thể vào một khoản lớn một lần; nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh hoặc Địa Không, Địa Kiếp thì tiền không vượng lên được, lên xuống thất thường. Thầy Nghê giảng Tử Vi Thất Sát ở Tài Bạch thì “làm trong doanh nghiệp tư nhân, tự làm sự nghiệp”; ví dụ thầy kể có cả Quyền lẫn Lộc tới, nên “sẽ không chịu ở dưới người, cô ấy sẽ tự đi làm sự nghiệp” (Nghê Hải Hạ, Thiên Kỷ, tập 21, 04:02–04:22). Không có Quyền Lộc gặp nhau thì chỉ nói làm trong doanh nghiệp tư nhân. Bản thân Thất Sát tốn sức, tiền đến nhanh đi cũng nhanh, khó giữ; tiêu tiền dứt khoát, tích được ít."
+  ],
+  "canCu": [
+   "Thất Sát ở Tài Bạch chủ thiên tài và thu nhập kiểu mạo hiểm.",
+   "Kiểu tài vận lên xuống lớn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Tử Vi",
+    "dich": "Cùng Thất Sát thêm cát thì tiền bạc phát bất ngờ.",
+    "goc": "七杀同加吉财帛横发"
+   }
+  ]
+ },
+ "紫微+破军": {
+  "dinhDieu": "Tiền như nước sôi dội tuyết: vào lớn ra cũng lớn, trước khó sau dễ.",
+  "tom": "Sao đế gặp tiên phong: phá cũ lập mới, đời mở lớn đóng lớn.",
+  "cotLoi": [
+   "Tử Vi, Phá Quân ngồi cung Tài Bạch: tiền vào ra đều là những khoản lớn. Phá Quân hóa khí là hao, nói thẳng là chuyên coi tiêu hao; Toàn Thư nói Phá Quân “ở Tài Bạch như nước sôi dội tuyết”, tức tiền như nước sôi dội lên tuyết, tới tay nhanh, tan cũng nhanh; tiêu tiền bốc đồng, không tiếc. Cùng Tử Vi thì là “trước khó sau dễ”, tức tuổi trẻ túng, xoay chỗ này đắp chỗ kia, sau trung niên dần rộng rãi. Mục Phá Quân trong Toàn Thư lại nói “cùng Tử Vi thì trước mất sau sinh”, tức tiền ra trước, về sau mới sinh lại."
+  ],
+  "canCu": [
+   "Phá Quân ở Tài Bạch chủ vào lớn ra lớn.",
+   "Có sao đế che chở, phá trước rồi có tích lũy."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Tử Vi: “cùng Phá Quân thì trước khó sau dễ”; mục Phá Quân: “cùng Tử Vi thì trước mất sau sinh”.",
+    "goc": "紫微条：「破军同先难后易」；破军条：「紫微同先去后生」"
+   }
+  ]
+ },
+ "天机+太阴": {
+  "dinhDieu": "Thiên Cơ, Thái Âm giữ tiền: lao tâm tốn sức mà kiếm, tay trắng gây dựng; đi thu nhập ổn định, đừng đầu cơ.",
+  "tom": "Sao trí đi cùng sao tài: thông minh giỏi mưu, nội tâm tinh tế nhạy cảm.",
+  "cotLoi": [
+   "Thiên Cơ, Thái Âm ngồi cung Tài Bạch: Thái Âm coi tiền, Thiên Cơ coi mưu tính; quản tiền có kế hoạch, tiêu tiền tính toán kỹ. Phần Tài Bạch của Toàn Thư nói là “lao tâm tốn sức mà sinh tiền”, “tay trắng sinh tiền lập nhà”, tức tiền phải lao tâm tốn sức mới kiếm được, phần nhiều tự tay trắng gây dựng, không phải nhờ tổ tiên để lại. Thái Âm ở Dần, Thân không phải vị trí mạnh nhất, thu chi khó tránh lên xuống; hợp giữ thu nhập ổn định, đừng đi đầu cơ."
+  ],
+  "canCu": [
+   "Thái Âm là tài tinh vào Tài Bạch, năng lực quản tiền mạnh.",
+   "Thiên Cơ giỏi mưu tính, đầu tư có kế hoạch."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Thiên Cơ: “cùng Thái Âm ở cung hãm thì thành bại”; mục Thái Âm: “cùng Thiên Cơ thì tay trắng sinh tiền lập nhà”.",
+    "goc": "天机条：「太阴同陷宫成败」；太阴条：「天机同白手生财成家」"
+   }
+  ]
+ },
+ "天机+巨门": {
+  "dinhDieu": "Tay trắng gây dựng, tiền đến từ chỗ náo nhiệt, việc làm thường không chỉ một thứ.",
+  "tom": "Sao trí đi cùng sao ám: ăn nói sắc bén, giỏi biện luận phải trái, hợp pháp luật, truyền thông.",
+  "cotLoi": [
+   "Thiên Cơ, Cự Môn ngồi cung Tài Bạch: phần nhiều tay trắng gây dựng, tiền đến từ chỗ náo nhiệt — nơi đông người, nhiều tin tức mới có tiền. Toàn Thư quyển 2 cung Tài Bạch mục Thiên Cơ nói “cùng Cự Môn thì cầu lấy giữa chốn náo nhiệt”, mục Cự Môn lại nói “cùng Thiên Cơ thì tiền và khí sinh thân, việc làm không nhất định”, tức tiền phải giành lấy ở chỗ náo nhiệt, tự mình kiếm ra, việc làm thường không chỉ một thứ."
+  ],
+  "canCu": [
+   "Cự Môn ở Tài Bạch chủ kiếm tiền nhờ tài ăn nói.",
+   "Thiên Cơ giỏi mưu tính, quản lý tiền."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Thiên Cơ: “cùng Cự Môn thì cầu lấy giữa chốn náo nhiệt”; mục Cự Môn: “cùng Thiên Cơ thì tiền và khí sinh thân, việc làm không nhất định”.",
+    "goc": "天机条：「巨门同闹中求取」；巨门条：「天机同财气生身，所作不一」"
+   }
+  ]
+ },
+ "天机+天梁": {
+  "dinhDieu": "Lao tâm tốn sức kiếm tiền, nhờ mẹo khéo kiếm thêm, đổi mấy lần mới dựng được gia nghiệp.",
+  "tom": "Sao trí đi cùng sao ấm: làm điều thiện, tích đức, số hợp y dược, tôn giáo.",
+  "cotLoi": [
+   "Thiên Cơ, Thiên Lương ngồi cung Tài Bạch: sách nói Thiên Cơ là lao tâm tốn sức mới sinh tiền, cùng Thiên Lương thì nhờ động não nghĩ cách mà kiếm thêm ngoài nghề chính; nhưng tiền phát không nhiều, phải đổi mấy lần mới dựng được gia nghiệp. Đường tiền nằm ở chuyên môn và mưu tính, nhờ bản lĩnh thật mà tích từ từ. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì trước khó sau dễ, chỉ đủ sống qua ngày."
+  ],
+  "canCu": [
+   "Thiên Lương ở Tài Bạch chủ tiền đều đều.",
+   "Thiên Cơ giỏi mưu tính, quản lý tiền có phương pháp."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Thiên Lương",
+    "dich": "Cùng Thiên Cơ thì lao tâm dùng sức phát tài không nhiều, đổi nghề mới thấy thành nhà; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì trước khó sau dễ, chỉ đủ sống qua ngày.",
+    "goc": "天机同劳心用力发财不多，更改方见成家，加羊陀火铃空劫，先难后易仅足度日"
+   }
+  ]
+ },
+ "太阳+太阴": {
+  "dinhDieu": "Tiền trước ít sau nhiều: lúc đầu vào ít, về sau mới nhiều lên.",
+  "tom": "Dương cương đi cùng âm nhu: nhật nguyệt cùng chiếu, số âm dương cân bằng.",
+  "cotLoi": [
+   "Thái Dương, Thái Âm ngồi cung Tài Bạch: Thái Âm là tài tinh (chủ tiền bạc), Thái Dương coi danh tiếng địa vị; bạn vừa biết quản tiền vừa giữ được tiền. Sách xưa nói cung này “trước ít sau nhiều”, tức tuổi trẻ kiếm tiền không dễ, sau trung niên mới dần rộng rãi. Lại có cát tinh như Tả Phù, Hữu Bật cùng tới, Toàn Thư nói “phát tài không nhỏ”."
+  ],
+  "canCu": [
+   "Tài tinh Thái Âm vào Tài Bạch, năng lực quản tiền mạnh.",
+   "Quý tinh Thái Dương gia trì, tầm tài vận cao."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Thái Âm: “cùng Thái Dương thì trước ít sau nhiều”; mục Thái Dương: “cùng Thái Âm thêm Tả Hữu, cát tinh thì phát tài không nhỏ”.",
+    "goc": "太阴条：「太阳同先少后多」；太阳条：「太阴同加左右吉星发财不小」"
+   }
+  ]
+ },
+ "太阳+巨门": {
+  "dinhDieu": "Nhờ tài ăn nói và danh tiếng mà tay trắng gây dựng; tuổi trẻ lên xuống, trung niên vẫn chưa rộng rãi.",
+  "tom": "Ánh sáng xua bóng tối: hóa tối thành sáng, tài ăn nói và danh tiếng cùng có.",
+  "cotLoi": [
+   "Thái Dương, Cự Môn ngồi cung Tài Bạch: sách nói Cự Môn hợp tay trắng gây dựng, tiền phải tới chỗ náo nhiệt mà kiếm; cùng cung Thái Dương thì tuổi trẻ kiếm tiền có thành có bại, tới trung niên tay vẫn chưa rộng rãi. Người lòng quá cao, quá thích tranh hơn thì lại càng dễ lỗ một lần."
+  ],
+  "canCu": [
+   "Thái Dương ở Tài Bạch chủ tiền minh bạch, rộng rãi.",
+   "Cự Môn chủ kiếm tiền nhờ tài ăn nói."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Thái Dương: “cùng Cự Môn thì tuổi trẻ thành bại, trung niên chưa dồi dào”; mục Cự Môn: “cùng Thái Dương nhập miếu thì giữ được, thành được nhà”.",
+    "goc": "太阳条：「巨门同早年成败中未充盈」；巨门条：「太阳同入庙守见成家计」"
+   }
+  ]
+ },
+ "太阳+天梁": {
+  "dinhDieu": "Tiền đến đường chính, nhờ sự nghiệp chính đáng mà kiếm.",
+  "tom": "Ánh sáng đi cùng ấm đức: ý thức chính nghĩa rất mạnh, hợp chính pháp, công ích.",
+  "cotLoi": [
+   "Thái Dương, Thiên Lương ngồi cung Tài Bạch: tiền kiếm từ sự nghiệp chính đáng, tiêu cũng có chừng mực. Toàn Thư nói Thái Dương nhập miếu (sao mạnh) thì tay rộng rãi, hãm (sao yếu) thì vất vả, không thuận; Thiên Lương nhập miếu thì giàu đủ, thậm chí bậc phú quý thượng đẳng, hãm thì chỉ cần cù kiếm tiền qua ngày — nên hoàn toàn xem sức mạnh yếu của hai sao. Thiên Lương là ấm tinh, như bề trên che giữ tiền bạc; Thái Dương coi thu nhập chính đáng bày ra ngoài sáng; hai sao đều sáng thì đường tiền vừa vững vừa rộng."
+  ],
+  "canCu": [
+   "Thiên Lương ở Tài Bạch chủ tiền ổn định.",
+   "Thái Dương chủ thu nhập chính đáng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Thái Dương nhập miếu thì đầy đủ, ở cung hãm thì lao lực không toại; Thiên Lương thì giàu đủ, nhập miếu là bậc phú quý thượng đẳng, ở cung hãm thì cần cù cầu tiền qua ngày.",
+    "goc": "太阳入庙丰足，陷宫劳碌不遂；天梁富足入庙上等富贵，陷宫辛勤求财度日"
+   }
+  ]
+ },
+ "武曲+天府": {
+  "dinhDieu": "Vũ Khúc ngồi vào kho tiền: biết kiếm cũng biết giữ; gặp sát tinh thì có lên xuống.",
+  "tom": "Sao tài đi cùng sao kho: giỏi cả làm ra lẫn giữ tiền, cả đời không thiếu tiền.",
+  "cotLoi": [
+   "Vũ Khúc, Thiên Phủ ngồi cung Tài Bạch là vị trí tiền thượng hạng: Vũ Khúc kiếm, Thiên Phủ giữ; tiêu tiền tiết độ, đầu tư dài hạn. Sách xưa nói “Thiên Phủ, Vũ Khúc ở Tài Bạch, Điền Trạch, lại thêm Quyền, Lộc thì là ông nhà giàu xa hoa”, tức ngồi cung Tài Bạch, Điền Trạch lại mang Tứ Hóa tốt thì là ông nhà giàu dám tiêu. Thiên Phủ “gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì có thành có bại”, tức gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì tiền có lên có xuống, nên lấy giữ làm chính."
+  ],
+  "canCu": [
+   "Tài tinh + sao kho vào Tài Bạch, cách quản tiền mạnh nhất.",
+   "Cả đời cảm giác an toàn về tài chính rất mạnh."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 3, Luận chư tinh đồng viên các ty sở nghi, phân biệt phú quý bần tiện yểu thọ",
+    "dich": "Thiên Phủ, Vũ Khúc ở Tài Bạch, Điền Trạch, lại thêm Quyền, Lộc thì là ông nhà giàu xa hoa.",
+    "goc": "天府武曲居财宅更兼权禄富奢翁"
+   }
+  ]
+ },
+ "武曲+贪狼": {
+  "dinhDieu": "Tuổi trẻ tích lũy, trung niên thu hoạch; tài vận trước khổ sau ngọt.",
+  "tom": "Sao tài đi cùng đào hoa: không phát lúc tuổi trẻ, sau trung niên mới thành đại khí.",
+  "cotLoi": [
+   "Vũ Khúc, Tham Lang ngồi cung Tài Bạch: câu “Tham Lang không phát tuổi thiếu niên” nói chính trường hợp này — trước ba mươi tuổi kiếm tiền có thành có bại, sau ba mươi mới thấy tiền vào lớn. Toàn Thư nói “Vũ Khúc, Tham Lang ở Tài Bạch, Điền Trạch thì phát tiền của bất ngờ”, tức ngồi cung Tài Bạch hoặc Điền Trạch thì tiền có thể đột ngột lớn lên; ngay sau đó là câu “kỵ Không Vong”, tức sợ nhất sao không, gặp Địa Không, Địa Kiếp thì đến nhanh đi cũng nhanh. Hai sao ở Sửu, Mùi đều nhập miếu; quyển 2 nói Tham Lang “Miếu Vượng thì phát bất ngờ”; mục Vũ Khúc lại nói “cùng Tham Lang thì sau ba mươi tuổi mới phát tài”, không cần đợi gặp Hỏa Tinh, cứ sau ba mươi tuổi mới phát."
+  ],
+  "canCu": [
+   "Tài tinh + đào hoa vào Tài Bạch, sau trung niên nguồn tiền rộng mở.",
+   "Hội Hỏa Linh chủ tiền phát bột."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Vũ Khúc",
+    "dich": "Cùng Tham Lang thì sau ba mươi tuổi mới phát tài.",
+    "goc": "贪狼同三十年后方发财"
+   }
+  ]
+ },
+ "武曲+天相": {
+  "dinhDieu": "Chính tài vững vàng, quản tiền có cách, không đầu cơ, không mạo hiểm.",
+  "tom": "Sao tài đi cùng sao ấn: tài quản lý tài chính, giữ tiền công minh.",
+  "cotLoi": [
+   "Vũ Khúc, Thiên Tướng ngồi cung Tài Bạch: Vũ Khúc lo kiếm, Thiên Tướng lo quản; vì vậy tay rộng rãi, quản tiền có bài bản, phong cách thiên về thận trọng. Thu nhập lấy nghề nghiệp chính đáng làm chính, thường có quý nhân nâng đỡ, nhờ cơ hội của quý nhân mà kiếm tiền lập nhà; tiền như nước chảy nhỏ mà góp lâu, không theo đuổi lời lớn. Gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì tiền dễ tan, không giữ được; chỉ gặp bốn sao Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì phần nhiều kiếm tiền bằng tay nghề và sức lực."
+  ],
+  "canCu": [
+   "Tài tinh + sao ấn vào Tài Bạch, năng lực quản tiền rất mạnh.",
+   "Phong cách thận trọng vững vàng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Vũ Khúc: “cùng Thiên Tướng thì tiền bạc dồi dào, gặp quý nhân mà sinh tiền lập nhà”; mục Thiên Tướng: “cùng Vũ Khúc thêm tứ sát thì kiếm tiền bằng trăm nghề”.",
+    "goc": "武曲条：「天相同财帛丰盈，遇贵生财成家」；天相条：「武曲同加四杀百工生财」"
+   }
+  ]
+ },
+ "武曲+七杀": {
+  "dinhDieu": "Kiếm tiền nhờ xông pha cạnh tranh; vào lớn ra lớn, không yên ổn.",
+  "tom": "Sao tài đi cùng tướng tinh: quả quyết cương nghị, giỏi kiếm tiền trong cạnh tranh.",
+  "cotLoi": [
+   "Vũ Khúc, Thất Sát ngồi cung Tài Bạch: đi con đường tay trắng gây dựng. Toàn Thư nói Vũ Khúc gặp Thất Sát là “tay trắng sinh tiền lập nhà”, tức tay không kiếm ra một gia nghiệp; tiền không trông vào vốn liếng gia đình được, phải tự mình kiếm. Thầy Nghê giảng Thất Sát, Phá Quân “chủ hao, chủ lao” (Nghê Hải Hạ, Thiên Kỷ, tập 7, 03:45), tiền vào rồi lại ra, vào nhiều thì tan cũng nhanh. Gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì “không tụ, sợ nhất Không Vong”, tức tiền càng không tụ được, sợ nhất là lại gặp các sao không như Địa Không, Địa Kiếp."
+  ],
+  "canCu": [
+   "Tài tinh Vũ Khúc + tướng tinh Thất Sát vào Tài Bạch.",
+   "Kiểu tài vận vào lớn ra lớn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Vũ Khúc",
+    "dich": "Cùng Thất Sát thì tay trắng sinh tiền lập nhà; cùng Tham Lang thì sau ba mươi tuổi mới phát tài; thêm Dương, Đà, Hỏa, Linh thì không tụ, sợ nhất Không Vong.",
+    "goc": "七杀同白手生财成家，贪狼同三十年后方发财，加羊陀火铃不聚极怕空亡"
+   }
+  ]
+ },
+ "武曲+破军": {
+  "dinhDieu": "Tiền đông tới tây đi, trước không sau có; tới tay cũng không giữ được.",
+  "tom": "Sao tài đi cùng tiên phong: tài chính mở lớn đóng lớn, số khởi nghiệp mạo hiểm.",
+  "cotLoi": [
+   "Vũ Khúc, Phá Quân ngồi cung Tài Bạch: quyển 2 mục Vũ Khúc nói “cùng Phá Quân thì đông tới tây đi, trước không sau có”, tức tiền chạy đông chạy tây mà tới, cũng chạy đông chạy tây mà đi; tuổi trẻ không có, về sau mới có. Quyển 1 nói “Phá Quân cùng ở đất tiền thì tiền tới tay mà thành không”, lại nói Phá Quân “cùng Vũ Khúc vào vị trí tiền thì đông nghiêng tây bại”, tiền tới tay cũng dễ thành không. Lại thêm Địa Không, Địa Kiếp thì quyển 2 mục Phá Quân nói “thêm Không Kiếp thì cực nghèo”."
+  ],
+  "canCu": [
+   "Tài tinh + hao tinh vào Tài Bạch, vào lớn ra lớn.",
+   "Cần đặt kỷ luật quản lý tiền."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Vũ Khúc: “cùng Phá Quân thì đông tới tây đi, trước không sau có”; mục Phá Quân: “cùng Vũ Khúc thủ cung Tỵ Hợi thì đông tới tây đi”.",
+    "goc": "武曲条：「破军同东来西去先无后有」；破军条：「武曲同守巳亥宫，东来西去」"
+   }
+  ]
+ },
+ "天同+太阴": {
+  "dinhDieu": "Đồng Âm ngồi Tài Bạch: tiền tự mình góp, phát muộn.",
+  "tom": "Phúc tinh đi cùng tài tinh: dịu dàng hưởng phúc, tình cảm phong phú.",
+  "cotLoi": [
+   "Thiên Đồng, Thái Âm vào cung Tài Bạch: Thái Âm đại diện tiền có nguồn chính đáng, đi đường lương cố định. Sách nói Thiên Đồng ở Tài Bạch “tay trắng sinh tiền, phát muộn”, tức tay trắng gây dựng, tự mình góp từng chút, thời điểm phát đạt cũng hơi muộn. Thái Âm ở Tý nhập miếu thì giàu đủ, giữ được; ở Ngọ hãm thì có kiếm có lỗ, không giữ được. Về tiêu tiền thì coi trọng chất lượng cuộc sống, không phải kiểu liều mạng gom tiền."
+  ],
+  "canCu": [
+   "Tài tinh Thái Âm vào Tài Bạch, bảo đảm tài vận.",
+   "Phúc tinh Thiên Đồng coi trọng tiêu dùng hưởng thụ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Thái Âm: “cùng Thiên Đồng thì tiền vượng, nuôi thân”; mục Thiên Đồng: “Thiên Đồng tay trắng sinh tiền, phát muộn”.",
+    "goc": "太阴条：「天同同财旺生身」；天同条：「天同白手生财晚发」"
+   }
+  ]
+ },
+ "天同+巨门": {
+  "dinhDieu": "Tay trắng gây dựng, phát muộn; tiền có vào có ra, hợp kiếm tiền ở chỗ náo nhiệt.",
+  "tom": "Phúc tinh gặp ám tinh: ngoài hòa nhã trong rối rắm, tài ăn nói không tầm thường.",
+  "cotLoi": [
+   "Thiên Đồng, Cự Môn vào cung Tài Bạch: phần nhiều tay trắng gây dựng, tuổi trẻ không dễ, về già mới thấy rộng rãi. Tiền có vào có ra, lên xuống khó tránh; hợp cầu tiền ở nơi đông người náo nhiệt. Nếu lòng quá cao, thích tranh hơn thì lại dễ phá tài một lần."
+  ],
+  "canCu": [
+   "Cự Môn ở Tài Bạch chủ kiếm tiền nhờ tài ăn nói.",
+   "Thiên Đồng ở Tài Bạch chủ không quá vất vả."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Thiên Đồng: “cùng Cự Môn thì tiền và khí tiến lùi”; mục Cự Môn: “cùng Thiên Đồng thì tay trắng thành nhà, người cửu lưu thì tốt”.",
+    "goc": "天同条：「巨门同财气进退」；巨门条：「天同同白手成家，九流人吉」"
+   }
+  ]
+ },
+ "天同+天梁": {
+  "dinhDieu": "Tay trắng gây dựng, phát muộn; có thể hơn đời trước; cầu vững, đừng đầu cơ.",
+  "tom": "Phúc tinh đi cùng ấm tinh: lương thiện phúc hậu, số gặp dữ hóa lành.",
+  "cotLoi": [
+   "Thiên Đồng, Thiên Lương vào cung Tài Bạch: quyển 2 nói Thiên Đồng “tay trắng sinh tiền, phát muộn”, cùng cung Thiên Lương thì là “tiền rất vượng”, “tay trắng sinh tiền hơn tổ”, tức không dựa vào sản nghiệp nhà để lại, hoàn toàn tự mình góp; tài thế vượng được, hơn đời trước, nhưng phải sau trung niên mới thấy khởi sắc. Thiên Lương ở Dần nhập miếu thì giàu đủ, ở Thân hãm thì phải vất vả qua ngày. Đường quản tiền cầu vững, đừng đụng tới đầu cơ."
+  ],
+  "canCu": [
+   "Phúc tinh Thiên Đồng bảo đảm cuộc sống cơ bản.",
+   "Ấm tinh Thiên Lương che giữ tiền bạc."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Thiên Đồng: “cùng Thiên Lương thì tiền rất vượng”; mục Thiên Lương: “cùng Thiên Đồng thì tay trắng sinh tiền hơn tổ”.",
+    "goc": "天同条：「天梁同财大旺」；天梁条：「天同同白手生财胜祖」"
+   }
+  ]
+ },
+ "廉贞+天府": {
+  "dinhDieu": "Thiên Phủ là kho tiền, cả đời rộng rãi; tiền góp được cũng giữ được.",
+  "tom": "Tù tinh vào kho: ngoài cứng trong vững, năng lực quản lý rất mạnh.",
+  "cotLoi": [
+   "Liêm Trinh, Thiên Phủ vào cung Tài Bạch: Thiên Phủ là kho tiền, đại diện cả đời rộng rãi, rất giỏi giữ những khoản tiền lớn. Sự tiến thủ của Liêm Trinh đi cùng sự thận trọng của Thiên Phủ, quản tiền vừa công vừa thủ, hợp điều phối tài chính và lập kế hoạch vững vàng. Gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì về tiền có thành có bại, lên xuống rõ rệt."
+  ],
+  "canCu": [
+   "Sao kho Thiên Phủ vào Tài Bạch chủ tích góp dày.",
+   "Liêm Trinh chủ quản lý tiền kiểu tiến thủ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Thiên Phủ",
+    "dich": "Thiên Phủ thì giàu đủ, gặp Dương, Đà, Hỏa, Linh, Không, Kiếp thì có thành có bại; cùng Tử Vi thì tích lớn; cùng Liêm Trinh, Vũ Khúc thêm Quyền Lộc thì là ông nhà giàu xa hoa.",
+    "goc": "天府富足，见羊陀火铃空劫有成败，紫微同巨积，廉贞武曲同加权禄为富奢翁"
+   }
+  ]
+ },
+ "廉贞+天相": {
+  "dinhDieu": "Thiên Tướng đem lại giàu đủ; cùng Liêm Trinh thì kiếm tiền nhờ buôn bán; gặp sát tinh thì không giữ được.",
+  "tom": "Tù tinh đi cùng sao ấn: phép tắc và cạnh tranh cùng có, hợp pháp vụ, hành chính.",
+  "cotLoi": [
+   "Liêm Trinh, Thiên Tướng vào cung Tài Bạch: Toàn Thư nói Thiên Tướng ở Tài Bạch đại diện giàu đủ, cùng Liêm Trinh thì là “buôn bán sinh tiền”, tức tiền phần nhiều từ kinh doanh mua bán, không chỉ dựa vào một đồng lương cứng. Tiêu tiền có tiết độ, không phô trương. Nếu lại hội Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì sách nói có thành có bại, không để dành được; kiếm nhiều cũng không giữ được."
+  ],
+  "canCu": [
+   "Sao ấn vào Tài Bạch chủ chính tài ổn định.",
+   "Liêm Trinh chủ kiếm tiền kiểu tiến thủ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Thiên Tướng: “cùng Liêm Trinh thì buôn bán sinh tiền”; mục Liêm Trinh: “cùng Thiên Tướng thì kho đựng giàu đủ”.",
+    "goc": "天相条：「廉贞同商贾生财」；廉贞条：「天相同富足仓箱」"
+   }
+  ]
+ },
+ "廉贞+七杀": {
+  "dinhDieu": "Tiền đến từ cạnh tranh; kiếm tiền vất vả nhưng tích lũy được.",
+  "tom": "Tù tinh đi cùng tướng tinh: cương liệt quả quyết, không sợ cường quyền, hợp quân đội, cảnh sát, khởi nghiệp.",
+  "cotLoi": [
+   "Liêm Trinh, Thất Sát vào cung Tài Bạch: Toàn Thư có câu “cùng Thất Sát thì lấy ở chốn náo nhiệt”, tức tiền phải tới chỗ náo nhiệt, cạnh tranh mà giành lấy, thắng nhờ sức xông và quyết đoán, không phải kiểu nằm thu tiền. Toàn Thư quyển 3 nói “Liêm Trinh, Thất Sát ở Miếu Vượng lại là người tích được giàu”; Liêm Sát cùng cung chỉ ở Sửu, Mùi, Thất Sát nhập miếu, Liêm Trinh không hãm; kéo dài thời gian thì tích lũy rất đáng kể."
+  ],
+  "canCu": [
+   "Liêm Trinh chủ kiếm tiền nhờ cạnh tranh, Thất Sát chủ đầu tư quả quyết.",
+   "Kiếm tiền vất vả nhưng có tích lũy."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2 (Tài Bạch, mục Liêm Trinh) và quyển 3",
+    "dich": "Quyển 2: “cùng Thất Sát thì lấy ở chốn náo nhiệt”; quyển 3: “Liêm Trinh, Thất Sát ở Miếu Vượng lại là người tích được giàu”.",
+    "goc": "廉贞条：「七杀同闹中取」；卷三：「廉贞七杀居庙旺反为积富之人」"
+   }
+  ]
+ },
+ "廉贞+破军": {
+  "dinhDieu": "Vốn liếng nhà không trông được, tiền phải tự kiếm lại từ đầu.",
+  "tom": "Tù tinh đi cùng tiên phong: sức phá và sức sáng tạo cùng có, đời lên xuống lớn.",
+  "cotLoi": [
+   "Quyển 2 nói về cung Tài Bạch: Phá Quân “ở cung hãm thì phá, không tụ được của tổ”, tức Phá Quân hãm thì sản nghiệp nhà không giữ được cũng không góp được; Liêm Trinh, Phá Quân cùng cung ở Mão, Dậu chính là vị trí Phá Quân hãm (sao yếu). Gia sản tổ tiên không trông được, tiền phải tự kiếm lại từ đầu. Bản thân Phá Quân thiên về tiêu hao, biên độ ra vào lớn, đến nhanh đi cũng nhanh; tốt nhất khóa trước một phần lợi nhuận thành tài sản an toàn không động tới. Thầy Nghê từng xem một ví dụ cung Tài Bạch có Liêm Trinh Phá Quân, nói thẳng người như vậy “không thể nói là tự làm ăn được, không thể, hoàn toàn không thể” (Nghê Hải Hạ, Thiên Kỷ, tập 27, 01:23)."
+  ],
+  "canCu": [
+   "Liêm Trinh chủ cạnh tranh tiến thủ, Phá Quân chủ tiêu hao biến động.",
+   "Tài vận cực đoan."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch",
+    "dich": "Mục Phá Quân: “ở cung hãm thì phá, không tụ được của tổ”; mục Vũ Khúc: “cùng Liêm Trinh thì lao lực sinh tiền, trước khó sau thuận”.",
+    "goc": "破军条：「陷宫破不祖聚」「廉贞同劳碌生财，先难后遂」"
+   }
+  ]
+ },
+ "廉贞+贪狼": {
+  "dinhDieu": "Tiền trước khó sau dễ, đến nhanh cũng tan nhanh.",
+  "tom": "Hai sao đào hoa cùng cung: duyên khác giới cực vượng, đa tài đa nghệ nhưng phải phòng phóng túng.",
+  "cotLoi": [
+   "Liêm Trinh, Tham Lang vào cung Tài Bạch: tiền đến từ quan hệ và những chỗ náo nhiệt, tiêu vào hưởng thụ, thể diện, giao tế cũng không tiếc tay. Đặc điểm của sao Tham Lang là phát đột ngột, cũng phá đột ngột, vào mạnh tan cũng nhanh; nếu gặp Hỏa Tinh thì trước ba mươi tuổi có thành có bại, sau ba mươi lại dễ phát đột ngột. Về tiền nên tự đặt một bộ quy tắc ra vào cố định."
+  ],
+  "canCu": [
+   "Song đào hoa vào Tài Bạch, kiếm tiền nhờ quan hệ.",
+   "Tiêu tiền coi trọng hưởng lạc và giao tế."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Tài Bạch, mục Liêm Trinh",
+    "dich": "(Cùng) Tham Lang thì sinh bất ngờ, phá bất ngờ; gặp Dương, Hỏa thì rất hay có tiền vào bất ngờ.",
+    "goc": "贪狼生横发横破，见羊火极生横进之财"
+   }
+  ]
+ }
+}

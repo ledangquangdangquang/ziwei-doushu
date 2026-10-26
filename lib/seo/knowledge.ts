@@ -1,162 +1,90 @@
 /**
- * SEO 知识页 — 数据 helper
- *
- * 14 主星 × 13 topic = 182 个独立 SEO URL
- * 每页都是 STAR_DB 中对应字段的 4 段 markers（一句话定调/核心论断/命盘依据/经典出处）
+ * Trang kiến thức — 14 chính tinh × 12 cung = 168 trang, nội dung lấy từ luận giải tiếng Việt (vn-luan-giai.ts).
+ * URL dùng slug không dấu: /knowledge/thien-co/phu-the
  */
 
-import { STAR_DB } from '@/lib/ziwei/db-analysis';
-import type { TopicKey } from '@/lib/ziwei/db-analysis';
-import { TOPIC_PALACE_NAME, TOPIC_LABEL } from '@/lib/ziwei/db-analysis';
+import { CAP_DS, CUNG, CUNG_Y_NGHIA, LUAN_GIAI, SAO_TINH_CHAT } from '@/lib/ziwei/vn-luan-giai';
+import { vi, slugVi } from '@/lib/ziwei/vi';
+import { BRANCHES, SI_HUA_TABLE, STEMS } from '@/lib/ziwei/constants';
+import { schoolStarBrightness } from '@/lib/ziwei/school-data';
+import type { SiHua } from '@/lib/ziwei/types';
 
 export const ALL_STARS = [
   '紫微', '天机', '太阳', '武曲', '天同', '廉贞', '天府',
   '太阴', '贪狼', '巨门', '天相', '天梁', '七杀', '破军',
 ];
 
-// 主星名 ↔ 拼音 slug 映射（URL 用 slug，避免中文 URL 在 Vercel/CDN 上的边界问题）
-export const STAR_TO_SLUG: Record<string, string> = {
-  '紫微': 'ziwei',
-  '天机': 'tianji',
-  '太阳': 'taiyang',
-  '武曲': 'wuqu',
-  '天同': 'tiantong',
-  '廉贞': 'lianzhen',
-  '天府': 'tianfu',
-  '太阴': 'taiyin',
-  '贪狼': 'tanlang',
-  '巨门': 'jumen',
-  '天相': 'tianxiang',
-  '天梁': 'tianliang',
-  '七杀': 'qisha',
-  '破军': 'pojun',
-};
+const invert = (m: Record<string, string>) => Object.fromEntries(Object.entries(m).map(([k, v]) => [v, k]));
 
-export const SLUG_TO_STAR: Record<string, string> = Object.fromEntries(
-  Object.entries(STAR_TO_SLUG).map(([k, v]) => [v, k])
-);
-
-export const ALL_TOPICS: TopicKey[] = [
-  'overview', 'personality', 'love', 'career', 'wealth', 'health',
-  'family', 'children', 'move', 'friends', 'home', 'spirit', 'parents',
-];
-
-interface StarContent {
-  mingGong: string;
-  personality: string;
-  xiongDi?: string;
-  fuQi: string;
-  ziNv?: string;
-  caiBo: string;
-  jiE: string;
-  qianYi?: string;
-  jiaoYou?: string;
-  guanLu: string;
-  tianZhai?: string;
-  fuDe?: string;
-  fuMu?: string;
-}
-
-const TOPIC_TO_FIELD: Record<TopicKey, keyof StarContent> = {
-  overview:    'mingGong',
-  personality: 'personality',
-  love:        'fuQi',
-  career:      'guanLu',
-  wealth:      'caiBo',
-  health:      'jiE',
-  family:      'xiongDi' as keyof StarContent,
-  children:    'ziNv' as keyof StarContent,
-  move:        'qianYi' as keyof StarContent,
-  friends:     'jiaoYou' as keyof StarContent,
-  home:        'tianZhai' as keyof StarContent,
-  spirit:      'fuDe' as keyof StarContent,
-  parents:     'fuMu' as keyof StarContent,
-};
-
-interface ParsedContent {
-  dingdiao: string;
-  lundian: string;
-  yiju: string;
-  chuchu: string;
-  raw: string;
-  hasMarkers: boolean;
-}
-
-function parseStarContent(content: string): ParsedContent {
-  const out: ParsedContent = { dingdiao: '', lundian: '', yiju: '', chuchu: '', raw: content, hasMarkers: false };
-  if (!content) return out;
-  if (!content.includes('**【一句话定调】**') && !content.includes('**【核心论断】**')) {
-    out.lundian = content;
-    return out;
-  }
-  out.hasMarkers = true;
-  const re = /\*\*【([^】]+)】\*\*/g;
-  const parts: { name: string; markerEnd: number; start: number }[] = [];
-  let m: RegExpExecArray | null;
-  while ((m = re.exec(content)) !== null) {
-    parts.push({ name: m[1], start: m.index, markerEnd: m.index + m[0].length });
-  }
-  for (let i = 0; i < parts.length; i++) {
-    const p = parts[i];
-    const end = i + 1 < parts.length ? parts[i + 1].start : content.length;
-    const text = content.slice(p.markerEnd, end).trim();
-    if (p.name === '一句话定调') out.dingdiao = text;
-    else if (p.name === '核心论断') out.lundian = text;
-    else if (p.name === '命盘依据') out.yiju = text;
-    else if (p.name === '经典出处') out.chuchu = text;
-  }
-  return out;
-}
+export const STAR_TO_SLUG: Record<string, string> = Object.fromEntries(ALL_STARS.map(s => [s, slugVi(vi(s))]));
+export const SLUG_TO_STAR: Record<string, string> = invert(STAR_TO_SLUG);
+export const CUNG_TO_SLUG: Record<string, string> = Object.fromEntries(CUNG.map(c => [c, slugVi(vi(c))]));
+export const SLUG_TO_CUNG: Record<string, string> = invert(CUNG_TO_SLUG);
 
 export interface KnowledgeData {
   star: string;
-  topic: TopicKey;
-  topicLabel: string;
-  palaceName: string;
-  parsed: ParsedContent;
-  exists: boolean;
+  cung: string;
+  /** "Thiên Cơ" */
+  starVi: string;
+  /** "Phu Thê" */
+  cungVi: string;
+  cungYNghia: string;
+  tinhChat: string;
+  text: string;
+  /** Độ sáng ở 12 ô, gom theo bậc: [['庙', ['丑', '午', '未']], …] */
+  doSang: [string, string[]][];
+  /** Năm can nào sao được hóa: [['禄', '甲'], …] */
+  tuHoa: [SiHua, string][];
+  /** id đoạn cổ thư luận về sao này */
+  coThu: string;
 }
 
-export function getKnowledge(star: string, topic: TopicKey): KnowledgeData {
-  const profile = STAR_DB[star] as StarContent | undefined;
-  const field = TOPIC_TO_FIELD[topic];
-  const content = profile && field ? (profile[field] as string | undefined) ?? '' : '';
+/** 7 bậc độ sáng, mạnh → yếu (bảng 全书 mà lá số đang dùng) */
+export const DO_SANG = ['庙', '旺', '得', '利', '平', '不', '陷'];
+
+/** Cùng hàm engine dùng khi vẽ lá số, nên trang kiến thức luôn khớp lá số */
+export function doSangTheoBac(star: string): [string, string[]][] {
+  return DO_SANG
+    .map(b => [b, BRANCHES.filter((_, i) => schoolStarBrightness(star, i) === b)] as [string, string[]])
+    .filter(([, ds]) => ds.length > 0);
+}
+
+const HOA: SiHua[] = ['禄', '权', '科', '忌'];
+
+export function tuHoaCuaSao(star: string): [SiHua, string][] {
+  return Object.entries(SI_HUA_TABLE).flatMap(([stem, sao]) =>
+    sao.flatMap((s, k): [SiHua, string][] => (s === star ? [[HOA[k], STEMS[+stem]]] : [])));
+}
+
+/** Đoạn cổ thư (lib/classics) luận về từng chính tinh */
+const CO_THU: Record<string, string> = {
+  '紫微': 'qj-2-1', '天机': 'qj-4-2', '太阳': 'qj-4-3', '武曲': 'qj-4-4', '天同': 'gsf-5-1',
+  '廉贞': 'qj-4-5', '天府': 'qj-3-1', '太阴': 'qj-3-2', '贪狼': 'qj-3-3', '巨门': 'qj-3-4',
+  '天相': 'qj-3-5', '天梁': 'qj-3-6', '七杀': 'gsf-3-1', '破军': 'qj-4-6',
+};
+
+export function getKnowledge(starSlug: string, cungSlug: string): KnowledgeData | null {
+  const star = SLUG_TO_STAR[starSlug];
+  const cung = SLUG_TO_CUNG[cungSlug];
+  const text = star && cung ? LUAN_GIAI[star]?.[CUNG.indexOf(cung)] : undefined;
+  if (!text) return null;
   return {
-    star,
-    topic,
-    topicLabel: TOPIC_LABEL[topic],
-    palaceName: TOPIC_PALACE_NAME[topic],
-    parsed: parseStarContent(content),
-    exists: Boolean(content),
+    star, cung, text,
+    starVi: vi(star),
+    cungVi: vi(cung),
+    cungYNghia: CUNG_Y_NGHIA[cung],
+    tinhChat: SAO_TINH_CHAT[star],
+    doSang: doSangTheoBac(star),
+    tuHoa: tuHoaCuaSao(star),
+    coThu: CO_THU[star],
   };
 }
 
-/** 生成所有 14×13 组合（用于 generateStaticParams） */
+/** Mọi tổ hợp sao × cung (cho generateStaticParams và sitemap) */
 export function getAllKnowledgeRoutes() {
-  const routes: { star: string; slug: string; topic: TopicKey }[] = [];
-  for (const star of ALL_STARS) {
-    for (const topic of ALL_TOPICS) {
-      const data = getKnowledge(star, topic);
-      if (data.exists) routes.push({ star, slug: STAR_TO_SLUG[star], topic });
-    }
-  }
-  return routes;
+  return ALL_STARS.flatMap(s => CUNG.map(c => ({ star: STAR_TO_SLUG[s], topic: CUNG_TO_SLUG[c] })));
 }
 
-/** 主星属性简介（用于 SEO 页"了解 XX 星"section） */
-export const STAR_BRIEF_SEO: Record<string, string> = {
-  '紫微': '紫微为帝星，主尊贵，化气为尊。落命主有领导气场、宜大平台高位。',
-  '天机': '天机为智慧星，主善变机灵，化气为善。落命主聪明机变、宜辅佐策划。',
-  '太阳': '太阳为男贵星，主名誉公务，化气为贵。落命主光明磊落、宜公职名声。',
-  '武曲': '武曲为财星，主刚毅果决，化气为财。落命主理财能力强、宜实业金融。',
-  '天同': '天同为福星，主温和享乐，化气为福。落命主性情温和、有福气。',
-  '廉贞': '廉贞为次桃花星，文武兼备，化气为囚。落命主多才多艺、感情丰富。',
-  '天府': '天府为南帝守财星，主稳重保守，化气为令。落命主品行端正、善守财库。',
-  '太阴': '太阴为月亮富贵星，主田宅富贵，化气为富。落命主感情细腻、女命最吉。',
-  '贪狼': '贪狼为桃花欲望星，多才多社交，化气为桃花。落命主多才艺、社交广。',
-  '巨门': '巨门为是非口才星，主辩论传媒，化气为暗。落命主口才好、宜律师教师。',
-  '天相': '天相为印星辅佐，主忠厚老实，化气为印。落命主品行端正、宜行政法务。',
-  '天梁': '天梁为老人星荫星，善逢凶化吉，化气为荫。落命主慈悲善良、宜法律医学。',
-  '七杀': '七杀为将星，主孤独果决冒险，化气为肃杀。落命主刚毅果决、宜军警创业。',
-  '破军': '破军为破坏创新星，主六亲缘薄，化气为耗。落命主开创变动、宜技术专长。',
-};
+/** Cặp sao → slug: "tu-vi-thien-phu" */
+export const CAP_SLUG: [string, [string, string]][] = CAP_DS.map(([a, b]) => [`${slugVi(vi(a))}-${slugVi(vi(b))}`, [a, b]]);
+export const capTheoSlug = (slug: string) => CAP_SLUG.find(([s]) => s === slug)?.[1];

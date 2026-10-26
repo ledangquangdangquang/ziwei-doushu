@@ -1,34 +1,32 @@
 /**
- * 古籍原典查询库 — 入口
- *
- * 加载所有古籍数据 + 提供查询/搜索 API
- * 数据为 JSON 静态打包，零 DB 依赖、零网络请求
+ * Thư viện cổ thư — dữ liệu tĩnh + tra cứu/tìm kiếm (không DB, không mạng)
  */
 
-import type { Book, Paragraph, SearchHit } from './types';
+import type { Book, SearchHit } from './types';
+import { foldVi } from '@/lib/ziwei/vi';
 import { guSuiFu } from './data/gusuifu';
 import { ziWeiQuanJi } from './data/quanji';
 import { ziWeiQuanShu } from './data/quanshu';
 
-/** 所有已收录古籍 */
+/** Các sách đã có */
 export const ALL_BOOKS: Book[] = [
   guSuiFu,
   ziWeiQuanJi,
   ziWeiQuanShu,
 ];
 
-/** 总段落数（用于首页统计） */
+/** Tổng số đoạn */
 export const TOTAL_PARAGRAPHS = ALL_BOOKS.reduce(
   (sum, b) => sum + b.chapters.reduce((s, c) => s + c.paragraphs.length, 0),
   0,
 );
 
-/** 按 slug 取书 */
+/** Lấy sách theo slug */
 export function getBookBySlug(slug: string): Book | null {
   return ALL_BOOKS.find(b => b.slug === slug) ?? null;
 }
 
-/** 按章节序号取章节 */
+/** Lấy chương theo số thứ tự */
 export function getChapter(bookSlug: string, chapterIdx: number) {
   const book = getBookBySlug(bookSlug);
   if (!book) return null;
@@ -37,7 +35,7 @@ export function getChapter(bookSlug: string, chapterIdx: number) {
   return { book, chapter, chapterIdx };
 }
 
-/** 按段落 id 取段落（含书与章节信息）*/
+/** Lấy đoạn theo id (kèm sách và chương) */
 export function getParagraphById(id: string) {
   for (const book of ALL_BOOKS) {
     for (let i = 0; i < book.chapters.length; i++) {
@@ -52,34 +50,30 @@ export function getParagraphById(id: string) {
 }
 
 /**
- * 全文搜索
- *
- * 简单子字符串匹配（不分词，对中文 OK）
- * 大小写不敏感、繁简转换暂不支持
+ * Tìm toàn văn trong bản dịch tiếng Việt và chữ Hán.
+ * Không phân biệt hoa thường và dấu: "hoa ky" khớp "Hóa Kỵ".
  */
 export function searchClassics(query: string, limit = 30): SearchHit[] {
-  const q = query.trim();
+  const q = foldVi(query.trim());
   if (q.length < 1) return [];
 
   const hits: SearchHit[] = [];
   for (const book of ALL_BOOKS) {
     for (const chapter of book.chapters) {
       for (const p of chapter.paragraphs) {
-        const idx = p.text.indexOf(q);
-        if (idx < 0) continue;
+        // foldVi giữ nguyên độ dài chuỗi nên vị trí khớp dùng được cho chuỗi gốc
+        const source = [p.translation ?? '', p.text].find(t => foldVi(t).includes(q));
+        if (!source) continue;
+        const idx = foldVi(source).indexOf(q);
 
-        // 提取上下文（前后各 40 字）
-        const start = Math.max(0, idx - 40);
-        const end = Math.min(p.text.length, idx + q.length + 40);
-        const before = p.text.slice(start, idx);
-        const matched = p.text.slice(idx, idx + q.length);
-        const after = p.text.slice(idx + q.length, end);
-
+        // ngữ cảnh 60 ký tự mỗi bên
+        const start = Math.max(0, idx - 60);
+        const end = Math.min(source.length, idx + q.length + 60);
         const snippet = (start > 0 ? '…' : '')
-          + escapeHtml(before)
-          + `<mark>${escapeHtml(matched)}</mark>`
-          + escapeHtml(after)
-          + (end < p.text.length ? '…' : '');
+          + escapeHtml(source.slice(start, idx))
+          + `<mark>${escapeHtml(source.slice(idx, idx + q.length))}</mark>`
+          + escapeHtml(source.slice(idx + q.length, end))
+          + (end < source.length ? '…' : '');
 
         hits.push({
           bookSlug: book.slug,

@@ -21,6 +21,8 @@ export interface TrueSolarTimeInput extends GregorianDate {
   clockMinute: number;
   /** 未提供经度时保持原钟表时间，不做真太阳时校正。 */
   longitude?: number;
+  /** 钟表所在时区（小时），默认东八区；越南为 7（南越 1960–1975 为 8） */
+  utcOffsetHours?: number;
 }
 
 export interface TrueSolarTimeResult {
@@ -99,7 +101,7 @@ export function branchFromSolarMinutes(normalizedMinutes: number): number {
 export function calculateTrueSolarTime(input: TrueSolarTimeInput): TrueSolarTimeResult {
   const dateValid = isValidGregorianDate(input.year, input.month, input.day);
   const corrected = input.longitude !== undefined && Number.isFinite(input.longitude);
-  const longitudeCorrectionMinutes = corrected ? (input.longitude! - 120) * 4 : 0;
+  const longitudeCorrectionMinutes = corrected ? (input.longitude! - (input.utcOffsetHours ?? 8) * 15) * 4 : 0;
   const eot = corrected && dateValid
     ? equationOfTimeMinutes(input.year, input.month, input.day, input.clockHour, input.clockMinute)
     : 0;

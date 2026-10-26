@@ -2,120 +2,96 @@
 @tailwind components;
 @tailwind utilities;
 
-/* ─── 2.0 设计系统 Token ─────────────────────────────────── */
-:root {
-  /* 字体 */
-  --font: -apple-system, 'PingFang SC', 'Helvetica Neue', 'Segoe UI', sans-serif;
-  --font-mono: 'SF Mono', 'Menlo', 'Noto Sans Mono', 'Consolas', monospace;
+/* ─── Bí danh tên token cũ → token mới (tokens.css) — app chỉ có nền tối ─── */
+:root,
+[data-theme="dark"],
+[data-theme="light"] {
+  --font: var(--font-body);
+  --font-mono: var(--font-body);
 
-  /* 背景层级 */
-  --bg-0: #FAFAF9;
-  --bg-1: #F4F3EF;
-  --bg-2: #ECEAE4;
-  --bg-inv: #0D0D0B;
+  --bg-0: var(--color-paper);
+  --bg-1: var(--color-paper-2);
+  --bg-2: var(--color-paper-3);
+  --bg-inv: var(--color-ink);
+  --bg-card: var(--color-paper-2);
+  --bg-page: var(--color-paper);
 
-  /* 文字层级 */
-  --tx-0: #0D0D0B;
-  --tx-1: #1A1A18;
-  --tx-2: #4A4A45;
-  --tx-3: #8A8A82;
-  --tx-inv: #F0EDE8;
-  --tx-inv2: rgba(240,237,232,0.65);
+  --tx-0: var(--color-ink);
+  --tx-1: var(--color-ink);
+  --tx-2: var(--color-ink-2);
+  --tx-3: var(--color-muted);
+  --tx-inv: var(--color-paper);
+  --tx-inv2: var(--color-paper-3);
 
-  /* 唯一强调色：墨金 */
-  --ac:     #B8922A;
-  --ac-dim: #7A5F1A;
-  --ac-bg:  rgba(184,146,42,0.07);
-  --ac-bdr: rgba(184,146,42,0.22);
+  --ac: var(--color-accent);
+  --ac-dim: var(--color-accent);
+  --ac-bg: color-mix(in oklch, var(--color-accent) 8%, var(--color-paper));
+  --ac-bdr: color-mix(in oklch, var(--color-accent) 30%, var(--color-paper));
 
-  /* 四化语义色（仅用于命盘数据，不用于UI装饰） */
-  --lu:   #2D7A4A;
-  --quan: #1A56A8;
-  --ke:   #8A7018;
-  --ji:   #A83228;
+  --lu: var(--color-loc);
+  --quan: var(--color-quyen);
+  --ke: var(--color-khoa);
+  --ji: var(--color-ky);
 
-  /* 边框 */
-  --bdr:      rgba(0,0,0,0.07);
-  --bdr-med:  rgba(0,0,0,0.11);
-  --bdr-heavy:rgba(0,0,0,0.18);
+  --bdr: var(--color-rule-2);
+  --bdr-med: var(--color-rule);
+  --bdr-heavy: var(--color-rule-strong);
 
-  /* 阴影 */
-  --sh-xs: 0 1px 2px rgba(0,0,0,0.05);
-  --sh-sm: 0 2px 8px rgba(0,0,0,0.06), 0 1px 3px rgba(0,0,0,0.04);
-  --sh-md: 0 4px 20px rgba(0,0,0,0.08), 0 2px 6px rgba(0,0,0,0.05);
-  --sh-lg: 0 12px 40px rgba(0,0,0,0.10), 0 4px 12px rgba(0,0,0,0.06);
+  --sh-xs: none;
+  --sh-sm: none;
+  --sh-md: 0 12px 32px -16px var(--color-shadow);
+  --sh-lg: 0 24px 60px -28px var(--color-shadow);
 
-  /* 卡片/内容块背景 */
-  --bg-card: #FFFFFF;
-  --bg-page: #fbf6e8;
-
-  /* 圆角 */
-  --r-xs:  4px;
-  --r-sm:  8px;
-  --r-md:  12px;
-  --r-lg:  16px;
-  --r-xl:  24px;
-  --r-pill:999px;
-}
-
-/* ─── 暗色模式 Token 覆盖 ──────────────────────────────── */
-[data-theme="dark"] {
-  --bg-0: #020810;
-  --bg-1: #0a1020;
-  --bg-2: #141e30;
-  --bg-inv: #f0ede8;
-
-  --tx-0: #e8eef6;
-  --tx-1: #dce4f0;
-  --tx-2: #9db0d0;
-  --tx-3: #6a7a96;
-  --tx-inv: #0d0d0b;
-  --tx-inv2: rgba(13,13,11,0.65);
-
-  --ac:     #d4a843;
-  --ac-dim: #e8c060;
-  --ac-bg:  rgba(212,168,67,0.10);
-  --ac-bdr: rgba(212,168,67,0.25);
-
-  --bdr:      rgba(255,255,255,0.07);
-  --bdr-med:  rgba(255,255,255,0.12);
-  --bdr-heavy:rgba(255,255,255,0.20);
-
-  --sh-xs: 0 1px 2px rgba(0,0,0,0.3);
-  --sh-sm: 0 2px 8px rgba(0,0,0,0.4), 0 1px 3px rgba(0,0,0,0.3);
-  --sh-md: 0 4px 20px rgba(0,0,0,0.5), 0 2px 6px rgba(0,0,0,0.35);
-  --sh-lg: 0 12px 40px rgba(0,0,0,0.6), 0 4px 12px rgba(0,0,0,0.4);
-
-  --bg-card: rgba(255,255,255,0.04);
-  --bg-page: #020810;
+  --t-bg: var(--color-paper);
+  --t-surface: var(--color-paper-2);
+  --t-border: var(--color-rule);
+  --t-gold: var(--color-accent);
+  --t-faint: var(--color-muted);
 }
 
 /* ─── 全局基础 ───────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
-  background: var(--bg-0);
+  background: var(--color-paper);
+  color-scheme: dark;
   scroll-behavior: smooth;
+  overflow-x: clip;
 }
 
 body {
-  background: var(--bg-0);
-  color: var(--tx-1);
-  font-family: var(--font);
+  /* Hai quầng sáng tĩnh (vàng cổ + tím) trên nền đêm — không chuyển động */
+  background:
+    radial-gradient(48rem 32rem at 92% -6%, var(--color-bloom-2), transparent 70%),
+    radial-gradient(36rem 28rem at -8% 38%, var(--color-bloom), transparent 70%),
+    var(--color-paper);
+  background-attachment: fixed;
+  color: var(--color-ink);
+  font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6;
+  overflow-x: clip;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 150ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 150ms !important;
+  }
 }
 
 /* ─── 滚动条 ─────────────────────────────────────────────── */
 ::-webkit-scrollbar { width: 5px; height: 5px; }
-::-webkit-scrollbar-track { background: var(--bg-1); }
+::-webkit-scrollbar-track { background: var(--color-paper-2); }
 ::-webkit-scrollbar-thumb { background: var(--bdr-heavy); border-radius: 3px; }
 
 /* ─── 选中文字 ───────────────────────────────────────────── */
 ::selection {
-  background: rgba(184,146,42,0.15);
-  color: var(--ac-dim);
+  background: color-mix(in oklch, var(--color-accent) 30%, var(--color-paper));
+  color: var(--color-ink);
 }
 
 /* ─── 工具类 ─────────────────────────────────────────────── */
@@ -432,5 +408,5 @@ body {
 
 /* 原生下拉框（年 / 月 / 日 / 时辰 / 省市）：深色主题下选项列表用实色底。
    select 本身是半透明底 + 浅色字，Windows 上原生下拉列表是白底，浅灰字配白底看不清（#14） */
-[data-theme="dark"] select { color-scheme: dark; }
-[data-theme="dark"] select option { background-color: var(--bg-2); color: var(--tx-1); }
+select { color-scheme: dark; }
+select option { background-color: var(--color-paper-3); color: var(--color-ink); }

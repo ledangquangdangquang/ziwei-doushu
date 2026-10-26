@@ -9,39 +9,38 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // 2.0 设计系统色
+        // Trỏ sang token trong tokens.css (design.md) — không giữ mã hex riêng
         bg: {
-          0: "#FAFAF9",
-          1: "#F4F3EF",
-          2: "#ECEAE4",
-          inv: "#0D0D0B",
+          0: "var(--color-paper)",
+          1: "var(--color-paper-2)",
+          2: "var(--color-paper-3)",
+          inv: "var(--color-ink)",
         },
         tx: {
-          0: "#0D0D0B",
-          1: "#1A1A18",
-          2: "#4A4A45",
-          3: "#8A8A82",
-          inv: "#F0EDE8",
+          0: "var(--color-ink)",
+          1: "var(--color-ink)",
+          2: "var(--color-ink-2)",
+          3: "var(--color-muted)",
+          inv: "var(--color-paper)",
         },
         ac: {
-          DEFAULT: "#B8922A",
-          dim: "#7A5F1A",
+          DEFAULT: "var(--color-accent)",
+          dim: "var(--color-accent)",
         },
-        // 四化语义色
-        lu:   "#2D7A4A",
-        quan: "#1A56A8",
-        ke:   "#8A7018",
-        ji:   "#A83228",
+        lu:   "var(--color-loc)",
+        quan: "var(--color-quyen)",
+        ke:   "var(--color-khoa)",
+        ji:   "var(--color-ky)",
       },
       fontFamily: {
-        sans: ["var(--font)"],
-        mono: ["var(--font-mono)"],
+        sans: ["var(--font-body)"],
+        display: ["var(--font-display)"],
       },
       boxShadow: {
-        xs: "0 1px 2px rgba(0,0,0,0.05)",
-        sm: "0 2px 8px rgba(0,0,0,0.06), 0 1px 3px rgba(0,0,0,0.04)",
-        md: "0 4px 20px rgba(0,0,0,0.08), 0 2px 6px rgba(0,0,0,0.05)",
-        lg: "0 12px 40px rgba(0,0,0,0.10), 0 4px 12px rgba(0,0,0,0.06)",
+        xs: "var(--sh-xs)",
+        sm: "var(--sh-sm)",
+        md: "var(--sh-md)",
+        lg: "var(--sh-lg)",
       },
       borderRadius: {
         xs: "4px",

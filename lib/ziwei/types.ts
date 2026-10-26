@@ -21,6 +21,8 @@ export interface BirthInfo {
     clockHour: number;
     clockMinute: number;
   };
+  /** 越南阴历：该日（阴历 30 日）在中国阴历中不存在，命盘按中国阴历排（见 vn-calendar.ts） */
+  calendarFallback?: boolean;
 }
 
 export interface LunarInfo {

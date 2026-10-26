@@ -1,0 +1,938 @@
+{
+ "紫微": {
+  "dinhDieu": "Có phúc, ngày tháng sống thoải mái; thêm Kình Dương, Đà La, Linh Tinh, Địa Không, Địa Kiếp thì Toàn Thư nói “phúc mỏng”.",
+  "cotLoi": [
+   "Tử Vi ở cung Phúc Đức: hưởng thụ tinh thần coi trọng chất lượng, thích lối sống có phong cách, không mấy hứng thú với thú vui thô tục. Cùng cung Thiên Phủ hoặc Thiên Tướng, Toàn Thư nói Tử Vi “cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt”; cùng Thiên Phủ còn phải xem tam phương tứ chính có đủ Tả Phù, Hữu Bật không, và phần phúc này cũng không thể đem bù cho chuyện hôn nhân ở cung Phu Thê, Phúc Đức. Cùng Phá Quân thì mục Tử Vi nói “cùng Phá Quân thì lao tâm tốn sức, không yên”, mục Phá Quân lại nói “cùng Tử Vi thì yên vui”, hai thuyết song song. Trong lòng tự trọng mạnh, phải được người công nhận mới thấy hạnh phúc — đây là đề tài cốt lõi nhất của Tử Vi ở cung này. Toàn Thư nói Tử Vi ở Phúc Đức là “Tử Vi phúc dày, hưởng phúc yên vui”, tức phúc khí dày, sống yên vui.",
+   "Nam mệnh: Toàn Thư quyển 1 lại nói Tử Vi “ở Phúc Đức, với nam là đất hãm”, khác với quyển 2, hai thuyết song song. Nữ mệnh: Toàn Thư quyển 1 nói Tử Vi ở Phúc Đức “với nữ là miếu lạc (chỗ tốt)”."
+  ],
+  "canCu": [
+   "Tử Vi vào Phúc Đức — tầng tinh thần theo đuổi phong cách, cảm giác tự trọng mạnh.",
+   "Tử Vi hội lục sát ở Phúc Đức — tinh thần cô ngạo, dễ rơi vào cảm giác cô đơn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Tử Vi phúc dày, hưởng phúc yên vui; cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt; cùng Phá Quân thì lao tâm tốn sức, không yên; thêm Dương, Đà, Linh, Không, Kiếp thì phúc mỏng; cùng Thiên Cơ thì hưởng phúc cả đời.",
+    "goc": "紫微福厚享福安乐，天府天相同终身获吉，破军同劳心费力不安，加羊陀铃空劫福薄，天机同享福终身。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Phá Quân",
+    "dich": "Cùng Tử Vi thì yên vui.",
+    "goc": "紫微同安乐"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Ở Phúc Đức, với nam là đất hãm, với nữ là miếu lạc; gặp cát thì cát, gặp hung thì hung.",
+    "goc": "福德男为陷地，女为庙乐，逢吉则吉，逢凶则凶。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Thái Vi Phú",
+    "dich": "Tử Vi, Thiên Phủ hoàn toàn dựa vào công của Phụ Bật.",
+    "goc": "紫微天府全依辅弼之功"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức (mục Thất Sát)",
+    "dich": "Cùng Tử Vi thì trước lao sau nhàn, cuối đời mới như ý vừa lòng; phụ nữ một mình ở Phúc Đức thì ắt làm kỹ nữ, tì nữ.",
+    "goc": "紫微同先劳后逸，末年方如意遂心，女人单居福德，则必为娼婢。"
+   }
+  ]
+ },
+ "天机": {
+  "dinhDieu": "Trước khổ sau ngọt; cả đời nghĩ nhiều, có duyên với tôn giáo, mệnh lý; điều phải luyện là tĩnh lại được.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Phúc Đức, sách xưa nói “trước lao sau nhàn”, tức tuổi trẻ lao tâm tốn sức, sau trung niên mới nhàn — đây là câu quan trọng nhất của cung này. Thế giới tinh thần phong phú mà hay đổi, thích nghiền ngẫm đủ loại ý tưởng và triết học, tận hưởng niềm vui suy nghĩ, nhưng rất khó thật sự tĩnh tâm; sách xưa nói người số này hay lễ Phật, hợp môi trường thanh tịnh tu dưỡng, nên hứng thú nhiều với tôn giáo hoặc mệnh lý. Cùng cung Thiên Lương thì hưởng được thanh phúc; cùng Thái Âm thì sống vui; nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì cả đời bôn ba, không tĩnh được. Vì vậy điều phải tu ở cung này là một chữ “định”, tức để lòng đứng yên được."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Phúc Đức — tinh thần sôi nổi, tư duy nhạy bén.",
+   "Thiên Cơ hội Xương Khúc ở Phúc Đức — văn tứ nhạy bén."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Cơ trước lao sau nhàn; cùng Cự Môn thì lao lực kém yên; cùng Thiên Lương thì hưởng phúc; cùng Thái Âm chủ vui vẻ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì bôn ba không yên tĩnh.",
+    "goc": "天机先劳后逸，巨门同劳力欠安，天梁同享福，太阴同主快乐，加羊陀火铃空劫奔走不得宁静。"
+   }
+  ]
+ },
+ "太阳": {
+  "dinhDieu": "Bận rộn mới có phúc; vừa nhàn ra là trong lòng lại trống.",
+  "cotLoi": [
+   "Thái Dương ở cung Phúc Đức, Toàn Thư nói “Thái Dương phát phúc trong bận rộn”, tức phúc khí của bạn mọc lên giữa bận rộn và người qua kẻ lại; vừa nhàn ra là lại không yên. Hưởng thụ tinh thần đến từ giao tế, hoạt động công khai và cảm giác được người công nhận; ở một mình dễ trống trải, cần nhận cảm giác hiện diện từ bên ngoài. Nhập miếu (sao mạnh) thì tinh thần đầy đặn, sôi nổi lạc quan; hãm (sao yếu) thì cảm giác thỏa mãn không đủ, cảm giác bỏ nhiều mà nhận ít sẽ ảnh hưởng tâm trạng.",
+   "Nữ mệnh: Thái Dương với nữ mệnh cũng là sao chồng; Toàn Thư nói Thái Dương “nữ được thì là sao chồng”, thầy Nghê cũng nói “Thái Dương còn đại diện người chồng” (Nghê Hải Hạ, Thiên Kỷ, tập 17, 10:15), nên nữ mệnh có Thái Dương ở Phúc Đức phải xem cùng cung Phu Thê. Mục Thái Dương ở Phúc Đức trong Toàn Thư nói “phụ nữ gặp cát tinh thì lấy được chồng hiền minh, hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Kỵ, Hao thì luận là cả đời không đẹp”. Thầy Nghê từng giảng một ví dụ nữ mệnh: cung Phúc Đức có Thái Dương rất vượng, có Hồng Loan, kết hôn sớm; đại hạn đi tới cung Phúc Đức, can cung là Tân làm sao cùng cung thành Kỵ, thầy nói “rồi tới giờ hai vợ chồng cô ấy có danh không thực” (Thiên Kỷ, tập 25, 33:33)."
+  ],
+  "canCu": [
+   "Thái Dương vào Phúc Đức — tinh thần hướng ra ngoài, thích lấy năng lượng ở nơi công cộng.",
+   "Thái Dương ở Phúc Đức nhập miếu — tinh thần đầy đặn, lạc quan sôi nổi.",
+   "Thái Dương ở Phúc Đức hãm — bỏ nhiều nhận ít, tinh thần mệt mỏi."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thái Dương phát phúc trong bận rộn; cùng Thái Âm thì vui vẻ; cùng Cự Môn thì tốn sức kém yên; cùng Thiên Lương thì vui vẻ. Phụ nữ gặp cát tinh thì lấy được chồng hiền minh, hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Kỵ, Hao thì luận là cả đời không đẹp.",
+    "goc": "太阳忙中发福，太阴同快乐，巨门同费力欠安，天梁同快乐；女人会吉星，招贤明之夫，享福，加羊陀火铃空劫忌耗，终身不美之论。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Sao này nam được thì là sao cha, nữ được thì là sao chồng.",
+    "goc": "此星男得之为父星，女得之为夫星。"
+   }
+  ]
+ },
+ "武曲": {
+  "dinhDieu": "Không nhàn được là chuyện thường; nhập miếu mới yên ổn hưởng phúc.",
+  "canCu": [
+   "Vũ Khúc vào Phúc Đức — tầng tinh thần dựa vào cảm giác an toàn vật chất.",
+   "Vũ Khúc là sao cô khắc — thế giới tinh thần hơi lạnh cứng, ít dịu dàng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Vũ Khúc lao tâm tốn sức, nhập miếu thì yên ổn hưởng phúc; cùng Phá Quân thì chạy đông chạy tây, không yên tĩnh; cùng Thiên Tướng thì tuổi già an khang; cùng Thất Sát thì kém an khang; cùng Tham Lang thì về già hưởng phúc; gặp Hỏa Linh thì an nhàn; thêm Dương, Đà thì lo nghĩ mà được sức.",
+    "goc": "武曲劳心费力，入庙安然享福，破军同东走西行，不宁静，天相同老境安康；七杀同欠安康，贪狼同晚年享福，见火铃星安逸，加羊陀操心得力。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thiên Phủ",
+    "dich": "Cùng Vũ Khúc thì tuổi trẻ càng vất vả, trung và vãn niên yên vui hưởng phúc.",
+    "goc": "武曲同早年更辛苦，中晚安乐享福"
+   }
+  ]
+ },
+ "天同": {
+  "dinhDieu": "Thiên Đồng ở Phúc Đức: trong lòng vui vẻ, có phúc lại sống lâu.",
+  "cotLoi": [
+   "Cung Phúc Đức là một trong những vị trí Thiên Đồng thoải mái nhất. Sách nói “Thiên Đồng vui vẻ, có phúc có thọ”, tức tâm trạng vui, có phúc khí lại thọ; cùng Thái Âm thì hưởng phúc, cùng Thiên Lương thì thanh nhàn vui vẻ, cùng Cự Môn thì lo nhiều vui ít. Trong lòng yên tĩnh không nóng nảy, biết tìm sự thỏa mãn từ chuyện nhỏ thường ngày; niềm vui vững vàng ấy tự nó đã là sở trường của Thiên Đồng."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Phúc Đức — tầng tinh thần có phúc tinh, biết hưởng cuộc sống.",
+   "Thiên Đồng gặp sát — Toàn Thư quyển 1 nói Thiên Đồng “không sợ các sát quấn lấy”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Đồng vui vẻ, có phúc có thọ; cùng Cự Môn thì lo nhiều vui ít; cùng Thái Âm thì hưởng phúc; cùng Thiên Lương thì thanh nhàn vui vẻ.",
+    "goc": "天同快乐有福有寿，巨门同多忧少喜，太阴同享福，天梁同清闲快乐。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi sao Thiên Đồng chủ về gì",
+    "dich": "Thiên Đồng “là chủ tể của cung Phúc Đức”, “không sợ Thất Sát xâm phạm, không sợ các sát quấn lấy”.",
+    "goc": "为福德宫之主宰；不怕七杀相侵，不怕诸杀同缠"
+   }
+  ]
+ },
+ "廉贞": {
+  "dinhDieu": "Thủ một mình thì phúc sinh giữa bận rộn; cùng sao khác thì phúc khí mỗi kiểu một khác.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phúc Đức: “thủ một mình thì phúc sinh giữa bận rộn”, tức sao này ngồi một mình ở cung này thì phúc khí là do bận rộn mà kiếm ra, nhàn ra lại không yên; cùng Thiên Tướng thì “có phúc có thọ”, cùng Thiên Phủ thì “yên vui không lo”, đều nói ngày tháng yên ổn, ít phiền não; cùng Tham Lang thì mục Tham Lang trong Toàn Thư nói “cùng Liêm Trinh thì phúc mỏng”; cùng Phá Quân thì không tĩnh được, lao tâm tốn sức, lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì cả đời vất vả, cuối đời mới thuận lòng.",
+   "Cùng cung Thất Sát, mục Thất Sát trong Toàn Thư nói “cùng Liêm Trinh thì cần cù vất vả”; thầy Nghê nói “Liêm Trinh Thất Sát ở Phúc Đức đều là trường hợp đặc biệt; Phúc Đức có Liêm Trinh Thất Sát thì làm nghề đồ tể” (Nghê Hải Hạ, Thiên Kỷ, tập 48, 38:19), thầy xem tiếp tướng mặt, tầng tướng mặt này trên lá số không thấy được. Hưởng thụ tinh thần khá phong phú, sở thích rộng, thích món ngon, nghệ thuật và cái đẹp của giác quan, có thể thỏa mãn từ trải nghiệm.",
+   "Nữ mệnh: Liêm Trinh, Phá Quân cùng ở cung Phúc Đức, thầy Nghê nói “hễ gặp Liêm Phá thì đừng quản cung Phu Thê của cô ấy tốt tới đâu”, “không sinh ly thì tử biệt” (Thiên Kỷ, tập 17, 10:21); sinh ly hay tử biệt thì xem độ sáng của Thái Dương: thầy nói “tử biệt sẽ nhiều hơn sinh ly, vì Thái Dương của cô vượng”, “nếu là sinh ly thì Thái Dương ở đất hãm” (tập 17, 10:46). (Đây là lời phán nặng; nên đọc như lời nhắc vun đắp hôn nhân, không phải bản án.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phúc Đức — hưởng thụ tinh thần đa dạng, coi trọng giác quan và tình cảm.",
+   "Liêm Trinh gặp sát — xung đột tinh thần gay gắt, nên tĩnh tâm tu thân."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Liêm Trinh thủ một mình thì phúc sinh giữa bận rộn; cùng Thiên Tướng thì có phúc có thọ; cùng Thiên Phủ thì yên vui không lo; cùng Phá Quân thì không giữ yên được, lao tâm tốn sức; lại thêm Dương, Đà, Hỏa, Linh thì vất vả cả đời, cuối đời như ý.",
+    "goc": "廉贞独守忙中生福，天相同有福有寿，天府同安乐无忧，破军同不守静，劳心费力，再加羊陀火铃劳苦终身，末年如意。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Tham Lang",
+    "dich": "Cùng Liêm Trinh thì phúc mỏng.",
+    "goc": "廉贞同福薄"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thất Sát",
+    "dich": "Cùng Liêm Trinh thì cần cù vất vả.",
+    "goc": "廉贞同辛勤"
+   }
+  ]
+ },
+ "天府": {
+  "dinhDieu": "Yên tĩnh là có phúc; thêm sát tinh, Hóa Kỵ thì sống lao khổ.",
+  "cotLoi": [
+   "Thiên Phủ ở cung Phúc Đức, Toàn Thư nói “Thiên Phủ yên tĩnh hưởng phúc”, tức phúc khí ở cung này đến từ sự yên tĩnh; cùng Vũ Khúc thì “tuổi trẻ càng vất vả, trung và vãn niên yên vui hưởng phúc”, tức lúc trẻ mệt hơn, sau trung niên mới hưởng được; hễ “thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Hao, Kỵ” thì thành “sống qua ngày lao khổ”, tức Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp lại thêm Đại Hao, Hóa Kỵ cùng đè tới thì ngày tháng lao lực. Phúc khí của Thiên Phủ chính là đổi bằng hai chữ “yên tĩnh”: không giày vò, có quy luật, trong lòng có điểm tựa.",
+   "Về tinh thần theo đuổi sự yên ổn chắc chắn, thích cuộc sống có bảo đảm; cảm giác thỏa mãn đến từ ngày tháng ổn định, vật chất không thiếu, không thích mạo hiểm kích thích. Điều phải phòng là nỗi lo giữ không nổi khi sát tinh, Hóa Kỵ cùng đè tới — nó sẽ bào mòn phúc khí."
+  ],
+  "canCu": [
+   "Thiên Phủ vào Phúc Đức — tinh thần theo đuổi yên ổn chắc chắn, coi trọng quy luật.",
+   "Thiên Phủ ở Phúc Đức hội Tả Phù, Hữu Bật — phúc khí dày chắc, tinh thần đầy đủ.",
+   "Thiên Phủ ở Phúc Đức gặp Không Kiếp — kho tiền gặp không, trong lòng không yên.",
+   "Thiên Phủ gặp sát — tinh thần quá thận trọng, thiếu sức sống."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Phủ yên tĩnh hưởng phúc; cùng Tử Vi thì vui vẻ; cùng Liêm Trinh thì thân yên mà lòng bận; cùng Vũ Khúc thì tuổi trẻ càng vất vả, trung và vãn niên yên vui hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Hao, Kỵ thì sống qua ngày lao khổ.",
+    "goc": "天府安静享福，紫微同快乐，廉贞同身安心忙，武曲同早年更辛苦，中晚安乐享福，加羊陀火铃空劫耗忌劳苦过日。"
+   }
+  ]
+ },
+ "太阴": {
+  "dinhDieu": "Trăng sáng thì thoải mái vui vẻ; trăng tối hoặc gặp sát thì đa sầu, không tĩnh được.",
+  "cotLoi": [
+   "Thái Âm ở cung Phúc Đức: hưởng thụ tinh thần phong phú tinh tế, thích lối sống thanh u nhã nhặn, tình cảm nội tâm dồi dào, có thẩm mỹ nghệ thuật và theo đuổi tinh thần; đọc sách, thưởng trà, ở một mình đều là chất dinh dưỡng. Sách nói “Thái Âm nhập miếu thì hưởng phúc vui vẻ”, tức người có Thái Âm nhập miếu (sao ở vị trí này mạnh) hưởng được phúc, sống vui. Hãm thì về tinh thần dễ đa sầu đa cảm; thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì lúc lo lúc vui, lòng không tĩnh được; cùng Thiên Cơ càng dễ tâm trí bận rộn không ngừng."
+  ],
+  "canCu": [
+   "Thái Âm vào Phúc Đức — tầng tinh thần âm nhu tinh tế, coi trọng sự thanh u.",
+   "Thái Âm ở Phúc Đức nhập miếu — phúc khí rất dày, tinh thần đầy đủ.",
+   "Thái Âm ở Phúc Đức hãm — đa sầu đa cảm, cần ánh sáng để cân bằng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thái Âm nhập miếu thì hưởng phúc vui vẻ; cùng Thái Dương thì rất đẹp, tăng đạo cũng thanh khiết hưởng phúc; cùng Thiên Cơ thì lòng bận; cùng Thiên Đồng thì yên tĩnh không lo; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì có lo có vui, không được yên tĩnh.",
+    "goc": "太阴入庙享福快乐，太阳同极美，僧道亦清洁享福，天机同心忙，天同同安静无忧，加羊陀火铃空劫，有忧有喜，不得安静。"
+   }
+  ]
+ },
+ "贪狼": {
+  "dinhDieu": "Biết hưởng thụ, sở thích tạp, nhưng lòng không tĩnh được; dễ phù hoa, biết tiết chế mới có phúc.",
+  "cotLoi": [
+   "Tham Lang ở cung Phúc Đức: hưởng thụ tinh thần phong phú đa dạng, sở thích rộng, ăn uống chơi bời thứ gì cũng muốn dính, ham hưởng lạc rất mạnh; “niềm vui nhân gian tuyệt không bỏ qua” là thái độ nền, tức chuyện gì vui cũng không muốn bỏ lỡ. Nhưng câu đầu tiên Toàn Thư nói về cung này là “Tham Lang lao tâm không yên”, tức tâm trí mệt, không yên được: mặt kia của sự náo nhiệt là lòng không tĩnh, ham muốn nổi lên là ngồi không yên; thế giới tinh thần rất phong phú mà dễ hời hợt, trong việc “cái gì cũng thử” mà mất chiều sâu. Nếu cùng cung Tử Vi thì là “về già vui vẻ”, tức về già mới hưởng được phúc, thuộc đường trước vất vả sau nhẹ nhàng."
+  ],
+  "canCu": [
+   "Tham Lang vào Phúc Đức — hưởng thụ tinh thần đa dạng, ham muốn mạnh.",
+   "Tham Lang ở Phúc Đức hội Hỏa Linh — tinh thần có cảm hứng bùng phát và đột phá."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Tham Lang lao tâm không yên; cùng Liêm Trinh thì phúc mỏng; cùng Tử Vi thì về già vui vẻ.",
+    "goc": "贪狼劳心不安，廉贞同福薄，紫微同晚年快乐。"
+   }
+  ]
+ },
+ "巨门": {
+  "dinhDieu": "Nghĩ nhiều, trong lòng quẩn quanh chuyện thị phi; lo nghĩ tốn sức, lòng không yên.",
+  "cotLoi": [
+   "Sách nói Cự Môn ở cung Phúc Đức “họa hơi nhẹ hơn”, tức cùng là sao ám này (chủ khẩu thiệt thị phi), rơi vào Phúc Đức thì nhẹ hơn rơi vào các cung lục thân; nhưng quyển 2 vẫn viết “Cự Môn lao lực không yên”, tức lo nghĩ tốn sức — đây là hao tâm lực, không phải tai họa từ ngoài tới. Lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, quyển 2 nói “cả đời nhiều lo”, tức cả đời lo nghĩ nhiều. Về tinh thần nghĩ nhiều, lo nhiều, khí thị phi trong lòng nặng, dễ phân tích đi phân tích lại một chuyện; “một câu nói xoay trong đầu cả tuần” là chuyện hằng ngày, rất khó thật sự thả lỏng."
+  ],
+  "canCu": [
+   "Cự Môn vào Phúc Đức — tinh thần nghĩ nhiều lo nhiều, coi trọng phân tích, logic.",
+   "Cự Môn gặp sát — xung đột trong tinh thần gay gắt, nên tĩnh tâm."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Cự Môn lao lực không yên; cùng Thái Dương thì có lo có vui; cùng Thiên Cơ thì lòng bận không yên; cùng Thiên Đồng thì hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì cả đời nhiều lo.",
+    "goc": "巨门劳力不安，太阳同有忧有喜，天机同心忙不安，天同同享福，加羊陀火铃空劫生平多忧。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Cự Môn chủ về gì",
+    "dich": "Ở Phúc Đức thì họa hơi nhẹ hơn.",
+    "goc": "在福德其祸稍轻"
+   }
+  ]
+ },
+ "天相": {
+  "dinhDieu": "Ngày tháng an nhàn, hưởng được phúc lại sống lâu; gặp sát thì lòng không tĩnh.",
+  "cotLoi": [
+   "Thiên Tướng ở cung Phúc Đức, sách xưa nói “Thiên Tướng an nhàn, hưởng phúc, có thọ”, tức ngày tháng an nhàn, hưởng được phúc, tuổi thọ cũng dài — đây là vị trí phúc yên ổn hiếm thấy trong mười hai cung. Hưởng thụ tinh thần rất bình ổn, theo đuổi cuộc sống chắc chắn có trật tự, không cầu kích thích; cảm giác thỏa mãn đến từ sự đáng tin và ổn định, “ngày tháng có quy luật mới yên tâm” là cốt lõi. Trong lòng chắc chắn, không dễ bị thứ phù hoa kéo lệch, là kiểu “khó bị lừa nhất”; nhược điểm là đời sống tinh thần có lúc hơi đơn điệu, có thể vừa phải nuôi thêm vài sở thích, đừng để ngày tháng thành ba điểm “đi làm — về nhà — ngủ”. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì “lòng không tĩnh được”, tức phúc khí vẫn còn mà lòng không yên được."
+  ],
+  "canCu": [
+   "Thiên Tướng vào Phúc Đức — tinh thần bình ổn chắc chắn, coi trọng trật tự.",
+   "Thiên Tướng ở Phúc Đức hội Tả Phù, Hữu Bật — thân tâm đều yên, phúc khí ổn định.",
+   "Thiên Tướng ở Phúc Đức gặp Không Kiếp — sao ấn bị tổn, tinh thần đơn điệu trống rỗng.",
+   "Thiên Tướng hội Hình, Kỵ — tinh thần bị phiền vì giấy tờ, pháp luật."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Tướng an nhàn, hưởng phúc, có thọ; cùng Tử Vi thì vui vẻ; cùng Thiên Cơ thì bận mà tốt; cùng Thái Dương thì phúc thọ song toàn; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì lòng không tĩnh được.",
+    "goc": "天相安逸享福有寿，紫微同快乐，天机同忙中吉，太阳同福寿双全加羊陀火铃空劫不得心静。"
+   }
+  ]
+ },
+ "天梁": {
+  "dinhDieu": "Thiên Lương ở Phúc Đức: thanh nhàn vui vẻ, hưởng được phúc lại sống lâu.",
+  "cotLoi": [
+   "Thiên Lương ở cung Phúc Đức: Toàn Thư khi giảng từng điều về cung Phúc Đức, hễ chỗ nào cùng cung với Thiên Lương thì phần nhiều viết “hưởng phúc”, “vui vẻ”, “thanh nhàn vui vẻ”, tức ngày tháng thanh nhàn vui vẻ, hưởng được phúc khí. Cung này thấy rõ nhất bản sắc Thiên Lương: trong lòng yên ổn, việc tới lại đứng vững được, từ chỗ khó nghiền ra được đạo lý. Thích những thứ thuộc tầng tinh thần như triết học, tôn giáo, y đạo."
+  ],
+  "canCu": [
+   "Thiên Lương vào Phúc Đức — vị trí mạnh nhất của sao này, tinh thần có che chở.",
+   "Thiên Lương gặp sát — khả năng gặp dữ hóa lành mạnh, gặp hiểm lại càng vững."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Không có mục riêng cho Thiên Lương; Thiên Lương chỉ xuất hiện ở chỗ cùng cung: mục Thiên Cơ “cùng Thiên Lương thì hưởng phúc”, mục Thái Dương “cùng Thiên Lương thì vui vẻ”, mục Thiên Đồng “cùng Thiên Lương thì thanh nhàn vui vẻ”.",
+    "goc": "天机条「天梁同享福」，太阳条「天梁同快乐」，天同条「天梁同清闲快乐」"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi sao Thiên Lương chủ về gì",
+    "dich": "Gặp Thái Dương ở Phúc Đức thì quý bậc cực phẩm.",
+    "goc": "会太阳于福德，极品之贵"
+   }
+  ]
+ },
+ "七杀": {
+  "dinhDieu": "Nhập miếu thì tự tìm được niềm vui; hãm lại gặp sát thì thân tâm đều mệt.",
+  "cotLoi": [
+   "Thất Sát ở cung Phúc Đức: thỏa mãn tinh thần đến từ độc lập tự chủ và cảm giác thành tựu khi vượt thử thách; đời sống kiểu “đánh quái lên cấp” làm bạn sướng nhất; không thích trạng thái tầm thường yên ổn, “ngày tháng yên quá là hoảng” là thật. Sách chia Thất Sát ở cung này làm hai đường, nguyên văn là “Thất Sát nhập miếu thì hưởng phúc; ở đất hãm thêm Dương, Đà, Hỏa, Linh thì lao tâm tốn sức”: Thất Sát nhập miếu thì bận thì bận, lòng vẫn yên; Thất Sát hãm lại gặp Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì thân tâm cùng khổ. Toàn Thư quyển 1 khi giảng tổng luận Thất Sát dẫn bí kinh “Thất Sát ở đất hãm, trầm ngâm thì phúc không sinh”, tức Thất Sát hãm thì dễ suy đi tính lại, lòng không vui, phúc khí không ra được. Cảm giác cô độc là nền của thế giới tinh thần người này; một mình cũng sống được chắc chắn — đó đúng là bản sắc của Thất Sát ở Phúc Đức."
+  ],
+  "canCu": [
+   "Thất Sát vào Phúc Đức — hưởng thụ tinh thần đến từ thử thách và độc lập.",
+   "Thất Sát ở Phúc Đức hội Tả Phù, Hữu Bật — tinh thần có bạn đồng điệu.",
+   "Thất Sát gặp sát — xung đột tinh thần gay gắt, nên tìm cân bằng trong tĩnh lặng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thất Sát nhập miếu thì hưởng phúc; ở đất hãm thêm Dương, Đà, Hỏa, Linh thì lao tâm tốn sức; cùng Vũ Khúc thì kém yên; cùng Liêm Trinh thì cần cù vất vả; cùng Tử Vi thì trước lao sau nhàn, cuối đời mới như ý vừa lòng; phụ nữ một mình ở Phúc Đức thì ắt làm kỹ nữ, tì nữ.",
+    "goc": "七杀入庙享福，陷地加羊陀火铃劳心费力，武曲同欠安，廉贞同辛勤；紫微同先劳后逸，末年方如意遂心，女人单居福德，则必为娼婢。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi sao Thất Sát chủ về gì",
+    "dich": "Bí kinh nói: Thất Sát ở đất hãm, trầm ngâm thì phúc không sinh, là vậy.",
+    "goc": "秘经云：七杀居陷地，沉吟福不生是也。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thất Sát (câu tiếp)",
+    "dich": "Cùng (Vũ Khúc) thì kém an khang; cùng Tham Lang thì về già hưởng phúc; gặp Hỏa Linh thì an nhàn; thêm Dương, Đà thì lo nghĩ mà được sức.",
+    "goc": "七杀同欠安康，贪狼同晚年享福，见火铃星安逸，加羊陀操心得力。"
+   }
+  ]
+ },
+ "破军": {
+  "dinhDieu": "Tâm trí không nhàn được, không tĩnh được; lao tâm tốn sức là chuyện thường.",
+  "cotLoi": [
+   "Phá Quân ở cung Phúc Đức, sách nói “Phá Quân lao tâm tốn sức”, tức tâm trí không dừng được, đặc biệt hao thần; lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì là “lo nghĩ, không được yên tĩnh”, tức lo không hết chuyện, không tĩnh được; quyển 1 cũng nói “ở Phúc Đức thì nhiều tai họa”, tức chuyện phiền về tinh thần không ít. Bên trong bạn tự do phóng khoáng, bản năng chống lại sự ràng buộc; ngày tháng một màu khiến bạn bực bội, tinh thần phải ở trong thay đổi mới tìm được chỗ dựa. Cùng cung Tử Vi thì “yên vui”, tức lòng yên ổn vui vẻ; cùng Liêm Trinh thì cần cù vất vả, cùng Vũ Khúc thì không mấy yên."
+  ],
+  "canCu": [
+   "Phá Quân vào Phúc Đức — tinh thần theo đuổi thay đổi, đột phá, chống ràng buộc.",
+   "Phá Quân gặp sát — xung đột tinh thần gay gắt, nên tìm sự định trong tĩnh lặng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Phá Quân lao tâm tốn sức; cùng Vũ Khúc thì kém yên; cùng Liêm Trinh thì cần cù vất vả; cùng Tử Vi thì yên vui; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì lo nghĩ, không được yên tĩnh.",
+    "goc": "破军劳心费力，武曲同欠安，廉贞同辛勤，紫微同安乐，加羊陀火铃空劫操心，不得宁静。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Phá Quân chủ về gì",
+    "dich": "Ở Phúc Đức thì nhiều tai họa.",
+    "goc": "在福德多灾"
+   }
+  ]
+ },
+ "紫微+贪狼": {
+  "dinhDieu": "Có phúc, ngày tháng sống thoải mái; thêm Kình Dương, Đà La, Linh Tinh, Địa Không, Địa Kiếp thì Toàn Thư nói “phúc mỏng”.",
+  "cotLoi": [
+   "Tử Vi ở cung Phúc Đức: hưởng thụ tinh thần coi trọng chất lượng, thích lối sống có phong cách, không mấy hứng thú với thú vui thô tục. Cùng cung Thiên Phủ hoặc Thiên Tướng, Toàn Thư nói Tử Vi “cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt”; cùng Thiên Phủ còn phải xem tam phương tứ chính có đủ Tả Phù, Hữu Bật không, và phần phúc này cũng không thể đem bù cho chuyện hôn nhân ở cung Phu Thê, Phúc Đức. Cùng Phá Quân thì mục Tử Vi nói “cùng Phá Quân thì lao tâm tốn sức, không yên”, mục Phá Quân lại nói “cùng Tử Vi thì yên vui”, hai thuyết song song. Trong lòng tự trọng mạnh, phải được người công nhận mới thấy hạnh phúc — đây là đề tài cốt lõi nhất của Tử Vi ở cung này. Toàn Thư nói Tử Vi ở Phúc Đức là “Tử Vi phúc dày, hưởng phúc yên vui”, tức phúc khí dày, sống yên vui.",
+   "Nam mệnh: Toàn Thư quyển 1 lại nói Tử Vi “ở Phúc Đức, với nam là đất hãm”, khác với quyển 2, hai thuyết song song. Nữ mệnh: Toàn Thư quyển 1 nói Tử Vi ở Phúc Đức “với nữ là miếu lạc (chỗ tốt)”."
+  ],
+  "canCu": [
+   "Tử Vi vào Phúc Đức — tầng tinh thần theo đuổi phong cách, cảm giác tự trọng mạnh.",
+   "Tử Vi hội lục sát ở Phúc Đức — tinh thần cô ngạo, dễ rơi vào cảm giác cô đơn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Tử Vi phúc dày, hưởng phúc yên vui; cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt; cùng Phá Quân thì lao tâm tốn sức, không yên; thêm Dương, Đà, Linh, Không, Kiếp thì phúc mỏng; cùng Thiên Cơ thì hưởng phúc cả đời.",
+    "goc": "紫微福厚享福安乐，天府天相同终身获吉，破军同劳心费力不安，加羊陀铃空劫福薄，天机同享福终身。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Phá Quân",
+    "dich": "Cùng Tử Vi thì yên vui.",
+    "goc": "紫微同安乐"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Ở Phúc Đức, với nam là đất hãm, với nữ là miếu lạc; gặp cát thì cát, gặp hung thì hung.",
+    "goc": "福德男为陷地，女为庙乐，逢吉则吉，逢凶则凶。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Thái Vi Phú",
+    "dich": "Tử Vi, Thiên Phủ hoàn toàn dựa vào công của Phụ Bật.",
+    "goc": "紫微天府全依辅弼之功"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức (mục Thất Sát)",
+    "dich": "Cùng Tử Vi thì trước lao sau nhàn, cuối đời mới như ý vừa lòng; phụ nữ một mình ở Phúc Đức thì ắt làm kỹ nữ, tì nữ.",
+    "goc": "紫微同先劳后逸，末年方如意遂心，女人单居福德，则必为娼婢。"
+   }
+  ]
+ },
+ "天机+太阴": {
+  "dinhDieu": "Trước khổ sau ngọt; cả đời nghĩ nhiều, có duyên với tôn giáo, mệnh lý; điều phải luyện là tĩnh lại được.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Phúc Đức, sách xưa nói “trước lao sau nhàn”, tức tuổi trẻ lao tâm tốn sức, sau trung niên mới nhàn — đây là câu quan trọng nhất của cung này. Thế giới tinh thần phong phú mà hay đổi, thích nghiền ngẫm đủ loại ý tưởng và triết học, tận hưởng niềm vui suy nghĩ, nhưng rất khó thật sự tĩnh tâm; sách xưa nói người số này hay lễ Phật, hợp môi trường thanh tịnh tu dưỡng, nên hứng thú nhiều với tôn giáo hoặc mệnh lý. Cùng cung Thiên Lương thì hưởng được thanh phúc; cùng Thái Âm thì sống vui; nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì cả đời bôn ba, không tĩnh được. Vì vậy điều phải tu ở cung này là một chữ “định”, tức để lòng đứng yên được."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Phúc Đức — tinh thần sôi nổi, tư duy nhạy bén.",
+   "Thiên Cơ hội Xương Khúc ở Phúc Đức — văn tứ nhạy bén."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Cơ trước lao sau nhàn; cùng Cự Môn thì lao lực kém yên; cùng Thiên Lương thì hưởng phúc; cùng Thái Âm chủ vui vẻ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì bôn ba không yên tĩnh.",
+    "goc": "天机先劳后逸，巨门同劳力欠安，天梁同享福，太阴同主快乐，加羊陀火铃空劫奔走不得宁静。"
+   }
+  ]
+ },
+ "紫微+破军": {
+  "dinhDieu": "Có phúc, ngày tháng sống thoải mái; thêm Kình Dương, Đà La, Linh Tinh, Địa Không, Địa Kiếp thì Toàn Thư nói “phúc mỏng”.",
+  "cotLoi": [
+   "Tử Vi ở cung Phúc Đức: hưởng thụ tinh thần coi trọng chất lượng, thích lối sống có phong cách, không mấy hứng thú với thú vui thô tục. Cùng cung Thiên Phủ hoặc Thiên Tướng, Toàn Thư nói Tử Vi “cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt”; cùng Thiên Phủ còn phải xem tam phương tứ chính có đủ Tả Phù, Hữu Bật không, và phần phúc này cũng không thể đem bù cho chuyện hôn nhân ở cung Phu Thê, Phúc Đức. Cùng Phá Quân thì mục Tử Vi nói “cùng Phá Quân thì lao tâm tốn sức, không yên”, mục Phá Quân lại nói “cùng Tử Vi thì yên vui”, hai thuyết song song. Trong lòng tự trọng mạnh, phải được người công nhận mới thấy hạnh phúc — đây là đề tài cốt lõi nhất của Tử Vi ở cung này. Toàn Thư nói Tử Vi ở Phúc Đức là “Tử Vi phúc dày, hưởng phúc yên vui”, tức phúc khí dày, sống yên vui.",
+   "Nam mệnh: Toàn Thư quyển 1 lại nói Tử Vi “ở Phúc Đức, với nam là đất hãm”, khác với quyển 2, hai thuyết song song. Nữ mệnh: Toàn Thư quyển 1 nói Tử Vi ở Phúc Đức “với nữ là miếu lạc (chỗ tốt)”."
+  ],
+  "canCu": [
+   "Tử Vi vào Phúc Đức — tầng tinh thần theo đuổi phong cách, cảm giác tự trọng mạnh.",
+   "Tử Vi hội lục sát ở Phúc Đức — tinh thần cô ngạo, dễ rơi vào cảm giác cô đơn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Tử Vi phúc dày, hưởng phúc yên vui; cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt; cùng Phá Quân thì lao tâm tốn sức, không yên; thêm Dương, Đà, Linh, Không, Kiếp thì phúc mỏng; cùng Thiên Cơ thì hưởng phúc cả đời.",
+    "goc": "紫微福厚享福安乐，天府天相同终身获吉，破军同劳心费力不安，加羊陀铃空劫福薄，天机同享福终身。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Phá Quân",
+    "dich": "Cùng Tử Vi thì yên vui.",
+    "goc": "紫微同安乐"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Ở Phúc Đức, với nam là đất hãm, với nữ là miếu lạc; gặp cát thì cát, gặp hung thì hung.",
+    "goc": "福德男为陷地，女为庙乐，逢吉则吉，逢凶则凶。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Thái Vi Phú",
+    "dich": "Tử Vi, Thiên Phủ hoàn toàn dựa vào công của Phụ Bật.",
+    "goc": "紫微天府全依辅弼之功"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức (mục Thất Sát)",
+    "dich": "Cùng Tử Vi thì trước lao sau nhàn, cuối đời mới như ý vừa lòng; phụ nữ một mình ở Phúc Đức thì ắt làm kỹ nữ, tì nữ.",
+    "goc": "紫微同先劳后逸，末年方如意遂心，女人单居福德，则必为娼婢。"
+   }
+  ]
+ },
+ "廉贞+天相": {
+  "dinhDieu": "Thủ một mình thì phúc sinh giữa bận rộn; cùng sao khác thì phúc khí mỗi kiểu một khác.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phúc Đức: “thủ một mình thì phúc sinh giữa bận rộn”, tức sao này ngồi một mình ở cung này thì phúc khí là do bận rộn mà kiếm ra, nhàn ra lại không yên; cùng Thiên Tướng thì “có phúc có thọ”, cùng Thiên Phủ thì “yên vui không lo”, đều nói ngày tháng yên ổn, ít phiền não; cùng Tham Lang thì mục Tham Lang trong Toàn Thư nói “cùng Liêm Trinh thì phúc mỏng”; cùng Phá Quân thì không tĩnh được, lao tâm tốn sức, lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì cả đời vất vả, cuối đời mới thuận lòng.",
+   "Cùng cung Thất Sát, mục Thất Sát trong Toàn Thư nói “cùng Liêm Trinh thì cần cù vất vả”; thầy Nghê nói “Liêm Trinh Thất Sát ở Phúc Đức đều là trường hợp đặc biệt; Phúc Đức có Liêm Trinh Thất Sát thì làm nghề đồ tể” (Nghê Hải Hạ, Thiên Kỷ, tập 48, 38:19), thầy xem tiếp tướng mặt, tầng tướng mặt này trên lá số không thấy được. Hưởng thụ tinh thần khá phong phú, sở thích rộng, thích món ngon, nghệ thuật và cái đẹp của giác quan, có thể thỏa mãn từ trải nghiệm.",
+   "Nữ mệnh: Liêm Trinh, Phá Quân cùng ở cung Phúc Đức, thầy Nghê nói “hễ gặp Liêm Phá thì đừng quản cung Phu Thê của cô ấy tốt tới đâu”, “không sinh ly thì tử biệt” (Thiên Kỷ, tập 17, 10:21); sinh ly hay tử biệt thì xem độ sáng của Thái Dương: thầy nói “tử biệt sẽ nhiều hơn sinh ly, vì Thái Dương của cô vượng”, “nếu là sinh ly thì Thái Dương ở đất hãm” (tập 17, 10:46). (Đây là lời phán nặng; nên đọc như lời nhắc vun đắp hôn nhân, không phải bản án.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phúc Đức — hưởng thụ tinh thần đa dạng, coi trọng giác quan và tình cảm.",
+   "Liêm Trinh gặp sát — xung đột tinh thần gay gắt, nên tĩnh tâm tu thân."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Liêm Trinh thủ một mình thì phúc sinh giữa bận rộn; cùng Thiên Tướng thì có phúc có thọ; cùng Thiên Phủ thì yên vui không lo; cùng Phá Quân thì không giữ yên được, lao tâm tốn sức; lại thêm Dương, Đà, Hỏa, Linh thì vất vả cả đời, cuối đời như ý.",
+    "goc": "廉贞独守忙中生福，天相同有福有寿，天府同安乐无忧，破军同不守静，劳心费力，再加羊陀火铃劳苦终身，末年如意。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Tham Lang",
+    "dich": "Cùng Liêm Trinh thì phúc mỏng.",
+    "goc": "廉贞同福薄"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thất Sát",
+    "dich": "Cùng Liêm Trinh thì cần cù vất vả.",
+    "goc": "廉贞同辛勤"
+   }
+  ]
+ },
+ "廉贞+贪狼": {
+  "dinhDieu": "Thủ một mình thì phúc sinh giữa bận rộn; cùng sao khác thì phúc khí mỗi kiểu một khác.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phúc Đức: “thủ một mình thì phúc sinh giữa bận rộn”, tức sao này ngồi một mình ở cung này thì phúc khí là do bận rộn mà kiếm ra, nhàn ra lại không yên; cùng Thiên Tướng thì “có phúc có thọ”, cùng Thiên Phủ thì “yên vui không lo”, đều nói ngày tháng yên ổn, ít phiền não; cùng Tham Lang thì mục Tham Lang trong Toàn Thư nói “cùng Liêm Trinh thì phúc mỏng”; cùng Phá Quân thì không tĩnh được, lao tâm tốn sức, lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì cả đời vất vả, cuối đời mới thuận lòng.",
+   "Cùng cung Thất Sát, mục Thất Sát trong Toàn Thư nói “cùng Liêm Trinh thì cần cù vất vả”; thầy Nghê nói “Liêm Trinh Thất Sát ở Phúc Đức đều là trường hợp đặc biệt; Phúc Đức có Liêm Trinh Thất Sát thì làm nghề đồ tể” (Nghê Hải Hạ, Thiên Kỷ, tập 48, 38:19), thầy xem tiếp tướng mặt, tầng tướng mặt này trên lá số không thấy được. Hưởng thụ tinh thần khá phong phú, sở thích rộng, thích món ngon, nghệ thuật và cái đẹp của giác quan, có thể thỏa mãn từ trải nghiệm.",
+   "Nữ mệnh: Liêm Trinh, Phá Quân cùng ở cung Phúc Đức, thầy Nghê nói “hễ gặp Liêm Phá thì đừng quản cung Phu Thê của cô ấy tốt tới đâu”, “không sinh ly thì tử biệt” (Thiên Kỷ, tập 17, 10:21); sinh ly hay tử biệt thì xem độ sáng của Thái Dương: thầy nói “tử biệt sẽ nhiều hơn sinh ly, vì Thái Dương của cô vượng”, “nếu là sinh ly thì Thái Dương ở đất hãm” (tập 17, 10:46). (Đây là lời phán nặng; nên đọc như lời nhắc vun đắp hôn nhân, không phải bản án.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phúc Đức — hưởng thụ tinh thần đa dạng, coi trọng giác quan và tình cảm.",
+   "Liêm Trinh gặp sát — xung đột tinh thần gay gắt, nên tĩnh tâm tu thân."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Liêm Trinh thủ một mình thì phúc sinh giữa bận rộn; cùng Thiên Tướng thì có phúc có thọ; cùng Thiên Phủ thì yên vui không lo; cùng Phá Quân thì không giữ yên được, lao tâm tốn sức; lại thêm Dương, Đà, Hỏa, Linh thì vất vả cả đời, cuối đời như ý.",
+    "goc": "廉贞独守忙中生福，天相同有福有寿，天府同安乐无忧，破军同不守静，劳心费力，再加羊陀火铃劳苦终身，末年如意。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Tham Lang",
+    "dich": "Cùng Liêm Trinh thì phúc mỏng.",
+    "goc": "廉贞同福薄"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thất Sát",
+    "dich": "Cùng Liêm Trinh thì cần cù vất vả.",
+    "goc": "廉贞同辛勤"
+   }
+  ]
+ },
+ "天机+巨门": {
+  "dinhDieu": "Trước khổ sau ngọt; cả đời nghĩ nhiều, có duyên với tôn giáo, mệnh lý; điều phải luyện là tĩnh lại được.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Phúc Đức, sách xưa nói “trước lao sau nhàn”, tức tuổi trẻ lao tâm tốn sức, sau trung niên mới nhàn — đây là câu quan trọng nhất của cung này. Thế giới tinh thần phong phú mà hay đổi, thích nghiền ngẫm đủ loại ý tưởng và triết học, tận hưởng niềm vui suy nghĩ, nhưng rất khó thật sự tĩnh tâm; sách xưa nói người số này hay lễ Phật, hợp môi trường thanh tịnh tu dưỡng, nên hứng thú nhiều với tôn giáo hoặc mệnh lý. Cùng cung Thiên Lương thì hưởng được thanh phúc; cùng Thái Âm thì sống vui; nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì cả đời bôn ba, không tĩnh được. Vì vậy điều phải tu ở cung này là một chữ “định”, tức để lòng đứng yên được."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Phúc Đức — tinh thần sôi nổi, tư duy nhạy bén.",
+   "Thiên Cơ hội Xương Khúc ở Phúc Đức — văn tứ nhạy bén."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Cơ trước lao sau nhàn; cùng Cự Môn thì lao lực kém yên; cùng Thiên Lương thì hưởng phúc; cùng Thái Âm chủ vui vẻ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì bôn ba không yên tĩnh.",
+    "goc": "天机先劳后逸，巨门同劳力欠安，天梁同享福，太阴同主快乐，加羊陀火铃空劫奔走不得宁静。"
+   }
+  ]
+ },
+ "天机+天梁": {
+  "dinhDieu": "Trước khổ sau ngọt; cả đời nghĩ nhiều, có duyên với tôn giáo, mệnh lý; điều phải luyện là tĩnh lại được.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Phúc Đức, sách xưa nói “trước lao sau nhàn”, tức tuổi trẻ lao tâm tốn sức, sau trung niên mới nhàn — đây là câu quan trọng nhất của cung này. Thế giới tinh thần phong phú mà hay đổi, thích nghiền ngẫm đủ loại ý tưởng và triết học, tận hưởng niềm vui suy nghĩ, nhưng rất khó thật sự tĩnh tâm; sách xưa nói người số này hay lễ Phật, hợp môi trường thanh tịnh tu dưỡng, nên hứng thú nhiều với tôn giáo hoặc mệnh lý. Cùng cung Thiên Lương thì hưởng được thanh phúc; cùng Thái Âm thì sống vui; nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì cả đời bôn ba, không tĩnh được. Vì vậy điều phải tu ở cung này là một chữ “định”, tức để lòng đứng yên được."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Phúc Đức — tinh thần sôi nổi, tư duy nhạy bén.",
+   "Thiên Cơ hội Xương Khúc ở Phúc Đức — văn tứ nhạy bén."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Cơ trước lao sau nhàn; cùng Cự Môn thì lao lực kém yên; cùng Thiên Lương thì hưởng phúc; cùng Thái Âm chủ vui vẻ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì bôn ba không yên tĩnh.",
+    "goc": "天机先劳后逸，巨门同劳力欠安，天梁同享福，太阴同主快乐，加羊陀火铃空劫奔走不得宁静。"
+   }
+  ]
+ },
+ "天同+天梁": {
+  "dinhDieu": "Thiên Đồng ở Phúc Đức: trong lòng vui vẻ, có phúc lại sống lâu.",
+  "cotLoi": [
+   "Cung Phúc Đức là một trong những vị trí Thiên Đồng thoải mái nhất. Sách nói “Thiên Đồng vui vẻ, có phúc có thọ”, tức tâm trạng vui, có phúc khí lại thọ; cùng Thái Âm thì hưởng phúc, cùng Thiên Lương thì thanh nhàn vui vẻ, cùng Cự Môn thì lo nhiều vui ít. Trong lòng yên tĩnh không nóng nảy, biết tìm sự thỏa mãn từ chuyện nhỏ thường ngày; niềm vui vững vàng ấy tự nó đã là sở trường của Thiên Đồng."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Phúc Đức — tầng tinh thần có phúc tinh, biết hưởng cuộc sống.",
+   "Thiên Đồng gặp sát — Toàn Thư quyển 1 nói Thiên Đồng “không sợ các sát quấn lấy”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Đồng vui vẻ, có phúc có thọ; cùng Cự Môn thì lo nhiều vui ít; cùng Thái Âm thì hưởng phúc; cùng Thiên Lương thì thanh nhàn vui vẻ.",
+    "goc": "天同快乐有福有寿，巨门同多忧少喜，太阴同享福，天梁同清闲快乐。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi sao Thiên Đồng chủ về gì",
+    "dich": "Thiên Đồng “là chủ tể của cung Phúc Đức”, “không sợ Thất Sát xâm phạm, không sợ các sát quấn lấy”.",
+    "goc": "为福德宫之主宰；不怕七杀相侵，不怕诸杀同缠"
+   }
+  ]
+ },
+ "廉贞+七杀": {
+  "dinhDieu": "Thủ một mình thì phúc sinh giữa bận rộn; cùng sao khác thì phúc khí mỗi kiểu một khác.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phúc Đức: “thủ một mình thì phúc sinh giữa bận rộn”, tức sao này ngồi một mình ở cung này thì phúc khí là do bận rộn mà kiếm ra, nhàn ra lại không yên; cùng Thiên Tướng thì “có phúc có thọ”, cùng Thiên Phủ thì “yên vui không lo”, đều nói ngày tháng yên ổn, ít phiền não; cùng Tham Lang thì mục Tham Lang trong Toàn Thư nói “cùng Liêm Trinh thì phúc mỏng”; cùng Phá Quân thì không tĩnh được, lao tâm tốn sức, lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì cả đời vất vả, cuối đời mới thuận lòng.",
+   "Cùng cung Thất Sát, mục Thất Sát trong Toàn Thư nói “cùng Liêm Trinh thì cần cù vất vả”; thầy Nghê nói “Liêm Trinh Thất Sát ở Phúc Đức đều là trường hợp đặc biệt; Phúc Đức có Liêm Trinh Thất Sát thì làm nghề đồ tể” (Nghê Hải Hạ, Thiên Kỷ, tập 48, 38:19), thầy xem tiếp tướng mặt, tầng tướng mặt này trên lá số không thấy được. Hưởng thụ tinh thần khá phong phú, sở thích rộng, thích món ngon, nghệ thuật và cái đẹp của giác quan, có thể thỏa mãn từ trải nghiệm.",
+   "Nữ mệnh: Liêm Trinh, Phá Quân cùng ở cung Phúc Đức, thầy Nghê nói “hễ gặp Liêm Phá thì đừng quản cung Phu Thê của cô ấy tốt tới đâu”, “không sinh ly thì tử biệt” (Thiên Kỷ, tập 17, 10:21); sinh ly hay tử biệt thì xem độ sáng của Thái Dương: thầy nói “tử biệt sẽ nhiều hơn sinh ly, vì Thái Dương của cô vượng”, “nếu là sinh ly thì Thái Dương ở đất hãm” (tập 17, 10:46). (Đây là lời phán nặng; nên đọc như lời nhắc vun đắp hôn nhân, không phải bản án.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phúc Đức — hưởng thụ tinh thần đa dạng, coi trọng giác quan và tình cảm.",
+   "Liêm Trinh gặp sát — xung đột tinh thần gay gắt, nên tĩnh tâm tu thân."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Liêm Trinh thủ một mình thì phúc sinh giữa bận rộn; cùng Thiên Tướng thì có phúc có thọ; cùng Thiên Phủ thì yên vui không lo; cùng Phá Quân thì không giữ yên được, lao tâm tốn sức; lại thêm Dương, Đà, Hỏa, Linh thì vất vả cả đời, cuối đời như ý.",
+    "goc": "廉贞独守忙中生福，天相同有福有寿，天府同安乐无忧，破军同不守静，劳心费力，再加羊陀火铃劳苦终身，末年如意。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Tham Lang",
+    "dich": "Cùng Liêm Trinh thì phúc mỏng.",
+    "goc": "廉贞同福薄"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thất Sát",
+    "dich": "Cùng Liêm Trinh thì cần cù vất vả.",
+    "goc": "廉贞同辛勤"
+   }
+  ]
+ },
+ "太阳+太阴": {
+  "dinhDieu": "Bận rộn mới có phúc; vừa nhàn ra là trong lòng lại trống.",
+  "cotLoi": [
+   "Thái Dương ở cung Phúc Đức, Toàn Thư nói “Thái Dương phát phúc trong bận rộn”, tức phúc khí của bạn mọc lên giữa bận rộn và người qua kẻ lại; vừa nhàn ra là lại không yên. Hưởng thụ tinh thần đến từ giao tế, hoạt động công khai và cảm giác được người công nhận; ở một mình dễ trống trải, cần nhận cảm giác hiện diện từ bên ngoài. Nhập miếu (sao mạnh) thì tinh thần đầy đặn, sôi nổi lạc quan; hãm (sao yếu) thì cảm giác thỏa mãn không đủ, cảm giác bỏ nhiều mà nhận ít sẽ ảnh hưởng tâm trạng.",
+   "Nữ mệnh: Thái Dương với nữ mệnh cũng là sao chồng; Toàn Thư nói Thái Dương “nữ được thì là sao chồng”, thầy Nghê cũng nói “Thái Dương còn đại diện người chồng” (Nghê Hải Hạ, Thiên Kỷ, tập 17, 10:15), nên nữ mệnh có Thái Dương ở Phúc Đức phải xem cùng cung Phu Thê. Mục Thái Dương ở Phúc Đức trong Toàn Thư nói “phụ nữ gặp cát tinh thì lấy được chồng hiền minh, hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Kỵ, Hao thì luận là cả đời không đẹp”. Thầy Nghê từng giảng một ví dụ nữ mệnh: cung Phúc Đức có Thái Dương rất vượng, có Hồng Loan, kết hôn sớm; đại hạn đi tới cung Phúc Đức, can cung là Tân làm sao cùng cung thành Kỵ, thầy nói “rồi tới giờ hai vợ chồng cô ấy có danh không thực” (Thiên Kỷ, tập 25, 33:33)."
+  ],
+  "canCu": [
+   "Thái Dương vào Phúc Đức — tinh thần hướng ra ngoài, thích lấy năng lượng ở nơi công cộng.",
+   "Thái Dương ở Phúc Đức nhập miếu — tinh thần đầy đặn, lạc quan sôi nổi.",
+   "Thái Dương ở Phúc Đức hãm — bỏ nhiều nhận ít, tinh thần mệt mỏi."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thái Dương phát phúc trong bận rộn; cùng Thái Âm thì vui vẻ; cùng Cự Môn thì tốn sức kém yên; cùng Thiên Lương thì vui vẻ. Phụ nữ gặp cát tinh thì lấy được chồng hiền minh, hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Kỵ, Hao thì luận là cả đời không đẹp.",
+    "goc": "太阳忙中发福，太阴同快乐，巨门同费力欠安，天梁同快乐；女人会吉星，招贤明之夫，享福，加羊陀火铃空劫忌耗，终身不美之论。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Sao này nam được thì là sao cha, nữ được thì là sao chồng.",
+    "goc": "此星男得之为父星，女得之为夫星。"
+   }
+  ]
+ },
+ "太阳+天梁": {
+  "dinhDieu": "Bận rộn mới có phúc; vừa nhàn ra là trong lòng lại trống.",
+  "cotLoi": [
+   "Thái Dương ở cung Phúc Đức, Toàn Thư nói “Thái Dương phát phúc trong bận rộn”, tức phúc khí của bạn mọc lên giữa bận rộn và người qua kẻ lại; vừa nhàn ra là lại không yên. Hưởng thụ tinh thần đến từ giao tế, hoạt động công khai và cảm giác được người công nhận; ở một mình dễ trống trải, cần nhận cảm giác hiện diện từ bên ngoài. Nhập miếu (sao mạnh) thì tinh thần đầy đặn, sôi nổi lạc quan; hãm (sao yếu) thì cảm giác thỏa mãn không đủ, cảm giác bỏ nhiều mà nhận ít sẽ ảnh hưởng tâm trạng.",
+   "Nữ mệnh: Thái Dương với nữ mệnh cũng là sao chồng; Toàn Thư nói Thái Dương “nữ được thì là sao chồng”, thầy Nghê cũng nói “Thái Dương còn đại diện người chồng” (Nghê Hải Hạ, Thiên Kỷ, tập 17, 10:15), nên nữ mệnh có Thái Dương ở Phúc Đức phải xem cùng cung Phu Thê. Mục Thái Dương ở Phúc Đức trong Toàn Thư nói “phụ nữ gặp cát tinh thì lấy được chồng hiền minh, hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Kỵ, Hao thì luận là cả đời không đẹp”. Thầy Nghê từng giảng một ví dụ nữ mệnh: cung Phúc Đức có Thái Dương rất vượng, có Hồng Loan, kết hôn sớm; đại hạn đi tới cung Phúc Đức, can cung là Tân làm sao cùng cung thành Kỵ, thầy nói “rồi tới giờ hai vợ chồng cô ấy có danh không thực” (Thiên Kỷ, tập 25, 33:33)."
+  ],
+  "canCu": [
+   "Thái Dương vào Phúc Đức — tinh thần hướng ra ngoài, thích lấy năng lượng ở nơi công cộng.",
+   "Thái Dương ở Phúc Đức nhập miếu — tinh thần đầy đặn, lạc quan sôi nổi.",
+   "Thái Dương ở Phúc Đức hãm — bỏ nhiều nhận ít, tinh thần mệt mỏi."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thái Dương phát phúc trong bận rộn; cùng Thái Âm thì vui vẻ; cùng Cự Môn thì tốn sức kém yên; cùng Thiên Lương thì vui vẻ. Phụ nữ gặp cát tinh thì lấy được chồng hiền minh, hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Kỵ, Hao thì luận là cả đời không đẹp.",
+    "goc": "太阳忙中发福，太阴同快乐，巨门同费力欠安，天梁同快乐；女人会吉星，招贤明之夫，享福，加羊陀火铃空劫忌耗，终身不美之论。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Sao này nam được thì là sao cha, nữ được thì là sao chồng.",
+    "goc": "此星男得之为父星，女得之为夫星。"
+   }
+  ]
+ },
+ "武曲+天相": {
+  "dinhDieu": "Không nhàn được là chuyện thường; nhập miếu mới yên ổn hưởng phúc.",
+  "canCu": [
+   "Vũ Khúc vào Phúc Đức — tầng tinh thần dựa vào cảm giác an toàn vật chất.",
+   "Vũ Khúc là sao cô khắc — thế giới tinh thần hơi lạnh cứng, ít dịu dàng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Vũ Khúc lao tâm tốn sức, nhập miếu thì yên ổn hưởng phúc; cùng Phá Quân thì chạy đông chạy tây, không yên tĩnh; cùng Thiên Tướng thì tuổi già an khang; cùng Thất Sát thì kém an khang; cùng Tham Lang thì về già hưởng phúc; gặp Hỏa Linh thì an nhàn; thêm Dương, Đà thì lo nghĩ mà được sức.",
+    "goc": "武曲劳心费力，入庙安然享福，破军同东走西行，不宁静，天相同老境安康；七杀同欠安康，贪狼同晚年享福，见火铃星安逸，加羊陀操心得力。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thiên Phủ",
+    "dich": "Cùng Vũ Khúc thì tuổi trẻ càng vất vả, trung và vãn niên yên vui hưởng phúc.",
+    "goc": "武曲同早年更辛苦，中晚安乐享福"
+   }
+  ]
+ },
+ "天同+巨门": {
+  "dinhDieu": "Thiên Đồng ở Phúc Đức: trong lòng vui vẻ, có phúc lại sống lâu.",
+  "cotLoi": [
+   "Cung Phúc Đức là một trong những vị trí Thiên Đồng thoải mái nhất. Sách nói “Thiên Đồng vui vẻ, có phúc có thọ”, tức tâm trạng vui, có phúc khí lại thọ; cùng Thái Âm thì hưởng phúc, cùng Thiên Lương thì thanh nhàn vui vẻ, cùng Cự Môn thì lo nhiều vui ít. Trong lòng yên tĩnh không nóng nảy, biết tìm sự thỏa mãn từ chuyện nhỏ thường ngày; niềm vui vững vàng ấy tự nó đã là sở trường của Thiên Đồng."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Phúc Đức — tầng tinh thần có phúc tinh, biết hưởng cuộc sống.",
+   "Thiên Đồng gặp sát — Toàn Thư quyển 1 nói Thiên Đồng “không sợ các sát quấn lấy”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Đồng vui vẻ, có phúc có thọ; cùng Cự Môn thì lo nhiều vui ít; cùng Thái Âm thì hưởng phúc; cùng Thiên Lương thì thanh nhàn vui vẻ.",
+    "goc": "天同快乐有福有寿，巨门同多忧少喜，太阴同享福，天梁同清闲快乐。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi sao Thiên Đồng chủ về gì",
+    "dich": "Thiên Đồng “là chủ tể của cung Phúc Đức”, “không sợ Thất Sát xâm phạm, không sợ các sát quấn lấy”.",
+    "goc": "为福德宫之主宰；不怕七杀相侵，不怕诸杀同缠"
+   }
+  ]
+ },
+ "太阳+巨门": {
+  "dinhDieu": "Bận rộn mới có phúc; vừa nhàn ra là trong lòng lại trống.",
+  "cotLoi": [
+   "Thái Dương ở cung Phúc Đức, Toàn Thư nói “Thái Dương phát phúc trong bận rộn”, tức phúc khí của bạn mọc lên giữa bận rộn và người qua kẻ lại; vừa nhàn ra là lại không yên. Hưởng thụ tinh thần đến từ giao tế, hoạt động công khai và cảm giác được người công nhận; ở một mình dễ trống trải, cần nhận cảm giác hiện diện từ bên ngoài. Nhập miếu (sao mạnh) thì tinh thần đầy đặn, sôi nổi lạc quan; hãm (sao yếu) thì cảm giác thỏa mãn không đủ, cảm giác bỏ nhiều mà nhận ít sẽ ảnh hưởng tâm trạng.",
+   "Nữ mệnh: Thái Dương với nữ mệnh cũng là sao chồng; Toàn Thư nói Thái Dương “nữ được thì là sao chồng”, thầy Nghê cũng nói “Thái Dương còn đại diện người chồng” (Nghê Hải Hạ, Thiên Kỷ, tập 17, 10:15), nên nữ mệnh có Thái Dương ở Phúc Đức phải xem cùng cung Phu Thê. Mục Thái Dương ở Phúc Đức trong Toàn Thư nói “phụ nữ gặp cát tinh thì lấy được chồng hiền minh, hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Kỵ, Hao thì luận là cả đời không đẹp”. Thầy Nghê từng giảng một ví dụ nữ mệnh: cung Phúc Đức có Thái Dương rất vượng, có Hồng Loan, kết hôn sớm; đại hạn đi tới cung Phúc Đức, can cung là Tân làm sao cùng cung thành Kỵ, thầy nói “rồi tới giờ hai vợ chồng cô ấy có danh không thực” (Thiên Kỷ, tập 25, 33:33)."
+  ],
+  "canCu": [
+   "Thái Dương vào Phúc Đức — tinh thần hướng ra ngoài, thích lấy năng lượng ở nơi công cộng.",
+   "Thái Dương ở Phúc Đức nhập miếu — tinh thần đầy đặn, lạc quan sôi nổi.",
+   "Thái Dương ở Phúc Đức hãm — bỏ nhiều nhận ít, tinh thần mệt mỏi."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thái Dương phát phúc trong bận rộn; cùng Thái Âm thì vui vẻ; cùng Cự Môn thì tốn sức kém yên; cùng Thiên Lương thì vui vẻ. Phụ nữ gặp cát tinh thì lấy được chồng hiền minh, hưởng phúc; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Kỵ, Hao thì luận là cả đời không đẹp.",
+    "goc": "太阳忙中发福，太阴同快乐，巨门同费力欠安，天梁同快乐；女人会吉星，招贤明之夫，享福，加羊陀火铃空劫忌耗，终身不美之论。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Sao này nam được thì là sao cha, nữ được thì là sao chồng.",
+    "goc": "此星男得之为父星，女得之为夫星。"
+   }
+  ]
+ },
+ "武曲+破军": {
+  "dinhDieu": "Không nhàn được là chuyện thường; nhập miếu mới yên ổn hưởng phúc.",
+  "canCu": [
+   "Vũ Khúc vào Phúc Đức — tầng tinh thần dựa vào cảm giác an toàn vật chất.",
+   "Vũ Khúc là sao cô khắc — thế giới tinh thần hơi lạnh cứng, ít dịu dàng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Vũ Khúc lao tâm tốn sức, nhập miếu thì yên ổn hưởng phúc; cùng Phá Quân thì chạy đông chạy tây, không yên tĩnh; cùng Thiên Tướng thì tuổi già an khang; cùng Thất Sát thì kém an khang; cùng Tham Lang thì về già hưởng phúc; gặp Hỏa Linh thì an nhàn; thêm Dương, Đà thì lo nghĩ mà được sức.",
+    "goc": "武曲劳心费力，入庙安然享福，破军同东走西行，不宁静，天相同老境安康；七杀同欠安康，贪狼同晚年享福，见火铃星安逸，加羊陀操心得力。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thiên Phủ",
+    "dich": "Cùng Vũ Khúc thì tuổi trẻ càng vất vả, trung và vãn niên yên vui hưởng phúc.",
+    "goc": "武曲同早年更辛苦，中晚安乐享福"
+   }
+  ]
+ },
+ "廉贞+破军": {
+  "dinhDieu": "Thủ một mình thì phúc sinh giữa bận rộn; cùng sao khác thì phúc khí mỗi kiểu một khác.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phúc Đức: “thủ một mình thì phúc sinh giữa bận rộn”, tức sao này ngồi một mình ở cung này thì phúc khí là do bận rộn mà kiếm ra, nhàn ra lại không yên; cùng Thiên Tướng thì “có phúc có thọ”, cùng Thiên Phủ thì “yên vui không lo”, đều nói ngày tháng yên ổn, ít phiền não; cùng Tham Lang thì mục Tham Lang trong Toàn Thư nói “cùng Liêm Trinh thì phúc mỏng”; cùng Phá Quân thì không tĩnh được, lao tâm tốn sức, lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì cả đời vất vả, cuối đời mới thuận lòng.",
+   "Cùng cung Thất Sát, mục Thất Sát trong Toàn Thư nói “cùng Liêm Trinh thì cần cù vất vả”; thầy Nghê nói “Liêm Trinh Thất Sát ở Phúc Đức đều là trường hợp đặc biệt; Phúc Đức có Liêm Trinh Thất Sát thì làm nghề đồ tể” (Nghê Hải Hạ, Thiên Kỷ, tập 48, 38:19), thầy xem tiếp tướng mặt, tầng tướng mặt này trên lá số không thấy được. Hưởng thụ tinh thần khá phong phú, sở thích rộng, thích món ngon, nghệ thuật và cái đẹp của giác quan, có thể thỏa mãn từ trải nghiệm.",
+   "Nữ mệnh: Liêm Trinh, Phá Quân cùng ở cung Phúc Đức, thầy Nghê nói “hễ gặp Liêm Phá thì đừng quản cung Phu Thê của cô ấy tốt tới đâu”, “không sinh ly thì tử biệt” (Thiên Kỷ, tập 17, 10:21); sinh ly hay tử biệt thì xem độ sáng của Thái Dương: thầy nói “tử biệt sẽ nhiều hơn sinh ly, vì Thái Dương của cô vượng”, “nếu là sinh ly thì Thái Dương ở đất hãm” (tập 17, 10:46). (Đây là lời phán nặng; nên đọc như lời nhắc vun đắp hôn nhân, không phải bản án.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phúc Đức — hưởng thụ tinh thần đa dạng, coi trọng giác quan và tình cảm.",
+   "Liêm Trinh gặp sát — xung đột tinh thần gay gắt, nên tĩnh tâm tu thân."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Liêm Trinh thủ một mình thì phúc sinh giữa bận rộn; cùng Thiên Tướng thì có phúc có thọ; cùng Thiên Phủ thì yên vui không lo; cùng Phá Quân thì không giữ yên được, lao tâm tốn sức; lại thêm Dương, Đà, Hỏa, Linh thì vất vả cả đời, cuối đời như ý.",
+    "goc": "廉贞独守忙中生福，天相同有福有寿，天府同安乐无忧，破军同不守静，劳心费力，再加羊陀火铃劳苦终身，末年如意。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Tham Lang",
+    "dich": "Cùng Liêm Trinh thì phúc mỏng.",
+    "goc": "廉贞同福薄"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thất Sát",
+    "dich": "Cùng Liêm Trinh thì cần cù vất vả.",
+    "goc": "廉贞同辛勤"
+   }
+  ]
+ },
+ "廉贞+天府": {
+  "dinhDieu": "Thủ một mình thì phúc sinh giữa bận rộn; cùng sao khác thì phúc khí mỗi kiểu một khác.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Phúc Đức: “thủ một mình thì phúc sinh giữa bận rộn”, tức sao này ngồi một mình ở cung này thì phúc khí là do bận rộn mà kiếm ra, nhàn ra lại không yên; cùng Thiên Tướng thì “có phúc có thọ”, cùng Thiên Phủ thì “yên vui không lo”, đều nói ngày tháng yên ổn, ít phiền não; cùng Tham Lang thì mục Tham Lang trong Toàn Thư nói “cùng Liêm Trinh thì phúc mỏng”; cùng Phá Quân thì không tĩnh được, lao tâm tốn sức, lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì cả đời vất vả, cuối đời mới thuận lòng.",
+   "Cùng cung Thất Sát, mục Thất Sát trong Toàn Thư nói “cùng Liêm Trinh thì cần cù vất vả”; thầy Nghê nói “Liêm Trinh Thất Sát ở Phúc Đức đều là trường hợp đặc biệt; Phúc Đức có Liêm Trinh Thất Sát thì làm nghề đồ tể” (Nghê Hải Hạ, Thiên Kỷ, tập 48, 38:19), thầy xem tiếp tướng mặt, tầng tướng mặt này trên lá số không thấy được. Hưởng thụ tinh thần khá phong phú, sở thích rộng, thích món ngon, nghệ thuật và cái đẹp của giác quan, có thể thỏa mãn từ trải nghiệm.",
+   "Nữ mệnh: Liêm Trinh, Phá Quân cùng ở cung Phúc Đức, thầy Nghê nói “hễ gặp Liêm Phá thì đừng quản cung Phu Thê của cô ấy tốt tới đâu”, “không sinh ly thì tử biệt” (Thiên Kỷ, tập 17, 10:21); sinh ly hay tử biệt thì xem độ sáng của Thái Dương: thầy nói “tử biệt sẽ nhiều hơn sinh ly, vì Thái Dương của cô vượng”, “nếu là sinh ly thì Thái Dương ở đất hãm” (tập 17, 10:46). (Đây là lời phán nặng; nên đọc như lời nhắc vun đắp hôn nhân, không phải bản án.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Phúc Đức — hưởng thụ tinh thần đa dạng, coi trọng giác quan và tình cảm.",
+   "Liêm Trinh gặp sát — xung đột tinh thần gay gắt, nên tĩnh tâm tu thân."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Liêm Trinh thủ một mình thì phúc sinh giữa bận rộn; cùng Thiên Tướng thì có phúc có thọ; cùng Thiên Phủ thì yên vui không lo; cùng Phá Quân thì không giữ yên được, lao tâm tốn sức; lại thêm Dương, Đà, Hỏa, Linh thì vất vả cả đời, cuối đời như ý.",
+    "goc": "廉贞独守忙中生福，天相同有福有寿，天府同安乐无忧，破军同不守静，劳心费力，再加羊陀火铃劳苦终身，末年如意。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Tham Lang",
+    "dich": "Cùng Liêm Trinh thì phúc mỏng.",
+    "goc": "廉贞同福薄"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thất Sát",
+    "dich": "Cùng Liêm Trinh thì cần cù vất vả.",
+    "goc": "廉贞同辛勤"
+   }
+  ]
+ },
+ "武曲+贪狼": {
+  "dinhDieu": "Không nhàn được là chuyện thường; nhập miếu mới yên ổn hưởng phúc.",
+  "canCu": [
+   "Vũ Khúc vào Phúc Đức — tầng tinh thần dựa vào cảm giác an toàn vật chất.",
+   "Vũ Khúc là sao cô khắc — thế giới tinh thần hơi lạnh cứng, ít dịu dàng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Vũ Khúc lao tâm tốn sức, nhập miếu thì yên ổn hưởng phúc; cùng Phá Quân thì chạy đông chạy tây, không yên tĩnh; cùng Thiên Tướng thì tuổi già an khang; cùng Thất Sát thì kém an khang; cùng Tham Lang thì về già hưởng phúc; gặp Hỏa Linh thì an nhàn; thêm Dương, Đà thì lo nghĩ mà được sức.",
+    "goc": "武曲劳心费力，入庙安然享福，破军同东走西行，不宁静，天相同老境安康；七杀同欠安康，贪狼同晚年享福，见火铃星安逸，加羊陀操心得力。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thiên Phủ",
+    "dich": "Cùng Vũ Khúc thì tuổi trẻ càng vất vả, trung và vãn niên yên vui hưởng phúc.",
+    "goc": "武曲同早年更辛苦，中晚安乐享福"
+   }
+  ]
+ },
+ "天同+太阴": {
+  "dinhDieu": "Thiên Đồng ở Phúc Đức: trong lòng vui vẻ, có phúc lại sống lâu.",
+  "cotLoi": [
+   "Cung Phúc Đức là một trong những vị trí Thiên Đồng thoải mái nhất. Sách nói “Thiên Đồng vui vẻ, có phúc có thọ”, tức tâm trạng vui, có phúc khí lại thọ; cùng Thái Âm thì hưởng phúc, cùng Thiên Lương thì thanh nhàn vui vẻ, cùng Cự Môn thì lo nhiều vui ít. Trong lòng yên tĩnh không nóng nảy, biết tìm sự thỏa mãn từ chuyện nhỏ thường ngày; niềm vui vững vàng ấy tự nó đã là sở trường của Thiên Đồng."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Phúc Đức — tầng tinh thần có phúc tinh, biết hưởng cuộc sống.",
+   "Thiên Đồng gặp sát — Toàn Thư quyển 1 nói Thiên Đồng “không sợ các sát quấn lấy”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Thiên Đồng vui vẻ, có phúc có thọ; cùng Cự Môn thì lo nhiều vui ít; cùng Thái Âm thì hưởng phúc; cùng Thiên Lương thì thanh nhàn vui vẻ.",
+    "goc": "天同快乐有福有寿，巨门同多忧少喜，太阴同享福，天梁同清闲快乐。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi sao Thiên Đồng chủ về gì",
+    "dich": "Thiên Đồng “là chủ tể của cung Phúc Đức”, “không sợ Thất Sát xâm phạm, không sợ các sát quấn lấy”.",
+    "goc": "为福德宫之主宰；不怕七杀相侵，不怕诸杀同缠"
+   }
+  ]
+ },
+ "紫微+七杀": {
+  "dinhDieu": "Có phúc, ngày tháng sống thoải mái; thêm Kình Dương, Đà La, Linh Tinh, Địa Không, Địa Kiếp thì Toàn Thư nói “phúc mỏng”.",
+  "cotLoi": [
+   "Tử Vi ở cung Phúc Đức: hưởng thụ tinh thần coi trọng chất lượng, thích lối sống có phong cách, không mấy hứng thú với thú vui thô tục. Cùng cung Thiên Phủ hoặc Thiên Tướng, Toàn Thư nói Tử Vi “cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt”; cùng Thiên Phủ còn phải xem tam phương tứ chính có đủ Tả Phù, Hữu Bật không, và phần phúc này cũng không thể đem bù cho chuyện hôn nhân ở cung Phu Thê, Phúc Đức. Cùng Phá Quân thì mục Tử Vi nói “cùng Phá Quân thì lao tâm tốn sức, không yên”, mục Phá Quân lại nói “cùng Tử Vi thì yên vui”, hai thuyết song song. Trong lòng tự trọng mạnh, phải được người công nhận mới thấy hạnh phúc — đây là đề tài cốt lõi nhất của Tử Vi ở cung này. Toàn Thư nói Tử Vi ở Phúc Đức là “Tử Vi phúc dày, hưởng phúc yên vui”, tức phúc khí dày, sống yên vui.",
+   "Nam mệnh: Toàn Thư quyển 1 lại nói Tử Vi “ở Phúc Đức, với nam là đất hãm”, khác với quyển 2, hai thuyết song song. Nữ mệnh: Toàn Thư quyển 1 nói Tử Vi ở Phúc Đức “với nữ là miếu lạc (chỗ tốt)”."
+  ],
+  "canCu": [
+   "Tử Vi vào Phúc Đức — tầng tinh thần theo đuổi phong cách, cảm giác tự trọng mạnh.",
+   "Tử Vi hội lục sát ở Phúc Đức — tinh thần cô ngạo, dễ rơi vào cảm giác cô đơn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Tử Vi phúc dày, hưởng phúc yên vui; cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt; cùng Phá Quân thì lao tâm tốn sức, không yên; thêm Dương, Đà, Linh, Không, Kiếp thì phúc mỏng; cùng Thiên Cơ thì hưởng phúc cả đời.",
+    "goc": "紫微福厚享福安乐，天府天相同终身获吉，破军同劳心费力不安，加羊陀铃空劫福薄，天机同享福终身。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Phá Quân",
+    "dich": "Cùng Tử Vi thì yên vui.",
+    "goc": "紫微同安乐"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Ở Phúc Đức, với nam là đất hãm, với nữ là miếu lạc; gặp cát thì cát, gặp hung thì hung.",
+    "goc": "福德男为陷地，女为庙乐，逢吉则吉，逢凶则凶。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Thái Vi Phú",
+    "dich": "Tử Vi, Thiên Phủ hoàn toàn dựa vào công của Phụ Bật.",
+    "goc": "紫微天府全依辅弼之功"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức (mục Thất Sát)",
+    "dich": "Cùng Tử Vi thì trước lao sau nhàn, cuối đời mới như ý vừa lòng; phụ nữ một mình ở Phúc Đức thì ắt làm kỹ nữ, tì nữ.",
+    "goc": "紫微同先劳后逸，末年方如意遂心，女人单居福德，则必为娼婢。"
+   }
+  ]
+ },
+ "紫微+天府": {
+  "dinhDieu": "Có phúc, ngày tháng sống thoải mái; thêm Kình Dương, Đà La, Linh Tinh, Địa Không, Địa Kiếp thì Toàn Thư nói “phúc mỏng”.",
+  "cotLoi": [
+   "Tử Vi ở cung Phúc Đức: hưởng thụ tinh thần coi trọng chất lượng, thích lối sống có phong cách, không mấy hứng thú với thú vui thô tục. Cùng cung Thiên Phủ hoặc Thiên Tướng, Toàn Thư nói Tử Vi “cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt”; cùng Thiên Phủ còn phải xem tam phương tứ chính có đủ Tả Phù, Hữu Bật không, và phần phúc này cũng không thể đem bù cho chuyện hôn nhân ở cung Phu Thê, Phúc Đức. Cùng Phá Quân thì mục Tử Vi nói “cùng Phá Quân thì lao tâm tốn sức, không yên”, mục Phá Quân lại nói “cùng Tử Vi thì yên vui”, hai thuyết song song. Trong lòng tự trọng mạnh, phải được người công nhận mới thấy hạnh phúc — đây là đề tài cốt lõi nhất của Tử Vi ở cung này. Toàn Thư nói Tử Vi ở Phúc Đức là “Tử Vi phúc dày, hưởng phúc yên vui”, tức phúc khí dày, sống yên vui.",
+   "Nam mệnh: Toàn Thư quyển 1 lại nói Tử Vi “ở Phúc Đức, với nam là đất hãm”, khác với quyển 2, hai thuyết song song. Nữ mệnh: Toàn Thư quyển 1 nói Tử Vi ở Phúc Đức “với nữ là miếu lạc (chỗ tốt)”."
+  ],
+  "canCu": [
+   "Tử Vi vào Phúc Đức — tầng tinh thần theo đuổi phong cách, cảm giác tự trọng mạnh.",
+   "Tử Vi hội lục sát ở Phúc Đức — tinh thần cô ngạo, dễ rơi vào cảm giác cô đơn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Tử Vi phúc dày, hưởng phúc yên vui; cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt; cùng Phá Quân thì lao tâm tốn sức, không yên; thêm Dương, Đà, Linh, Không, Kiếp thì phúc mỏng; cùng Thiên Cơ thì hưởng phúc cả đời.",
+    "goc": "紫微福厚享福安乐，天府天相同终身获吉，破军同劳心费力不安，加羊陀铃空劫福薄，天机同享福终身。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Phá Quân",
+    "dich": "Cùng Tử Vi thì yên vui.",
+    "goc": "紫微同安乐"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Ở Phúc Đức, với nam là đất hãm, với nữ là miếu lạc; gặp cát thì cát, gặp hung thì hung.",
+    "goc": "福德男为陷地，女为庙乐，逢吉则吉，逢凶则凶。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Thái Vi Phú",
+    "dich": "Tử Vi, Thiên Phủ hoàn toàn dựa vào công của Phụ Bật.",
+    "goc": "紫微天府全依辅弼之功"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức (mục Thất Sát)",
+    "dich": "Cùng Tử Vi thì trước lao sau nhàn, cuối đời mới như ý vừa lòng; phụ nữ một mình ở Phúc Đức thì ắt làm kỹ nữ, tì nữ.",
+    "goc": "紫微同先劳后逸，末年方如意遂心，女人单居福德，则必为娼婢。"
+   }
+  ]
+ },
+ "武曲+七杀": {
+  "dinhDieu": "Không nhàn được là chuyện thường; nhập miếu mới yên ổn hưởng phúc.",
+  "canCu": [
+   "Vũ Khúc vào Phúc Đức — tầng tinh thần dựa vào cảm giác an toàn vật chất.",
+   "Vũ Khúc là sao cô khắc — thế giới tinh thần hơi lạnh cứng, ít dịu dàng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Vũ Khúc lao tâm tốn sức, nhập miếu thì yên ổn hưởng phúc; cùng Phá Quân thì chạy đông chạy tây, không yên tĩnh; cùng Thiên Tướng thì tuổi già an khang; cùng Thất Sát thì kém an khang; cùng Tham Lang thì về già hưởng phúc; gặp Hỏa Linh thì an nhàn; thêm Dương, Đà thì lo nghĩ mà được sức.",
+    "goc": "武曲劳心费力，入庙安然享福，破军同东走西行，不宁静，天相同老境安康；七杀同欠安康，贪狼同晚年享福，见火铃星安逸，加羊陀操心得力。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thiên Phủ",
+    "dich": "Cùng Vũ Khúc thì tuổi trẻ càng vất vả, trung và vãn niên yên vui hưởng phúc.",
+    "goc": "武曲同早年更辛苦，中晚安乐享福"
+   }
+  ]
+ },
+ "武曲+天府": {
+  "dinhDieu": "Không nhàn được là chuyện thường; nhập miếu mới yên ổn hưởng phúc.",
+  "canCu": [
+   "Vũ Khúc vào Phúc Đức — tầng tinh thần dựa vào cảm giác an toàn vật chất.",
+   "Vũ Khúc là sao cô khắc — thế giới tinh thần hơi lạnh cứng, ít dịu dàng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Vũ Khúc lao tâm tốn sức, nhập miếu thì yên ổn hưởng phúc; cùng Phá Quân thì chạy đông chạy tây, không yên tĩnh; cùng Thiên Tướng thì tuổi già an khang; cùng Thất Sát thì kém an khang; cùng Tham Lang thì về già hưởng phúc; gặp Hỏa Linh thì an nhàn; thêm Dương, Đà thì lo nghĩ mà được sức.",
+    "goc": "武曲劳心费力，入庙安然享福，破军同东走西行，不宁静，天相同老境安康；七杀同欠安康，贪狼同晚年享福，见火铃星安逸，加羊陀操心得力。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Thiên Phủ",
+    "dich": "Cùng Vũ Khúc thì tuổi trẻ càng vất vả, trung và vãn niên yên vui hưởng phúc.",
+    "goc": "武曲同早年更辛苦，中晚安乐享福"
+   }
+  ]
+ },
+ "紫微+天相": {
+  "dinhDieu": "Có phúc, ngày tháng sống thoải mái; thêm Kình Dương, Đà La, Linh Tinh, Địa Không, Địa Kiếp thì Toàn Thư nói “phúc mỏng”.",
+  "cotLoi": [
+   "Tử Vi ở cung Phúc Đức: hưởng thụ tinh thần coi trọng chất lượng, thích lối sống có phong cách, không mấy hứng thú với thú vui thô tục. Cùng cung Thiên Phủ hoặc Thiên Tướng, Toàn Thư nói Tử Vi “cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt”; cùng Thiên Phủ còn phải xem tam phương tứ chính có đủ Tả Phù, Hữu Bật không, và phần phúc này cũng không thể đem bù cho chuyện hôn nhân ở cung Phu Thê, Phúc Đức. Cùng Phá Quân thì mục Tử Vi nói “cùng Phá Quân thì lao tâm tốn sức, không yên”, mục Phá Quân lại nói “cùng Tử Vi thì yên vui”, hai thuyết song song. Trong lòng tự trọng mạnh, phải được người công nhận mới thấy hạnh phúc — đây là đề tài cốt lõi nhất của Tử Vi ở cung này. Toàn Thư nói Tử Vi ở Phúc Đức là “Tử Vi phúc dày, hưởng phúc yên vui”, tức phúc khí dày, sống yên vui.",
+   "Nam mệnh: Toàn Thư quyển 1 lại nói Tử Vi “ở Phúc Đức, với nam là đất hãm”, khác với quyển 2, hai thuyết song song. Nữ mệnh: Toàn Thư quyển 1 nói Tử Vi ở Phúc Đức “với nữ là miếu lạc (chỗ tốt)”."
+  ],
+  "canCu": [
+   "Tử Vi vào Phúc Đức — tầng tinh thần theo đuổi phong cách, cảm giác tự trọng mạnh.",
+   "Tử Vi hội lục sát ở Phúc Đức — tinh thần cô ngạo, dễ rơi vào cảm giác cô đơn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức",
+    "dich": "Tử Vi phúc dày, hưởng phúc yên vui; cùng Thiên Phủ, Thiên Tướng thì cả đời được tốt; cùng Phá Quân thì lao tâm tốn sức, không yên; thêm Dương, Đà, Linh, Không, Kiếp thì phúc mỏng; cùng Thiên Cơ thì hưởng phúc cả đời.",
+    "goc": "紫微福厚享福安乐，天府天相同终身获吉，破军同劳心费力不安，加羊陀铃空劫福薄，天机同享福终身。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức, mục Phá Quân",
+    "dich": "Cùng Tử Vi thì yên vui.",
+    "goc": "紫微同安乐"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Ở Phúc Đức, với nam là đất hãm, với nữ là miếu lạc; gặp cát thì cát, gặp hung thì hung.",
+    "goc": "福德男为陷地，女为庙乐，逢吉则吉，逢凶则凶。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Thái Vi Phú",
+    "dich": "Tử Vi, Thiên Phủ hoàn toàn dựa vào công của Phụ Bật.",
+    "goc": "紫微天府全依辅弼之功"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Phúc Đức (mục Thất Sát)",
+    "dich": "Cùng Tử Vi thì trước lao sau nhàn, cuối đời mới như ý vừa lòng; phụ nữ một mình ở Phúc Đức thì ắt làm kỹ nữ, tì nữ.",
+    "goc": "紫微同先劳后逸，末年方如意遂心，女人单居福德，则必为娼婢。"
+   }
+  ]
+ }
+}

@@ -1,20 +1,19 @@
 'use client';
 
 /**
- * 古籍库搜索框 — client component
- *
- * 输入 → 实时搜索 → 跳转 /library/search?q=xxx
+ * Ô tìm kiếm cổ thư → chuyển tới /library/search?q=…
  */
 
 import { useState, useTransition } from 'react';
 import { useRouter } from 'next/navigation';
 
-export default function LibrarySearch() {
-  const [q, setQ] = useState('');
+export default function LibrarySearch({ initial = '' }: { initial?: string }) {
+  const [q, setQ] = useState(initial);
   const [isPending, startTransition] = useTransition();
   const router = useRouter();
 
-  const submit = () => {
+  const submit = (e: React.FormEvent) => {
+    e.preventDefault();
     const query = q.trim();
     if (!query) return;
     startTransition(() => {
@@ -23,48 +22,24 @@ export default function LibrarySearch() {
   };
 
   return (
-    <div style={{
-      display: 'flex',
-      gap: '8px',
-      padding: '6px',
-      background: 'var(--bg-card)',
-      border: '1px solid rgba(184,146,42,0.3)',
-      borderRadius: '12px',
-      boxShadow: '0 4px 16px rgba(184,146,42,0.08)',
-    }}>
+    <form className="search" role="search" onSubmit={submit}>
       <input
+        aria-label="Tìm trong cổ thư"
+        className="field__input"
+        type="search"
         value={q}
         onChange={e => setQ(e.target.value)}
-        onKeyDown={e => e.key === 'Enter' && submit()}
-        placeholder="搜索古籍原文，如：七杀朝斗 / 双禄朝垣 / 化忌"
-        style={{
-          flex: 1,
-          padding: '10px 14px',
-          border: 'none',
-          outline: 'none',
-          fontSize: '14px',
-          color: 'var(--tx-0)',
-          background: 'transparent',
-        }}
+        placeholder="Thất Sát triều Đẩu, hóa kỵ…"
       />
       <button
-        onClick={submit}
-        disabled={isPending || !q.trim()}
-        style={{
-          padding: '10px 22px',
-          borderRadius: '8px',
-          border: 'none',
-          background: 'linear-gradient(135deg, #d4a948 0%, #b8922a 100%)',
-          color: 'white',
-          fontSize: '13px',
-          fontWeight: 600,
-          letterSpacing: '0.15em',
-          cursor: q.trim() ? 'pointer' : 'not-allowed',
-          opacity: q.trim() ? 1 : 0.5,
-        }}
+        type="submit"
+        className="btn btn--primary"
+        disabled={!q.trim()}
+        data-state={isPending ? 'loading' : undefined}
+        aria-busy={isPending || undefined}
       >
-        {isPending ? '…' : '搜索'}
+        Tìm
       </button>
-    </div>
+    </form>
   );
 }

@@ -1,0 +1,805 @@
+{
+ "紫微": {
+  "dinhDieu": "Tử Vi ở Thiên Di: ra ngoài gặp được quý nhân.",
+  "cotLoi": [
+   "Tử Vi ở cung Thiên Di: ra ngoài gặp được quý nhân. Sách xưa đặc biệt ghi một câu “cùng Tả Hữu”, tức bên cạnh có Tả Phù, Hữu Bật đi theo thì sự nâng đỡ ấy mới thành thực; quyển 1 còn nói Thiên Di vốn là cung mạnh, nhưng vẫn cần người phò tá; có cát tinh chiếu Mệnh thì quý khí này là do người khác đem tới cho bạn. Tử Vi hội đủ Tả Phù, Hữu Bật thì rời quê ra nơi khác dễ gặp người chịu nâng đỡ hơn ở quê, ra ngoài đi lên cũng thuận. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài không yên, thị phi nhiều, bôn ba nhiều. Tử Vi, Thiên Phủ ở Dần hoặc Thân cùng ngồi Thiên Di, cung Mệnh có Thất Sát, thầy Nghê gọi là Thất Sát triều Đẩu, giảng theo hướng đi xa, trấn thủ biên cương — điều này phải rơi vào tuổi tác tương xứng với thân phận ấy mới nói như vậy; Cốt Tủy Phú trong Toàn Thư cũng có câu “Thất Sát triều Đẩu, tước lộc vinh xương”."
+  ],
+  "canCu": [
+   "Tử Vi vào Thiên Di — ra nơi khác gặp quý nhân; sự nâng đỡ có thành thực không phải xem có Tả Phù, Hữu Bật cùng không (Toàn Thư: “Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc”).",
+   "Tử Vi hội Tả Phù, Hữu Bật ở Thiên Di — ra ngoài được nhiều quý nhân nâng đỡ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc; cùng Thiên Phủ thì ra vào thông đạt; cùng Thiên Tướng thì ở ngoài phát tài; cùng Phá Quân thì được quý nhân thương, tiểu nhân không đủ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài không yên.",
+    "goc": "紫微同左右出外贵人扶持发福，天府同出入通达，天相同在外发财，破军同贵人见爱，小人不足，加羊陀火铃空劫在外不安静。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Thiên Di tuy là cung mạnh, càng cần người phò tá; có cát tinh chiếu Mệnh thì nhờ người khác mà quý.",
+    "goc": "迁移虽是强宫，更要相佐，有吉星照命，则因人之贵。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Không có Phụ Bật đi cùng là vua cô độc, ngọc đẹp cũng chưa đủ.",
+    "goc": "无辅弼同行则为孤君，虽美玉不足。"
+   }
+  ]
+ },
+ "天机": {
+  "dinhDieu": "Ra ngoài có quý nhân, ở nhà lại nhiều thị phi; hợp đi lại nhiều.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Thiên Di, sách xưa nói rất rõ: ra ngoài dễ gặp quý nhân nâng đỡ, ngược lại ở nhà thì nhiều thị phi; nên hợp công việc hay đi công tác, đi lại. Ở ngoài khả năng ứng biến mạnh, đổi môi trường là thích nghi rất nhanh; cùng cung Thiên Lương thì ra ngoài vừa ý, cùng Thái Âm thì trong bận rộn mà vớt được lợi. Nhưng nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì ở ngoài thị phi nhiều, người không yên; trước khi đi nên sắp xếp đầy đủ. Gặp Địa Không, Địa Kiếp thì đi uổng công, không thu được gì, không hợp đi quá xa."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Thiên Di — chủ động, chủ di chuyển, cơ hội ra ngoài nhiều.",
+   "Thiên Cơ gặp Không Kiếp ở Thiên Di — đi uổng không được gì, đi xa nên thận trọng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Cơ ra ngoài gặp quý nhân, ở nhà có thị phi; cùng Cự Môn thì động là tốt; cùng Thiên Lương thì ra ngoài vừa ý; cùng Thái Âm thì bận mà tốt; thêm Dương, Đà, Hỏa, Linh thì ở ngoài nhiều thị phi, thân không yên.",
+    "goc": "天机出外遇贵居家有是非，巨门同动中则吉，天梁同出外称意，太阴同忙中吉，加羊陀火铃在外多是非身不安静。"
+   }
+  ]
+ },
+ "太阳": {
+  "dinhDieu": "Ở nơi khác dễ làm nên danh tiếng hơn; hợp đi ra, không hợp ở nhà giữ.",
+  "cotLoi": [
+   "Thái Dương ở cung Thiên Di, sách xưa nói “nên ra ngoài phát phúc, không chịu được ngồi yên giữ”, tức ra ngoài mới có phúc, cứ giữ yên một chỗ lại bó mình; quyển 1 còn nói cung này “khó nhận được tổ nghiệp, dời gốc đổi lá, rời tổ làm nhà”, tức gia nghiệp tổ tiên không tới tay, phải rời quê tự lập. Ở ngoài có quý nhân; danh tiếng ở nơi khác dễ làm lên hơn, hợp việc công hoặc ngành giao tế nhiều. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, sách xưa nói “ở ngoài thân tâm không thanh nhàn”, tức người ở ngoài mà thân tâm không lúc nào rảnh."
+  ],
+  "canCu": [
+   "Thái Dương vào Thiên Di — ra ngoài có dương khí che chở, được nhiều nguồn lực công chúng.",
+   "Thái Dương ở Thiên Di nhập miếu — tỏa sáng nơi khác, danh lợi song thu.",
+   "Thái Dương ở Thiên Di hãm — ra ngoài vất vả ít công, nên đổi môi trường."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thái Dương nên ra ngoài phát phúc, không chịu được ngồi yên giữ; cùng Thái Âm thì ra ngoài bận mà tốt; (cùng) Cự Môn thì lao tâm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài thân tâm không thanh nhàn.",
+    "goc": "太阳宜出外发福不耐静守，太阴同出外忙中吉，巨门劳心，加羊陀火铃空劫在外心身不清闲。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Phúc ở cung Thiên Di khác với ở Thân Mệnh: khó nhận được tổ nghiệp, dời gốc đổi lá, rời tổ làm nhà.",
+    "goc": "迁移宫其福与身命不同，难招祖业，移根换叶，出祖为家。"
+   }
+  ]
+ },
+ "武曲": {
+  "dinhDieu": "Hợp động không hợp giữ, chỗ náo nhiệt dễ kiếm tiền; gặp sát tinh thì ở ngoài chuốc thị phi.",
+  "canCu": [
+   "Vũ Khúc vào Thiên Di — chủ ra ngoài làm thực, phần nhiều phát triển trong tài chính, kỹ thuật, quân đội, cảnh sát.",
+   "Vũ Khúc thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh — Toàn Thư nói “ở ngoài chuốc thị phi”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Vũ Khúc ở chốn náo nhiệt bận rộn thì kiếm được ít, không nên ngồi yên giữ; cùng Tham Lang thì làm nhà buôn lớn; cùng Thất Sát, Phá Quân thì thân tâm không giữ yên được; thêm Dương, Đà, Hỏa, Linh thì ở ngoài chuốc thị phi.",
+    "goc": "武曲闹忙中进少不宜静守，贪狼同作巨商，七杀破军同身心不得静守，加羊陀火铃在外招是非。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Luận người có số buôn bán hay không",
+    "dich": "Buôn bán thì Tử Phủ gặp Kình Dương; Vũ Khúc ở Thiên Di thì lợi thị trường.",
+    "goc": "经商紫府遇擎羊，武曲迁移利市场"
+   }
+  ]
+ },
+ "天同": {
+  "dinhDieu": "Thiên Đồng ở Thiên Di: ra ngoài dễ gặp quý nhân nâng đỡ.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Thiên Di: ra ngoài thường gặp quý nhân giúp, môi trường ôn hòa, ít sóng gió lớn. Sách nói cùng cung Thiên Lương thì được quý nhân thương, phúc dày; cùng Cự Môn thì lao tâm; cùng Thái Âm thì vất vả; còn mục Thái Âm lại nói Thái Âm, Thiên Đồng cùng cung ở đất Miếu Vượng thì ra ngoài tay trắng kiếm được tiền, lập được nhà; hai thuyết cùng tồn tại. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài lại khó vừa ý, đi đi về về thu được có hạn."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Thiên Di — chủ ra ngoài có phúc tinh che chở, ít trắc trở.",
+   "Thiên Đồng gặp sát — phúc khí khi ra ngoài bị tổn, đường đi nhiều trắc trở nhỏ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Đồng ra ngoài gặp quý nhân nâng đỡ; cùng Cự Môn thì lao tâm; cùng Thái Âm thì vất vả; cùng Thiên Lương thì được quý nhân thương; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài ít toại chí.",
+    "goc": "天同出外遇贵人扶持，巨门同劳心，太阴同辛苦，天梁同贵人见爱，加羊陀火铃空劫在外少遂志。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di, mục Thái Âm",
+    "dich": "Thái Âm nhập miếu ra ngoài gặp quý nhân, phát tài; ở cung hãm thì chuốc thị phi; cùng Thái Dương thì rất đẹp; … cùng Thiên Đồng ở đất Miếu Vượng thì ra ngoài tay trắng sinh tiền, lập nhà.",
+    "goc": "太阴入庙出外遇贵发财，陷宫招是非，太阳同极美，太阴同欠宁静，天同同在庙旺地出外白手生财成家。"
+   }
+  ]
+ },
+ "廉贞": {
+  "dinhDieu": "Ra ngoài lại thuận, dễ gặp quý nhân; gặp sát tinh thì đi xa phải cẩn thận.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Thiên Di “ra ngoài thông đạt, gần người quý, ngày ở nhà ít”, tức ra ngoài lại thuận, dễ gần quý nhân, ngày ở nhà ít; vốn là sao hợp động không hợp tĩnh. Cùng Thất Sát thì “ở ngoài thu tiền rộng”, tức ở ngoài nguồn tiền rộng mở; cùng Thiên Tướng thì “động là tốt”, tức động lên mới thuận. Nhưng nếu thêm Kình Dương, Đà La, tam phương lại gặp hung sát, sách xưa còn một câu nặng hơn “chết ở đường ngoài”, tức chết trên đường nơi đất khách. Liêm Trinh với Tham Lang cùng cung lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, mục Tham Lang trong sách xưa nói “cùng Liêm Trinh thêm tứ sát thì ở ngoài gian nan”, tức ở ngoài chỗ nào cũng không thuận; lịch trình, tiền bạc, bạn bè đều phải cẩn thận hơn. Cung Thiên Di có Liêm Trinh, Tham Lang cùng cung lại đều hãm, cung Mệnh không có chính tinh, thầy Nghê gọi cách này là “gãy cánh giữa trời”, nói “loại bát tự này theo lập trường xem số thuộc một loại thiên la địa võng, hạn đó ở trung niên”, “loại này thuộc hiện tượng trung niên có thể chết sớm” (Nghê Hải Hạ, Thiên Kỷ, tập 11, 04:09 và 04:55), nói về chính đương số; trung niên thầy nói là “khoảng 30 tuổi”, có người 29 tuổi đã xảy ra, có người 30, 31, 32, và nói “tôi ở đây chỉ là nguyên tắc đại khái”, còn phải đối chiếu lại bản cung, cung đối và vận đang đi; nếu việc tương ứng đã ứng rồi, khoảng tuổi này đã qua, thì không lấy cùng nhóm sao đó mà đoán về sau nữa. (Đây là lời phán nặng; một tổ hợp sao không quyết định sinh tử, nên đọc như lời nhắc thận trọng.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Thiên Di — chủ ra ngoài đào hoa vượng, nhiều cơ hội tài nghệ.",
+   "Liêm Trinh thêm Kình Dương, Đà La, tam phương lại gặp hung sát — Toàn Thư nói “chết ở đường ngoài”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Liêm Trinh ra ngoài thông đạt, gần người quý, ngày ở nhà ít; cùng Tham Lang thì đứng chân giữa chốn náo nhiệt; cùng Thất Sát thì ở ngoài thu tiền rộng; cùng Thiên Tướng thì động là tốt; thêm Dương, Đà và tam phương có hung sát thì chết ở đường ngoài.",
+    "goc": "廉贞出外通达近贵，在家日少，贪狼同闹中立脚，七杀同在外广招财，天相同动中则吉，加羊陀并三方有凶杀死于外道。"
+   }
+  ]
+ },
+ "天府": {
+  "dinhDieu": "Ra ngoài có quý nhân giúp, đi tới đâu cũng thuận; cùng Liêm Trinh, Vũ Khúc thì kiếm tiền ở chỗ náo nhiệt, làm ăn lớn.",
+  "cotLoi": [
+   "Thiên Phủ ở cung Thiên Di, Toàn Thư mở đầu là “Thiên Phủ ra ngoài gặp quý nhân giúp”, tức ra ngoài dễ gặp người giúp bạn; tiếp đó nói cùng Liêm Trinh, Vũ Khúc thì kiếm tiền được ở chỗ đông người náo nhiệt, làm được việc buôn lớn. Vậy ra ngoài không chỉ là vững, mà càng dễ gặp người chịu đỡ bạn một tay; đừng đọc Thiên Phủ chỉ là biết giữ nhà. Hợp tới các ngành ổn định như tài chính, nhà nước, ngân hàng mà phát triển; gia sản ở ngoài cũng được bảo đảm. Quyển 1, phần “Luận số người có nghề thuật hay không” có bài thơ: “Thiên Cơ, Thiên Tướng ở Mệnh Thân, sao đế, sao lệnh, tài tinh vào Mộ, Thiên Phủ nếu ở cung Thiên Di, cả đời ắt làm nghề khéo lạ.” Thiên Phủ ở Thiên Di còn phải đủ cả hai tầng “Thiên Cơ, Thiên Tướng ở Mệnh Thân” và “sao đế, sao lệnh, tài tinh vào Mộ” mới nói làm nghề khéo lạ; chỉ Thiên Phủ ở Thiên Di thì không đoán theo câu này. Gặp Địa Không, Địa Kiếp thì ra ngoài dễ phá tài; gặp Tả Phù, Hữu Bật thì thăng tiến từng bước đi lên."
+  ],
+  "canCu": [
+   "Thiên Phủ vào Thiên Di — chủ ra ngoài vững vàng, kho tiền hộ thân.",
+   "Thiên Phủ ở Thiên Di hội Tả Phù, Hữu Bật — thăng tiến vững vàng trong tổ chức lớn.",
+   "Thiên Phủ ở Thiên Di gặp Không Kiếp — kho tiền gặp không, ra ngoài phá tài.",
+   "Thiên Phủ hội Vũ Khúc — nguồn tiền nơi khác ổn định, coi trọng làm thực."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Phủ ra ngoài gặp quý nhân giúp; cùng Tử Vi thì phát phúc; cùng Liêm Trinh, Vũ Khúc thì lấy tiền ở chốn náo nhiệt, làm nhà buôn lớn.",
+    "goc": "天府出外遇贵人扶，持同紫微发福，廉贞武曲闹中取财作巨商。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Luận số người có nghề thuật hay không",
+    "dich": "Thiên Cơ, Thiên Tướng ở Mệnh Thân, sao đế, sao lệnh, tài tinh vào Mộ; Thiên Phủ nếu ở cung Thiên Di, cả đời ắt làm nghề khéo lạ.",
+    "goc": "天机天相命身中，帝令财星入墓中，天府若居迁动位，平生定是作奇工。"
+   }
+  ]
+ },
+ "太阴": {
+  "dinhDieu": "Thái Âm ngồi Thiên Di: ra ngoài theo các đường văn hóa, nghệ thuật, tài chính, nhà đất.",
+  "cotLoi": [
+   "Thái Âm ở cung Thiên Di: sách nói Thái Âm nhập miếu (sao mạnh; hãm là sao yếu) thì ra ngoài gặp quý nhân, cũng phát được tài; hợp phát triển ra ngoài theo các đường văn hóa, nghệ thuật, tài chính, nhà đất bất động sản; tới nơi khác mua tài sản là con đường thường gặp; cùng Thiên Đồng ở vị trí Miếu hoặc Vượng thì càng dễ tay trắng gây dựng, lập nhà lập nghiệp ở ngoài. Ra ngoài thường có quý nhân nữ nâng đỡ. Hãm thì ở ngoài dễ chuốc thị phi, sống với người không yên, môi trường cũng khó thích nghi. Thái Dương, Thái Âm đều hãm là Nhật Nguyệt phản bối; thầy Nghê nói: “Chỉ cần số có Thái Dương, Thái Âm trái ngược nhau thì phần lớn đều rời tổ, rời quê ra nơi khác phát triển” (Nghê Hải Hạ, Thiên Kỷ, tập 9, 19:29); cùng ví dụ còn nói người Nhật Nguyệt phản bối sẽ có chuyện khiến cha mẹ lo lắng phiền lòng vì mình (tập 9, 20:40); hai tầng rời quê và cha mẹ phải xem cùng nhau."
+  ],
+  "canCu": [
+   "Thái Âm vào Thiên Di — chủ ra ngoài liên quan nhà đất, quý nhân nữ.",
+   "Thái Âm ở Thiên Di nhập miếu — mua tài sản nơi khác, lợi về nhà đất.",
+   "Thái Âm ở Thiên Di hãm — ra ngoài cảm xúc lên xuống, môi trường không hợp."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thái Âm nhập miếu ra ngoài gặp quý nhân, phát tài; ở cung hãm thì chuốc thị phi; cùng Thái Dương thì rất đẹp; … cùng Thiên Đồng ở đất Miếu Vượng thì ra ngoài tay trắng sinh tiền, lập nhà.",
+    "goc": "太阴入庙出外遇贵发财，陷宫招是非，太阳同极美，太阴同欠宁静，天同同在庙旺地出外白手生财成家。"
+   }
+  ]
+ },
+ "贪狼": {
+  "dinhDieu": "Ở ngoài bôn ba vất vả, nhưng tiền đến từ chỗ náo nhiệt; đào hoa và thiên tài đều vượng, cẩn thận tửu sắc chuốc thị phi.",
+  "cotLoi": [
+   "Tham Lang ở cung Thiên Di, sách xưa nói “thủ một mình thì ở ngoài lao lực, giữa chốn náo nhiệt thì tiền vào bất ngờ”, tức rời quê ở ngoài bôn ba vất vả, nhưng tiền thường đột ngột kiếm được ở chỗ náo nhiệt: tiệc rượu, giao tế, quan hệ tình nghĩa chính là đường tiền. Ở ngoài đào hoa cũng nhiều, cơ hội tình cảm phần nhiều xuất hiện trên đường đi và ở nơi khác; tài nghệ và quan hệ trải ra rộng hơn ở nơi khác, thuộc số “ra ngoài là có chuyện hay”, tức rời nhà lại có cơ hội.",
+   "Nếu Hỏa Tinh, Linh Tinh cùng cung Tham Lang thì thành “cách Hỏa Tham”, “cách Linh Tham”, tức hai sao này châm lửa cho Tham Lang; ở ngoài cơ hội tiền bất ngờ tăng nhiều, có thể một chuyến công tác hay du lịch mà phát một khoản, chỉ là đến nhanh đi cũng nhanh. Lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, gặp Hao, Sát, sách xưa nói “thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Hao, Sát thì năm lưu niên gặp binh đao cướp bóc”, tức tới năm đó ở ngoài gặp nạn binh đao cướp bóc."
+  ],
+  "canCu": [
+   "Tham Lang vào Thiên Di — chủ ra ngoài đào hoa nhiều, giao tế rộng.",
+   "Tham Lang ở Thiên Di hội Hỏa Linh — “cách Hỏa Tham / Linh Tham”, nơi khác phát tiền bất ngờ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Tham Lang thủ một mình thì ở ngoài lao lực, giữa chốn náo nhiệt thì tiền vào bất ngờ; cùng Liêm Trinh thêm tứ sát thì ở ngoài gian nan; cùng Vũ Khúc thì làm nhà buôn lớn; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp, Hao, Sát thì năm lưu niên gặp binh đao cướp bóc.",
+    "goc": "贪狼独守在外劳碌，闹中横进财，廉贞同加四杀，在外艰难，武曲同作巨商，加羊陀火铃空劫耗杀流年遭兵劫掠。"
+   }
+  ]
+ },
+ "巨门": {
+  "dinhDieu": "Ra ngoài khẩu thiệt thị phi nhiều.",
+  "cotLoi": [
+   "Sách nói Cự Môn ở cung Thiên Di là “ra ngoài lao tâm không yên, với người không đủ, nhiều thị phi”, tức người tới nơi khác lòng không yên được, sống với người luôn thiếu một chút, thị phi cũng theo tới; nên ở ngoài nói năng phải đặc biệt thu lại. Nhưng Cự Môn cũng rất giỏi kiếm sống bằng tài ăn nói ở nơi khác; các việc pháp luật, giáo dục, truyền thông, bán hàng, tư vấn tới nơi khác lại có nhiều cơ hội hơn."
+  ],
+  "canCu": [
+   "Cự Môn vào Thiên Di — chủ ra ngoài nhiều khẩu thiệt thị phi, nên cẩn thận lời nói.",
+   "Cự Môn hội Thái Dương — hai sao đều Miếu Vượng mới luận theo Cự Nhật, nhờ tài ăn nói mà lập danh; mục Thái Dương ở Thiên Di trong Toàn Thư lại nói “(cùng) Cự Môn thì lao tâm”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Cự Môn ra ngoài lao tâm không yên, với người không đủ, nhiều thị phi; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì càng nặng.",
+    "goc": "巨门出外劳心不安，与人不足多是非，加羊陀火铃空劫愈甚。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Cự Môn chủ về gì",
+    "dich": "Ở Thiên Di thì chuốc thị phi.",
+    "goc": "在迁移则招是非"
+   }
+  ]
+ },
+ "天相": {
+  "dinhDieu": "Ra ngoài có quý nhân dìu dắt; hợp làm phò tá trong tổ chức lớn, đừng đơn thương độc mã.",
+  "cotLoi": [
+   "Thiên Tướng ở cung Thiên Di, sách xưa nói “ra ngoài có quý nhân dìu dắt”, tức ra ngoài tự nhiên có người kéo bạn một tay, chỉ đường cho bạn. Thiên Tướng ở Thiên Di hãm lại cùng cung với Kình Dương hãm, thầy Nghê từng phê một lá số như vậy: “Cô xem Thiên Tướng ở Thiên Di của cô ấy hãm, Kình Dương cũng hãm; người này đi ra nơi khác là đường chết; đương nhiên anh phê cho cô ấy: nơi khác hung, quê nhà cát” (Nghê Hải Hạ, Thiên Kỷ, tập 21, 07:17). Phát triển thuận lợi trong tổ chức lớn hoặc nơi chính thức; ở ngoài giỏi phò tá, hợp các việc hành chính, pháp vụ, tuân thủ khi được cử đi công tác xa — đi đường “quân sư đóng ngoài”. Tốt nhất chọn môi trường có tổ chức chống lưng, đừng đơn thương độc mã; Thiên Tướng không giỏi khởi đầu từ số không. Liêm Trinh với Thiên Tướng cùng cung lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì ở ngoài dễ chuốc thị phi, gặp tiểu nhân, không được giúp. Gặp Địa Không, Địa Kiếp thì ở ngoài giấy tờ trục trặc, hợp đồng, con dấu phải giữ chặt."
+  ],
+  "canCu": [
+   "Thiên Tướng vào Thiên Di — chủ ra ngoài phò tá, nên ở tổ chức lớn.",
+   "Thiên Tướng ở Thiên Di hội Tả Phù, Hữu Bật — nơi khác có người giúp, thăng tiến vững.",
+   "Thiên Tướng ở Thiên Di gặp Không Kiếp — giấy tờ, ấn tín ở nơi khác bị tổn."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Tướng ra ngoài có quý nhân dìu dắt; cùng Tử Vi thì tốt lợi; cùng Vũ Khúc thì ở ngoài phát tài; cùng Liêm Trinh thêm Dương, Đà, Hỏa, Linh thì chuốc thị phi, tiểu nhân không đủ.",
+    "goc": "天相出外贵人提撕，紫微同吉利，武曲同在外发财，廉贞同加羊陀火铃招是非小人不足。"
+   }
+  ]
+ },
+ "天梁": {
+  "dinhDieu": "Ra ngoài dễ gặp quý nhân giúp thành việc; chỉ khi sao yếu lại gặp Thiên Mã mới bôn ba khắp nơi.",
+  "cotLoi": [
+   "Thiên Lương ở cung Thiên Di, Toàn Thư nói thẳng “Thiên Lương ra ngoài gần người quý, quý nhân giúp thành”, tức ra ngoài dễ gần quý nhân, nhờ quý nhân mà thành việc; lúc quan trọng luôn có người đỡ bạn; cùng Thiên Đồng thì phúc dày, cùng Thiên Cơ thì đi đường tay nghề, kỹ thuật. Hợp đem các sự nghiệp lập thân bằng đạo đức và chuyên môn như y tế, pháp luật, giáo dục, tôn giáo ra nơi khác mà làm."
+  ],
+  "canCu": [
+   "Thiên Lương vào Thiên Di — chủ ra ngoài có che chở, gặp dữ hóa lành.",
+   "Thiên Lương gặp sát — sự che chở bị giảm, vẫn hóa hiểm thành an được."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Lương ra ngoài gần người quý, quý nhân giúp thành; cùng Thiên Đồng thì phúc dày; cùng Thiên Cơ thì đi đường nghề thuật.",
+    "goc": "天梁出外近贵贵人成就，天同同福厚，天机同艺术途中走。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Cốt Tủy Phú",
+    "dich": "Thiên Lương, Thiên Mã hãm thì trôi dạt không nghi ngờ; Liêm Trinh, Thất Sát không thêm (sát) thì danh tiếng vang xa.",
+    "goc": "天梁天马陷飘荡无疑，廉贞杀不加声名远播。"
+   }
+  ]
+ },
+ "七杀": {
+  "dinhDieu": "Ra ngoài một mình gánh được một mảng, đứng vững nhờ bản lĩnh.",
+  "cotLoi": [
+   "Thất Sát ở cung Thiên Di: ra ngoài một mình gánh được một mảng, hợp tới các ngành cạnh tranh gay gắt mà xông pha, như quân đội, cảnh sát, tài chính, bán hàng, khởi nghiệp. Sách nói Thất Sát “ngày ở ngoài nhiều, ngày ở nhà ít”, tức thời gian ở ngoài nhiều hơn hẳn ở nhà; cùng Vũ Khúc là “động thì tốt”, tức động mới thuận; cùng Liêm Trinh là “ở ngoài sinh tiền”, tức tiền kiếm ở nơi khác; cùng Tử Vi là “ở ngoài phần nhiều toại chí”, tức ra ngoài mới dễ thực hiện hoài bão. Mấy điều này nói cùng một chuyện: đi ra mới thuận. Ở nơi khác đứng vững nhờ quả quyết và bản lĩnh thật. Nếu cung Mệnh đúng là Tử Vi, Thiên Phủ cùng cung ở Dần hoặc Thân (thì Thiên Di là Thất Sát), thầy Nghê gọi là “Tử Phủ tọa viên”, giảng theo hướng gần thiên tử, phò tá bề trên; điều này với Thất Sát thủ Mệnh, Tử Phủ ở Thiên Di — “Thất Sát triều Đẩu” — là hai đầu, phải xem riêng, cũng đều phải rơi vào tuổi tác tương xứng với thân phận mới nói như vậy; Cốt Tủy Phú trong Toàn Thư để song song “Thất Sát triều Đẩu, tước lộc vinh xương; Tử Phủ đồng cung, cả đời phúc dày”. Ngược lại, thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì thành “lo nghĩ không yên hoặc trôi dạt chân trời”, tức ở ngoài bôn ba bất định, lòng không yên, thị phi cũng nhiều."
+  ],
+  "canCu": [
+   "Thất Sát vào Thiên Di — chủ ra ngoài độc lập, đứng vững nhờ thực lực.",
+   "Cung Mệnh Tử Phủ, Thiên Di Thất Sát (Tử Phủ tọa viên) — thầy Nghê giảng theo hướng gần thiên tử, phò tá bề trên, xem riêng với Thất Sát triều Đẩu.",
+   "Thất Sát gặp sát — xung đột khi ra ngoài gay gắt, cần thận trọng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thất Sát ngày ở ngoài nhiều, ngày ở nhà ít; cùng Vũ Khúc thì động là tốt; cùng Liêm Trinh thì ở ngoài sinh tiền; cùng Tử Vi thì ở ngoài phần nhiều toại chí; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì lại lo nghĩ không yên hoặc trôi dạt chân trời.",
+    "goc": "七杀在外日多，在家日少，武曲同动中则吉，廉贞同在外生财，紫微同在外多遂志，加羊陀火铃空劫又操心不宁或流荡天涯。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Cốt Tủy Phú",
+    "dich": "Thất Sát, Phá Quân nên ra ngoài.",
+    "goc": "七杀破军宜出外"
+   }
+  ]
+ },
+ "破军": {
+  "dinhDieu": "Phá Quân hợp đi ra; sao mạnh thì ở ngoài xông pha được.",
+  "cotLoi": [
+   "Phá Quân ở cung Thiên Di, bài phú nói “Thất Sát, Phá Quân nên ra ngoài”, tức hai sao này đều nên đi ra. Quyển 3 viết cùng câu là “Thất Sát, Phá Quân nên ra ngoài, các nghề tay không tinh được”; mục Phá Quân ở Thiên Di quyển 2 phải thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh mới nói “bôn ba với nghề khéo trên đường”. Nhưng sách cũng ghi rõ cái giá: “Phá Quân ra ngoài lao tâm không yên”, tức ở ngoài bôn ba, lòng không tĩnh được — sự vất vả này tránh không khỏi; quyển 1 còn nói Phá Quân “ở Thiên Di chạy ngược chạy xuôi không có sức”, chạy tới chạy lui mà không dùng được sức, dễ bận rộn vô ích. Lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì là “bôn ba với nghề khéo trên đường”, tức sống bằng tay nghề trên đường đi, biến động càng mạnh."
+  ],
+  "canCu": [
+   "Phá Quân vào Thiên Di — vị trí tốt nhất của sao này, nên đi khắp thiên hạ xông pha.",
+   "Phá Quân gặp sát — biến động khi ra ngoài dữ dội, cần thận trọng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Phá Quân ra ngoài lao tâm không yên; nhập miếu thì ở ngoài hiển hách; thêm Dương, Đà, Hỏa, Linh thì bôn ba với nghề khéo trên đường; thêm Văn Xương, Văn Khúc, Vũ Khúc hội thì là người làm nghề biểu diễn.",
+    "goc": "破军出外劳心不宁，入庙在外峥嵘，加羊陀火铃，奔驰巧艺走途中，加文昌文曲武曲相会优伶之人。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Cốt Tủy Phú",
+    "dich": "Thất Sát, Phá Quân nên ra ngoài.",
+    "goc": "七杀破军宜出外"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 3",
+    "dich": "Thất Sát, Phá Quân nên ra ngoài, các nghề tay không tinh được.",
+    "goc": "七杀破军宜出外诸般手艺不能精"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Phá Quân chủ về gì",
+    "dich": "Ở Thiên Di thì chạy ngược chạy xuôi không có sức.",
+    "goc": "在迁移奔走无力"
+   }
+  ]
+ },
+ "廉贞+七杀": {
+  "dinhDieu": "Ra ngoài lại thuận, dễ gặp quý nhân; gặp sát tinh thì đi xa phải cẩn thận.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Thiên Di “ra ngoài thông đạt, gần người quý, ngày ở nhà ít”, tức ra ngoài lại thuận, dễ gần quý nhân, ngày ở nhà ít; vốn là sao hợp động không hợp tĩnh. Cùng Thất Sát thì “ở ngoài thu tiền rộng”, tức ở ngoài nguồn tiền rộng mở; cùng Thiên Tướng thì “động là tốt”, tức động lên mới thuận. Nhưng nếu thêm Kình Dương, Đà La, tam phương lại gặp hung sát, sách xưa còn một câu nặng hơn “chết ở đường ngoài”, tức chết trên đường nơi đất khách. Liêm Trinh với Tham Lang cùng cung lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, mục Tham Lang trong sách xưa nói “cùng Liêm Trinh thêm tứ sát thì ở ngoài gian nan”, tức ở ngoài chỗ nào cũng không thuận; lịch trình, tiền bạc, bạn bè đều phải cẩn thận hơn. Cung Thiên Di có Liêm Trinh, Tham Lang cùng cung lại đều hãm, cung Mệnh không có chính tinh, thầy Nghê gọi cách này là “gãy cánh giữa trời”, nói “loại bát tự này theo lập trường xem số thuộc một loại thiên la địa võng, hạn đó ở trung niên”, “loại này thuộc hiện tượng trung niên có thể chết sớm” (Nghê Hải Hạ, Thiên Kỷ, tập 11, 04:09 và 04:55), nói về chính đương số; trung niên thầy nói là “khoảng 30 tuổi”, có người 29 tuổi đã xảy ra, có người 30, 31, 32, và nói “tôi ở đây chỉ là nguyên tắc đại khái”, còn phải đối chiếu lại bản cung, cung đối và vận đang đi; nếu việc tương ứng đã ứng rồi, khoảng tuổi này đã qua, thì không lấy cùng nhóm sao đó mà đoán về sau nữa. (Đây là lời phán nặng; một tổ hợp sao không quyết định sinh tử, nên đọc như lời nhắc thận trọng.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Thiên Di — chủ ra ngoài đào hoa vượng, nhiều cơ hội tài nghệ.",
+   "Liêm Trinh thêm Kình Dương, Đà La, tam phương lại gặp hung sát — Toàn Thư nói “chết ở đường ngoài”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Liêm Trinh ra ngoài thông đạt, gần người quý, ngày ở nhà ít; cùng Tham Lang thì đứng chân giữa chốn náo nhiệt; cùng Thất Sát thì ở ngoài thu tiền rộng; cùng Thiên Tướng thì động là tốt; thêm Dương, Đà và tam phương có hung sát thì chết ở đường ngoài.",
+    "goc": "廉贞出外通达近贵，在家日少，贪狼同闹中立脚，七杀同在外广招财，天相同动中则吉，加羊陀并三方有凶杀死于外道。"
+   }
+  ]
+ },
+ "廉贞+贪狼": {
+  "dinhDieu": "Ra ngoài lại thuận, dễ gặp quý nhân; gặp sát tinh thì đi xa phải cẩn thận.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Thiên Di “ra ngoài thông đạt, gần người quý, ngày ở nhà ít”, tức ra ngoài lại thuận, dễ gần quý nhân, ngày ở nhà ít; vốn là sao hợp động không hợp tĩnh. Cùng Thất Sát thì “ở ngoài thu tiền rộng”, tức ở ngoài nguồn tiền rộng mở; cùng Thiên Tướng thì “động là tốt”, tức động lên mới thuận. Nhưng nếu thêm Kình Dương, Đà La, tam phương lại gặp hung sát, sách xưa còn một câu nặng hơn “chết ở đường ngoài”, tức chết trên đường nơi đất khách. Liêm Trinh với Tham Lang cùng cung lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, mục Tham Lang trong sách xưa nói “cùng Liêm Trinh thêm tứ sát thì ở ngoài gian nan”, tức ở ngoài chỗ nào cũng không thuận; lịch trình, tiền bạc, bạn bè đều phải cẩn thận hơn. Cung Thiên Di có Liêm Trinh, Tham Lang cùng cung lại đều hãm, cung Mệnh không có chính tinh, thầy Nghê gọi cách này là “gãy cánh giữa trời”, nói “loại bát tự này theo lập trường xem số thuộc một loại thiên la địa võng, hạn đó ở trung niên”, “loại này thuộc hiện tượng trung niên có thể chết sớm” (Nghê Hải Hạ, Thiên Kỷ, tập 11, 04:09 và 04:55), nói về chính đương số; trung niên thầy nói là “khoảng 30 tuổi”, có người 29 tuổi đã xảy ra, có người 30, 31, 32, và nói “tôi ở đây chỉ là nguyên tắc đại khái”, còn phải đối chiếu lại bản cung, cung đối và vận đang đi; nếu việc tương ứng đã ứng rồi, khoảng tuổi này đã qua, thì không lấy cùng nhóm sao đó mà đoán về sau nữa. (Đây là lời phán nặng; một tổ hợp sao không quyết định sinh tử, nên đọc như lời nhắc thận trọng.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Thiên Di — chủ ra ngoài đào hoa vượng, nhiều cơ hội tài nghệ.",
+   "Liêm Trinh thêm Kình Dương, Đà La, tam phương lại gặp hung sát — Toàn Thư nói “chết ở đường ngoài”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Liêm Trinh ra ngoài thông đạt, gần người quý, ngày ở nhà ít; cùng Tham Lang thì đứng chân giữa chốn náo nhiệt; cùng Thất Sát thì ở ngoài thu tiền rộng; cùng Thiên Tướng thì động là tốt; thêm Dương, Đà và tam phương có hung sát thì chết ở đường ngoài.",
+    "goc": "廉贞出外通达近贵，在家日少，贪狼同闹中立脚，七杀同在外广招财，天相同动中则吉，加羊陀并三方有凶杀死于外道。"
+   }
+  ]
+ },
+ "太阳+天梁": {
+  "dinhDieu": "Ở nơi khác dễ làm nên danh tiếng hơn; hợp đi ra, không hợp ở nhà giữ.",
+  "cotLoi": [
+   "Thái Dương ở cung Thiên Di, sách xưa nói “nên ra ngoài phát phúc, không chịu được ngồi yên giữ”, tức ra ngoài mới có phúc, cứ giữ yên một chỗ lại bó mình; quyển 1 còn nói cung này “khó nhận được tổ nghiệp, dời gốc đổi lá, rời tổ làm nhà”, tức gia nghiệp tổ tiên không tới tay, phải rời quê tự lập. Ở ngoài có quý nhân; danh tiếng ở nơi khác dễ làm lên hơn, hợp việc công hoặc ngành giao tế nhiều. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, sách xưa nói “ở ngoài thân tâm không thanh nhàn”, tức người ở ngoài mà thân tâm không lúc nào rảnh."
+  ],
+  "canCu": [
+   "Thái Dương vào Thiên Di — ra ngoài có dương khí che chở, được nhiều nguồn lực công chúng.",
+   "Thái Dương ở Thiên Di nhập miếu — tỏa sáng nơi khác, danh lợi song thu.",
+   "Thái Dương ở Thiên Di hãm — ra ngoài vất vả ít công, nên đổi môi trường."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thái Dương nên ra ngoài phát phúc, không chịu được ngồi yên giữ; cùng Thái Âm thì ra ngoài bận mà tốt; (cùng) Cự Môn thì lao tâm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài thân tâm không thanh nhàn.",
+    "goc": "太阳宜出外发福不耐静守，太阴同出外忙中吉，巨门劳心，加羊陀火铃空劫在外心身不清闲。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Phúc ở cung Thiên Di khác với ở Thân Mệnh: khó nhận được tổ nghiệp, dời gốc đổi lá, rời tổ làm nhà.",
+    "goc": "迁移宫其福与身命不同，难招祖业，移根换叶，出祖为家。"
+   }
+  ]
+ },
+ "武曲+七杀": {
+  "dinhDieu": "Hợp động không hợp giữ, chỗ náo nhiệt dễ kiếm tiền; gặp sát tinh thì ở ngoài chuốc thị phi.",
+  "canCu": [
+   "Vũ Khúc vào Thiên Di — chủ ra ngoài làm thực, phần nhiều phát triển trong tài chính, kỹ thuật, quân đội, cảnh sát.",
+   "Vũ Khúc thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh — Toàn Thư nói “ở ngoài chuốc thị phi”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Vũ Khúc ở chốn náo nhiệt bận rộn thì kiếm được ít, không nên ngồi yên giữ; cùng Tham Lang thì làm nhà buôn lớn; cùng Thất Sát, Phá Quân thì thân tâm không giữ yên được; thêm Dương, Đà, Hỏa, Linh thì ở ngoài chuốc thị phi.",
+    "goc": "武曲闹忙中进少不宜静守，贪狼同作巨商，七杀破军同身心不得静守，加羊陀火铃在外招是非。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Luận người có số buôn bán hay không",
+    "dich": "Buôn bán thì Tử Phủ gặp Kình Dương; Vũ Khúc ở Thiên Di thì lợi thị trường.",
+    "goc": "经商紫府遇擎羊，武曲迁移利市场"
+   }
+  ]
+ },
+ "天同+天梁": {
+  "dinhDieu": "Thiên Đồng ở Thiên Di: ra ngoài dễ gặp quý nhân nâng đỡ.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Thiên Di: ra ngoài thường gặp quý nhân giúp, môi trường ôn hòa, ít sóng gió lớn. Sách nói cùng cung Thiên Lương thì được quý nhân thương, phúc dày; cùng Cự Môn thì lao tâm; cùng Thái Âm thì vất vả; còn mục Thái Âm lại nói Thái Âm, Thiên Đồng cùng cung ở đất Miếu Vượng thì ra ngoài tay trắng kiếm được tiền, lập được nhà; hai thuyết cùng tồn tại. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài lại khó vừa ý, đi đi về về thu được có hạn."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Thiên Di — chủ ra ngoài có phúc tinh che chở, ít trắc trở.",
+   "Thiên Đồng gặp sát — phúc khí khi ra ngoài bị tổn, đường đi nhiều trắc trở nhỏ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Đồng ra ngoài gặp quý nhân nâng đỡ; cùng Cự Môn thì lao tâm; cùng Thái Âm thì vất vả; cùng Thiên Lương thì được quý nhân thương; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài ít toại chí.",
+    "goc": "天同出外遇贵人扶持，巨门同劳心，太阴同辛苦，天梁同贵人见爱，加羊陀火铃空劫在外少遂志。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di, mục Thái Âm",
+    "dich": "Thái Âm nhập miếu ra ngoài gặp quý nhân, phát tài; ở cung hãm thì chuốc thị phi; cùng Thái Dương thì rất đẹp; … cùng Thiên Đồng ở đất Miếu Vượng thì ra ngoài tay trắng sinh tiền, lập nhà.",
+    "goc": "太阴入庙出外遇贵发财，陷宫招是非，太阳同极美，太阴同欠宁静，天同同在庙旺地出外白手生财成家。"
+   }
+  ]
+ },
+ "太阳+太阴": {
+  "dinhDieu": "Ở nơi khác dễ làm nên danh tiếng hơn; hợp đi ra, không hợp ở nhà giữ.",
+  "cotLoi": [
+   "Thái Dương ở cung Thiên Di, sách xưa nói “nên ra ngoài phát phúc, không chịu được ngồi yên giữ”, tức ra ngoài mới có phúc, cứ giữ yên một chỗ lại bó mình; quyển 1 còn nói cung này “khó nhận được tổ nghiệp, dời gốc đổi lá, rời tổ làm nhà”, tức gia nghiệp tổ tiên không tới tay, phải rời quê tự lập. Ở ngoài có quý nhân; danh tiếng ở nơi khác dễ làm lên hơn, hợp việc công hoặc ngành giao tế nhiều. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, sách xưa nói “ở ngoài thân tâm không thanh nhàn”, tức người ở ngoài mà thân tâm không lúc nào rảnh."
+  ],
+  "canCu": [
+   "Thái Dương vào Thiên Di — ra ngoài có dương khí che chở, được nhiều nguồn lực công chúng.",
+   "Thái Dương ở Thiên Di nhập miếu — tỏa sáng nơi khác, danh lợi song thu.",
+   "Thái Dương ở Thiên Di hãm — ra ngoài vất vả ít công, nên đổi môi trường."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thái Dương nên ra ngoài phát phúc, không chịu được ngồi yên giữ; cùng Thái Âm thì ra ngoài bận mà tốt; (cùng) Cự Môn thì lao tâm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài thân tâm không thanh nhàn.",
+    "goc": "太阳宜出外发福不耐静守，太阴同出外忙中吉，巨门劳心，加羊陀火铃空劫在外心身不清闲。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Phúc ở cung Thiên Di khác với ở Thân Mệnh: khó nhận được tổ nghiệp, dời gốc đổi lá, rời tổ làm nhà.",
+    "goc": "迁移宫其福与身命不同，难招祖业，移根换叶，出祖为家。"
+   }
+  ]
+ },
+ "太阳+巨门": {
+  "dinhDieu": "Ở nơi khác dễ làm nên danh tiếng hơn; hợp đi ra, không hợp ở nhà giữ.",
+  "cotLoi": [
+   "Thái Dương ở cung Thiên Di, sách xưa nói “nên ra ngoài phát phúc, không chịu được ngồi yên giữ”, tức ra ngoài mới có phúc, cứ giữ yên một chỗ lại bó mình; quyển 1 còn nói cung này “khó nhận được tổ nghiệp, dời gốc đổi lá, rời tổ làm nhà”, tức gia nghiệp tổ tiên không tới tay, phải rời quê tự lập. Ở ngoài có quý nhân; danh tiếng ở nơi khác dễ làm lên hơn, hợp việc công hoặc ngành giao tế nhiều. Thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, sách xưa nói “ở ngoài thân tâm không thanh nhàn”, tức người ở ngoài mà thân tâm không lúc nào rảnh."
+  ],
+  "canCu": [
+   "Thái Dương vào Thiên Di — ra ngoài có dương khí che chở, được nhiều nguồn lực công chúng.",
+   "Thái Dương ở Thiên Di nhập miếu — tỏa sáng nơi khác, danh lợi song thu.",
+   "Thái Dương ở Thiên Di hãm — ra ngoài vất vả ít công, nên đổi môi trường."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thái Dương nên ra ngoài phát phúc, không chịu được ngồi yên giữ; cùng Thái Âm thì ra ngoài bận mà tốt; (cùng) Cự Môn thì lao tâm; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài thân tâm không thanh nhàn.",
+    "goc": "太阳宜出外发福不耐静守，太阴同出外忙中吉，巨门劳心，加羊陀火铃空劫在外心身不清闲。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Thái Dương chủ về gì",
+    "dich": "Phúc ở cung Thiên Di khác với ở Thân Mệnh: khó nhận được tổ nghiệp, dời gốc đổi lá, rời tổ làm nhà.",
+    "goc": "迁移宫其福与身命不同，难招祖业，移根换叶，出祖为家。"
+   }
+  ]
+ },
+ "武曲+破军": {
+  "dinhDieu": "Hợp động không hợp giữ, chỗ náo nhiệt dễ kiếm tiền; gặp sát tinh thì ở ngoài chuốc thị phi.",
+  "canCu": [
+   "Vũ Khúc vào Thiên Di — chủ ra ngoài làm thực, phần nhiều phát triển trong tài chính, kỹ thuật, quân đội, cảnh sát.",
+   "Vũ Khúc thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh — Toàn Thư nói “ở ngoài chuốc thị phi”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Vũ Khúc ở chốn náo nhiệt bận rộn thì kiếm được ít, không nên ngồi yên giữ; cùng Tham Lang thì làm nhà buôn lớn; cùng Thất Sát, Phá Quân thì thân tâm không giữ yên được; thêm Dương, Đà, Hỏa, Linh thì ở ngoài chuốc thị phi.",
+    "goc": "武曲闹忙中进少不宜静守，贪狼同作巨商，七杀破军同身心不得静守，加羊陀火铃在外招是非。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Luận người có số buôn bán hay không",
+    "dich": "Buôn bán thì Tử Phủ gặp Kình Dương; Vũ Khúc ở Thiên Di thì lợi thị trường.",
+    "goc": "经商紫府遇擎羊，武曲迁移利市场"
+   }
+  ]
+ },
+ "紫微+天府": {
+  "dinhDieu": "Tử Vi ở Thiên Di: ra ngoài gặp được quý nhân.",
+  "cotLoi": [
+   "Tử Vi ở cung Thiên Di: ra ngoài gặp được quý nhân. Sách xưa đặc biệt ghi một câu “cùng Tả Hữu”, tức bên cạnh có Tả Phù, Hữu Bật đi theo thì sự nâng đỡ ấy mới thành thực; quyển 1 còn nói Thiên Di vốn là cung mạnh, nhưng vẫn cần người phò tá; có cát tinh chiếu Mệnh thì quý khí này là do người khác đem tới cho bạn. Tử Vi hội đủ Tả Phù, Hữu Bật thì rời quê ra nơi khác dễ gặp người chịu nâng đỡ hơn ở quê, ra ngoài đi lên cũng thuận. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài không yên, thị phi nhiều, bôn ba nhiều. Tử Vi, Thiên Phủ ở Dần hoặc Thân cùng ngồi Thiên Di, cung Mệnh có Thất Sát, thầy Nghê gọi là Thất Sát triều Đẩu, giảng theo hướng đi xa, trấn thủ biên cương — điều này phải rơi vào tuổi tác tương xứng với thân phận ấy mới nói như vậy; Cốt Tủy Phú trong Toàn Thư cũng có câu “Thất Sát triều Đẩu, tước lộc vinh xương”."
+  ],
+  "canCu": [
+   "Tử Vi vào Thiên Di — ra nơi khác gặp quý nhân; sự nâng đỡ có thành thực không phải xem có Tả Phù, Hữu Bật cùng không (Toàn Thư: “Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc”).",
+   "Tử Vi hội Tả Phù, Hữu Bật ở Thiên Di — ra ngoài được nhiều quý nhân nâng đỡ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc; cùng Thiên Phủ thì ra vào thông đạt; cùng Thiên Tướng thì ở ngoài phát tài; cùng Phá Quân thì được quý nhân thương, tiểu nhân không đủ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài không yên.",
+    "goc": "紫微同左右出外贵人扶持发福，天府同出入通达，天相同在外发财，破军同贵人见爱，小人不足，加羊陀火铃空劫在外不安静。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Thiên Di tuy là cung mạnh, càng cần người phò tá; có cát tinh chiếu Mệnh thì nhờ người khác mà quý.",
+    "goc": "迁移虽是强宫，更要相佐，有吉星照命，则因人之贵。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Không có Phụ Bật đi cùng là vua cô độc, ngọc đẹp cũng chưa đủ.",
+    "goc": "无辅弼同行则为孤君，虽美玉不足。"
+   }
+  ]
+ },
+ "天同+巨门": {
+  "dinhDieu": "Thiên Đồng ở Thiên Di: ra ngoài dễ gặp quý nhân nâng đỡ.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Thiên Di: ra ngoài thường gặp quý nhân giúp, môi trường ôn hòa, ít sóng gió lớn. Sách nói cùng cung Thiên Lương thì được quý nhân thương, phúc dày; cùng Cự Môn thì lao tâm; cùng Thái Âm thì vất vả; còn mục Thái Âm lại nói Thái Âm, Thiên Đồng cùng cung ở đất Miếu Vượng thì ra ngoài tay trắng kiếm được tiền, lập được nhà; hai thuyết cùng tồn tại. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài lại khó vừa ý, đi đi về về thu được có hạn."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Thiên Di — chủ ra ngoài có phúc tinh che chở, ít trắc trở.",
+   "Thiên Đồng gặp sát — phúc khí khi ra ngoài bị tổn, đường đi nhiều trắc trở nhỏ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Đồng ra ngoài gặp quý nhân nâng đỡ; cùng Cự Môn thì lao tâm; cùng Thái Âm thì vất vả; cùng Thiên Lương thì được quý nhân thương; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài ít toại chí.",
+    "goc": "天同出外遇贵人扶持，巨门同劳心，太阴同辛苦，天梁同贵人见爱，加羊陀火铃空劫在外少遂志。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di, mục Thái Âm",
+    "dich": "Thái Âm nhập miếu ra ngoài gặp quý nhân, phát tài; ở cung hãm thì chuốc thị phi; cùng Thái Dương thì rất đẹp; … cùng Thiên Đồng ở đất Miếu Vượng thì ra ngoài tay trắng sinh tiền, lập nhà.",
+    "goc": "太阴入庙出外遇贵发财，陷宫招是非，太阳同极美，太阴同欠宁静，天同同在庙旺地出外白手生财成家。"
+   }
+  ]
+ },
+ "廉贞+天府": {
+  "dinhDieu": "Ra ngoài lại thuận, dễ gặp quý nhân; gặp sát tinh thì đi xa phải cẩn thận.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Thiên Di “ra ngoài thông đạt, gần người quý, ngày ở nhà ít”, tức ra ngoài lại thuận, dễ gần quý nhân, ngày ở nhà ít; vốn là sao hợp động không hợp tĩnh. Cùng Thất Sát thì “ở ngoài thu tiền rộng”, tức ở ngoài nguồn tiền rộng mở; cùng Thiên Tướng thì “động là tốt”, tức động lên mới thuận. Nhưng nếu thêm Kình Dương, Đà La, tam phương lại gặp hung sát, sách xưa còn một câu nặng hơn “chết ở đường ngoài”, tức chết trên đường nơi đất khách. Liêm Trinh với Tham Lang cùng cung lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, mục Tham Lang trong sách xưa nói “cùng Liêm Trinh thêm tứ sát thì ở ngoài gian nan”, tức ở ngoài chỗ nào cũng không thuận; lịch trình, tiền bạc, bạn bè đều phải cẩn thận hơn. Cung Thiên Di có Liêm Trinh, Tham Lang cùng cung lại đều hãm, cung Mệnh không có chính tinh, thầy Nghê gọi cách này là “gãy cánh giữa trời”, nói “loại bát tự này theo lập trường xem số thuộc một loại thiên la địa võng, hạn đó ở trung niên”, “loại này thuộc hiện tượng trung niên có thể chết sớm” (Nghê Hải Hạ, Thiên Kỷ, tập 11, 04:09 và 04:55), nói về chính đương số; trung niên thầy nói là “khoảng 30 tuổi”, có người 29 tuổi đã xảy ra, có người 30, 31, 32, và nói “tôi ở đây chỉ là nguyên tắc đại khái”, còn phải đối chiếu lại bản cung, cung đối và vận đang đi; nếu việc tương ứng đã ứng rồi, khoảng tuổi này đã qua, thì không lấy cùng nhóm sao đó mà đoán về sau nữa. (Đây là lời phán nặng; một tổ hợp sao không quyết định sinh tử, nên đọc như lời nhắc thận trọng.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Thiên Di — chủ ra ngoài đào hoa vượng, nhiều cơ hội tài nghệ.",
+   "Liêm Trinh thêm Kình Dương, Đà La, tam phương lại gặp hung sát — Toàn Thư nói “chết ở đường ngoài”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Liêm Trinh ra ngoài thông đạt, gần người quý, ngày ở nhà ít; cùng Tham Lang thì đứng chân giữa chốn náo nhiệt; cùng Thất Sát thì ở ngoài thu tiền rộng; cùng Thiên Tướng thì động là tốt; thêm Dương, Đà và tam phương có hung sát thì chết ở đường ngoài.",
+    "goc": "廉贞出外通达近贵，在家日少，贪狼同闹中立脚，七杀同在外广招财，天相同动中则吉，加羊陀并三方有凶杀死于外道。"
+   }
+  ]
+ },
+ "天机+巨门": {
+  "dinhDieu": "Ra ngoài có quý nhân, ở nhà lại nhiều thị phi; hợp đi lại nhiều.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Thiên Di, sách xưa nói rất rõ: ra ngoài dễ gặp quý nhân nâng đỡ, ngược lại ở nhà thì nhiều thị phi; nên hợp công việc hay đi công tác, đi lại. Ở ngoài khả năng ứng biến mạnh, đổi môi trường là thích nghi rất nhanh; cùng cung Thiên Lương thì ra ngoài vừa ý, cùng Thái Âm thì trong bận rộn mà vớt được lợi. Nhưng nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì ở ngoài thị phi nhiều, người không yên; trước khi đi nên sắp xếp đầy đủ. Gặp Địa Không, Địa Kiếp thì đi uổng công, không thu được gì, không hợp đi quá xa."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Thiên Di — chủ động, chủ di chuyển, cơ hội ra ngoài nhiều.",
+   "Thiên Cơ gặp Không Kiếp ở Thiên Di — đi uổng không được gì, đi xa nên thận trọng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Cơ ra ngoài gặp quý nhân, ở nhà có thị phi; cùng Cự Môn thì động là tốt; cùng Thiên Lương thì ra ngoài vừa ý; cùng Thái Âm thì bận mà tốt; thêm Dương, Đà, Hỏa, Linh thì ở ngoài nhiều thị phi, thân không yên.",
+    "goc": "天机出外遇贵居家有是非，巨门同动中则吉，天梁同出外称意，太阴同忙中吉，加羊陀火铃在外多是非身不安静。"
+   }
+  ]
+ },
+ "武曲+贪狼": {
+  "dinhDieu": "Hợp động không hợp giữ, chỗ náo nhiệt dễ kiếm tiền; gặp sát tinh thì ở ngoài chuốc thị phi.",
+  "canCu": [
+   "Vũ Khúc vào Thiên Di — chủ ra ngoài làm thực, phần nhiều phát triển trong tài chính, kỹ thuật, quân đội, cảnh sát.",
+   "Vũ Khúc thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh — Toàn Thư nói “ở ngoài chuốc thị phi”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Vũ Khúc ở chốn náo nhiệt bận rộn thì kiếm được ít, không nên ngồi yên giữ; cùng Tham Lang thì làm nhà buôn lớn; cùng Thất Sát, Phá Quân thì thân tâm không giữ yên được; thêm Dương, Đà, Hỏa, Linh thì ở ngoài chuốc thị phi.",
+    "goc": "武曲闹忙中进少不宜静守，贪狼同作巨商，七杀破军同身心不得静守，加羊陀火铃在外招是非。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Luận người có số buôn bán hay không",
+    "dich": "Buôn bán thì Tử Phủ gặp Kình Dương; Vũ Khúc ở Thiên Di thì lợi thị trường.",
+    "goc": "经商紫府遇擎羊，武曲迁移利市场"
+   }
+  ]
+ },
+ "天同+太阴": {
+  "dinhDieu": "Thiên Đồng ở Thiên Di: ra ngoài dễ gặp quý nhân nâng đỡ.",
+  "cotLoi": [
+   "Thiên Đồng ở cung Thiên Di: ra ngoài thường gặp quý nhân giúp, môi trường ôn hòa, ít sóng gió lớn. Sách nói cùng cung Thiên Lương thì được quý nhân thương, phúc dày; cùng Cự Môn thì lao tâm; cùng Thái Âm thì vất vả; còn mục Thái Âm lại nói Thái Âm, Thiên Đồng cùng cung ở đất Miếu Vượng thì ra ngoài tay trắng kiếm được tiền, lập được nhà; hai thuyết cùng tồn tại. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài lại khó vừa ý, đi đi về về thu được có hạn."
+  ],
+  "canCu": [
+   "Thiên Đồng vào Thiên Di — chủ ra ngoài có phúc tinh che chở, ít trắc trở.",
+   "Thiên Đồng gặp sát — phúc khí khi ra ngoài bị tổn, đường đi nhiều trắc trở nhỏ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Đồng ra ngoài gặp quý nhân nâng đỡ; cùng Cự Môn thì lao tâm; cùng Thái Âm thì vất vả; cùng Thiên Lương thì được quý nhân thương; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài ít toại chí.",
+    "goc": "天同出外遇贵人扶持，巨门同劳心，太阴同辛苦，天梁同贵人见爱，加羊陀火铃空劫在外少遂志。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di, mục Thái Âm",
+    "dich": "Thái Âm nhập miếu ra ngoài gặp quý nhân, phát tài; ở cung hãm thì chuốc thị phi; cùng Thái Dương thì rất đẹp; … cùng Thiên Đồng ở đất Miếu Vượng thì ra ngoài tay trắng sinh tiền, lập nhà.",
+    "goc": "太阴入庙出外遇贵发财，陷宫招是非，太阳同极美，太阴同欠宁静，天同同在庙旺地出外白手生财成家。"
+   }
+  ]
+ },
+ "紫微+贪狼": {
+  "dinhDieu": "Tử Vi ở Thiên Di: ra ngoài gặp được quý nhân.",
+  "cotLoi": [
+   "Tử Vi ở cung Thiên Di: ra ngoài gặp được quý nhân. Sách xưa đặc biệt ghi một câu “cùng Tả Hữu”, tức bên cạnh có Tả Phù, Hữu Bật đi theo thì sự nâng đỡ ấy mới thành thực; quyển 1 còn nói Thiên Di vốn là cung mạnh, nhưng vẫn cần người phò tá; có cát tinh chiếu Mệnh thì quý khí này là do người khác đem tới cho bạn. Tử Vi hội đủ Tả Phù, Hữu Bật thì rời quê ra nơi khác dễ gặp người chịu nâng đỡ hơn ở quê, ra ngoài đi lên cũng thuận. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài không yên, thị phi nhiều, bôn ba nhiều. Tử Vi, Thiên Phủ ở Dần hoặc Thân cùng ngồi Thiên Di, cung Mệnh có Thất Sát, thầy Nghê gọi là Thất Sát triều Đẩu, giảng theo hướng đi xa, trấn thủ biên cương — điều này phải rơi vào tuổi tác tương xứng với thân phận ấy mới nói như vậy; Cốt Tủy Phú trong Toàn Thư cũng có câu “Thất Sát triều Đẩu, tước lộc vinh xương”."
+  ],
+  "canCu": [
+   "Tử Vi vào Thiên Di — ra nơi khác gặp quý nhân; sự nâng đỡ có thành thực không phải xem có Tả Phù, Hữu Bật cùng không (Toàn Thư: “Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc”).",
+   "Tử Vi hội Tả Phù, Hữu Bật ở Thiên Di — ra ngoài được nhiều quý nhân nâng đỡ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc; cùng Thiên Phủ thì ra vào thông đạt; cùng Thiên Tướng thì ở ngoài phát tài; cùng Phá Quân thì được quý nhân thương, tiểu nhân không đủ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài không yên.",
+    "goc": "紫微同左右出外贵人扶持发福，天府同出入通达，天相同在外发财，破军同贵人见爱，小人不足，加羊陀火铃空劫在外不安静。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Thiên Di tuy là cung mạnh, càng cần người phò tá; có cát tinh chiếu Mệnh thì nhờ người khác mà quý.",
+    "goc": "迁移虽是强宫，更要相佐，有吉星照命，则因人之贵。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Không có Phụ Bật đi cùng là vua cô độc, ngọc đẹp cũng chưa đủ.",
+    "goc": "无辅弼同行则为孤君，虽美玉不足。"
+   }
+  ]
+ },
+ "天机+太阴": {
+  "dinhDieu": "Ra ngoài có quý nhân, ở nhà lại nhiều thị phi; hợp đi lại nhiều.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Thiên Di, sách xưa nói rất rõ: ra ngoài dễ gặp quý nhân nâng đỡ, ngược lại ở nhà thì nhiều thị phi; nên hợp công việc hay đi công tác, đi lại. Ở ngoài khả năng ứng biến mạnh, đổi môi trường là thích nghi rất nhanh; cùng cung Thiên Lương thì ra ngoài vừa ý, cùng Thái Âm thì trong bận rộn mà vớt được lợi. Nhưng nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì ở ngoài thị phi nhiều, người không yên; trước khi đi nên sắp xếp đầy đủ. Gặp Địa Không, Địa Kiếp thì đi uổng công, không thu được gì, không hợp đi quá xa."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Thiên Di — chủ động, chủ di chuyển, cơ hội ra ngoài nhiều.",
+   "Thiên Cơ gặp Không Kiếp ở Thiên Di — đi uổng không được gì, đi xa nên thận trọng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Cơ ra ngoài gặp quý nhân, ở nhà có thị phi; cùng Cự Môn thì động là tốt; cùng Thiên Lương thì ra ngoài vừa ý; cùng Thái Âm thì bận mà tốt; thêm Dương, Đà, Hỏa, Linh thì ở ngoài nhiều thị phi, thân không yên.",
+    "goc": "天机出外遇贵居家有是非，巨门同动中则吉，天梁同出外称意，太阴同忙中吉，加羊陀火铃在外多是非身不安静。"
+   }
+  ]
+ },
+ "武曲+天相": {
+  "dinhDieu": "Hợp động không hợp giữ, chỗ náo nhiệt dễ kiếm tiền; gặp sát tinh thì ở ngoài chuốc thị phi.",
+  "canCu": [
+   "Vũ Khúc vào Thiên Di — chủ ra ngoài làm thực, phần nhiều phát triển trong tài chính, kỹ thuật, quân đội, cảnh sát.",
+   "Vũ Khúc thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh — Toàn Thư nói “ở ngoài chuốc thị phi”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Vũ Khúc ở chốn náo nhiệt bận rộn thì kiếm được ít, không nên ngồi yên giữ; cùng Tham Lang thì làm nhà buôn lớn; cùng Thất Sát, Phá Quân thì thân tâm không giữ yên được; thêm Dương, Đà, Hỏa, Linh thì ở ngoài chuốc thị phi.",
+    "goc": "武曲闹忙中进少不宜静守，贪狼同作巨商，七杀破军同身心不得静守，加羊陀火铃在外招是非。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Luận người có số buôn bán hay không",
+    "dich": "Buôn bán thì Tử Phủ gặp Kình Dương; Vũ Khúc ở Thiên Di thì lợi thị trường.",
+    "goc": "经商紫府遇擎羊，武曲迁移利市场"
+   }
+  ]
+ },
+ "紫微+七杀": {
+  "dinhDieu": "Tử Vi ở Thiên Di: ra ngoài gặp được quý nhân.",
+  "cotLoi": [
+   "Tử Vi ở cung Thiên Di: ra ngoài gặp được quý nhân. Sách xưa đặc biệt ghi một câu “cùng Tả Hữu”, tức bên cạnh có Tả Phù, Hữu Bật đi theo thì sự nâng đỡ ấy mới thành thực; quyển 1 còn nói Thiên Di vốn là cung mạnh, nhưng vẫn cần người phò tá; có cát tinh chiếu Mệnh thì quý khí này là do người khác đem tới cho bạn. Tử Vi hội đủ Tả Phù, Hữu Bật thì rời quê ra nơi khác dễ gặp người chịu nâng đỡ hơn ở quê, ra ngoài đi lên cũng thuận. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài không yên, thị phi nhiều, bôn ba nhiều. Tử Vi, Thiên Phủ ở Dần hoặc Thân cùng ngồi Thiên Di, cung Mệnh có Thất Sát, thầy Nghê gọi là Thất Sát triều Đẩu, giảng theo hướng đi xa, trấn thủ biên cương — điều này phải rơi vào tuổi tác tương xứng với thân phận ấy mới nói như vậy; Cốt Tủy Phú trong Toàn Thư cũng có câu “Thất Sát triều Đẩu, tước lộc vinh xương”."
+  ],
+  "canCu": [
+   "Tử Vi vào Thiên Di — ra nơi khác gặp quý nhân; sự nâng đỡ có thành thực không phải xem có Tả Phù, Hữu Bật cùng không (Toàn Thư: “Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc”).",
+   "Tử Vi hội Tả Phù, Hữu Bật ở Thiên Di — ra ngoài được nhiều quý nhân nâng đỡ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc; cùng Thiên Phủ thì ra vào thông đạt; cùng Thiên Tướng thì ở ngoài phát tài; cùng Phá Quân thì được quý nhân thương, tiểu nhân không đủ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài không yên.",
+    "goc": "紫微同左右出外贵人扶持发福，天府同出入通达，天相同在外发财，破军同贵人见爱，小人不足，加羊陀火铃空劫在外不安静。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Thiên Di tuy là cung mạnh, càng cần người phò tá; có cát tinh chiếu Mệnh thì nhờ người khác mà quý.",
+    "goc": "迁移虽是强宫，更要相佐，有吉星照命，则因人之贵。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Không có Phụ Bật đi cùng là vua cô độc, ngọc đẹp cũng chưa đủ.",
+    "goc": "无辅弼同行则为孤君，虽美玉不足。"
+   }
+  ]
+ },
+ "天机+天梁": {
+  "dinhDieu": "Ra ngoài có quý nhân, ở nhà lại nhiều thị phi; hợp đi lại nhiều.",
+  "cotLoi": [
+   "Thiên Cơ ở cung Thiên Di, sách xưa nói rất rõ: ra ngoài dễ gặp quý nhân nâng đỡ, ngược lại ở nhà thì nhiều thị phi; nên hợp công việc hay đi công tác, đi lại. Ở ngoài khả năng ứng biến mạnh, đổi môi trường là thích nghi rất nhanh; cùng cung Thiên Lương thì ra ngoài vừa ý, cùng Thái Âm thì trong bận rộn mà vớt được lợi. Nhưng nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh thì ở ngoài thị phi nhiều, người không yên; trước khi đi nên sắp xếp đầy đủ. Gặp Địa Không, Địa Kiếp thì đi uổng công, không thu được gì, không hợp đi quá xa."
+  ],
+  "canCu": [
+   "Thiên Cơ vào Thiên Di — chủ động, chủ di chuyển, cơ hội ra ngoài nhiều.",
+   "Thiên Cơ gặp Không Kiếp ở Thiên Di — đi uổng không được gì, đi xa nên thận trọng."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Thiên Cơ ra ngoài gặp quý nhân, ở nhà có thị phi; cùng Cự Môn thì động là tốt; cùng Thiên Lương thì ra ngoài vừa ý; cùng Thái Âm thì bận mà tốt; thêm Dương, Đà, Hỏa, Linh thì ở ngoài nhiều thị phi, thân không yên.",
+    "goc": "天机出外遇贵居家有是非，巨门同动中则吉，天梁同出外称意，太阴同忙中吉，加羊陀火铃在外多是非身不安静。"
+   }
+  ]
+ },
+ "廉贞+破军": {
+  "dinhDieu": "Ra ngoài lại thuận, dễ gặp quý nhân; gặp sát tinh thì đi xa phải cẩn thận.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Thiên Di “ra ngoài thông đạt, gần người quý, ngày ở nhà ít”, tức ra ngoài lại thuận, dễ gần quý nhân, ngày ở nhà ít; vốn là sao hợp động không hợp tĩnh. Cùng Thất Sát thì “ở ngoài thu tiền rộng”, tức ở ngoài nguồn tiền rộng mở; cùng Thiên Tướng thì “động là tốt”, tức động lên mới thuận. Nhưng nếu thêm Kình Dương, Đà La, tam phương lại gặp hung sát, sách xưa còn một câu nặng hơn “chết ở đường ngoài”, tức chết trên đường nơi đất khách. Liêm Trinh với Tham Lang cùng cung lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, mục Tham Lang trong sách xưa nói “cùng Liêm Trinh thêm tứ sát thì ở ngoài gian nan”, tức ở ngoài chỗ nào cũng không thuận; lịch trình, tiền bạc, bạn bè đều phải cẩn thận hơn. Cung Thiên Di có Liêm Trinh, Tham Lang cùng cung lại đều hãm, cung Mệnh không có chính tinh, thầy Nghê gọi cách này là “gãy cánh giữa trời”, nói “loại bát tự này theo lập trường xem số thuộc một loại thiên la địa võng, hạn đó ở trung niên”, “loại này thuộc hiện tượng trung niên có thể chết sớm” (Nghê Hải Hạ, Thiên Kỷ, tập 11, 04:09 và 04:55), nói về chính đương số; trung niên thầy nói là “khoảng 30 tuổi”, có người 29 tuổi đã xảy ra, có người 30, 31, 32, và nói “tôi ở đây chỉ là nguyên tắc đại khái”, còn phải đối chiếu lại bản cung, cung đối và vận đang đi; nếu việc tương ứng đã ứng rồi, khoảng tuổi này đã qua, thì không lấy cùng nhóm sao đó mà đoán về sau nữa. (Đây là lời phán nặng; một tổ hợp sao không quyết định sinh tử, nên đọc như lời nhắc thận trọng.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Thiên Di — chủ ra ngoài đào hoa vượng, nhiều cơ hội tài nghệ.",
+   "Liêm Trinh thêm Kình Dương, Đà La, tam phương lại gặp hung sát — Toàn Thư nói “chết ở đường ngoài”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Liêm Trinh ra ngoài thông đạt, gần người quý, ngày ở nhà ít; cùng Tham Lang thì đứng chân giữa chốn náo nhiệt; cùng Thất Sát thì ở ngoài thu tiền rộng; cùng Thiên Tướng thì động là tốt; thêm Dương, Đà và tam phương có hung sát thì chết ở đường ngoài.",
+    "goc": "廉贞出外通达近贵，在家日少，贪狼同闹中立脚，七杀同在外广招财，天相同动中则吉，加羊陀并三方有凶杀死于外道。"
+   }
+  ]
+ },
+ "廉贞+天相": {
+  "dinhDieu": "Ra ngoài lại thuận, dễ gặp quý nhân; gặp sát tinh thì đi xa phải cẩn thận.",
+  "cotLoi": [
+   "Sách xưa nói Liêm Trinh ở cung Thiên Di “ra ngoài thông đạt, gần người quý, ngày ở nhà ít”, tức ra ngoài lại thuận, dễ gần quý nhân, ngày ở nhà ít; vốn là sao hợp động không hợp tĩnh. Cùng Thất Sát thì “ở ngoài thu tiền rộng”, tức ở ngoài nguồn tiền rộng mở; cùng Thiên Tướng thì “động là tốt”, tức động lên mới thuận. Nhưng nếu thêm Kình Dương, Đà La, tam phương lại gặp hung sát, sách xưa còn một câu nặng hơn “chết ở đường ngoài”, tức chết trên đường nơi đất khách. Liêm Trinh với Tham Lang cùng cung lại thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, mục Tham Lang trong sách xưa nói “cùng Liêm Trinh thêm tứ sát thì ở ngoài gian nan”, tức ở ngoài chỗ nào cũng không thuận; lịch trình, tiền bạc, bạn bè đều phải cẩn thận hơn. Cung Thiên Di có Liêm Trinh, Tham Lang cùng cung lại đều hãm, cung Mệnh không có chính tinh, thầy Nghê gọi cách này là “gãy cánh giữa trời”, nói “loại bát tự này theo lập trường xem số thuộc một loại thiên la địa võng, hạn đó ở trung niên”, “loại này thuộc hiện tượng trung niên có thể chết sớm” (Nghê Hải Hạ, Thiên Kỷ, tập 11, 04:09 và 04:55), nói về chính đương số; trung niên thầy nói là “khoảng 30 tuổi”, có người 29 tuổi đã xảy ra, có người 30, 31, 32, và nói “tôi ở đây chỉ là nguyên tắc đại khái”, còn phải đối chiếu lại bản cung, cung đối và vận đang đi; nếu việc tương ứng đã ứng rồi, khoảng tuổi này đã qua, thì không lấy cùng nhóm sao đó mà đoán về sau nữa. (Đây là lời phán nặng; một tổ hợp sao không quyết định sinh tử, nên đọc như lời nhắc thận trọng.)"
+  ],
+  "canCu": [
+   "Liêm Trinh vào Thiên Di — chủ ra ngoài đào hoa vượng, nhiều cơ hội tài nghệ.",
+   "Liêm Trinh thêm Kình Dương, Đà La, tam phương lại gặp hung sát — Toàn Thư nói “chết ở đường ngoài”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Liêm Trinh ra ngoài thông đạt, gần người quý, ngày ở nhà ít; cùng Tham Lang thì đứng chân giữa chốn náo nhiệt; cùng Thất Sát thì ở ngoài thu tiền rộng; cùng Thiên Tướng thì động là tốt; thêm Dương, Đà và tam phương có hung sát thì chết ở đường ngoài.",
+    "goc": "廉贞出外通达近贵，在家日少，贪狼同闹中立脚，七杀同在外广招财，天相同动中则吉，加羊陀并三方有凶杀死于外道。"
+   }
+  ]
+ },
+ "紫微+破军": {
+  "dinhDieu": "Tử Vi ở Thiên Di: ra ngoài gặp được quý nhân.",
+  "cotLoi": [
+   "Tử Vi ở cung Thiên Di: ra ngoài gặp được quý nhân. Sách xưa đặc biệt ghi một câu “cùng Tả Hữu”, tức bên cạnh có Tả Phù, Hữu Bật đi theo thì sự nâng đỡ ấy mới thành thực; quyển 1 còn nói Thiên Di vốn là cung mạnh, nhưng vẫn cần người phò tá; có cát tinh chiếu Mệnh thì quý khí này là do người khác đem tới cho bạn. Tử Vi hội đủ Tả Phù, Hữu Bật thì rời quê ra nơi khác dễ gặp người chịu nâng đỡ hơn ở quê, ra ngoài đi lên cũng thuận. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài không yên, thị phi nhiều, bôn ba nhiều. Tử Vi, Thiên Phủ ở Dần hoặc Thân cùng ngồi Thiên Di, cung Mệnh có Thất Sát, thầy Nghê gọi là Thất Sát triều Đẩu, giảng theo hướng đi xa, trấn thủ biên cương — điều này phải rơi vào tuổi tác tương xứng với thân phận ấy mới nói như vậy; Cốt Tủy Phú trong Toàn Thư cũng có câu “Thất Sát triều Đẩu, tước lộc vinh xương”."
+  ],
+  "canCu": [
+   "Tử Vi vào Thiên Di — ra nơi khác gặp quý nhân; sự nâng đỡ có thành thực không phải xem có Tả Phù, Hữu Bật cùng không (Toàn Thư: “Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc”).",
+   "Tử Vi hội Tả Phù, Hữu Bật ở Thiên Di — ra ngoài được nhiều quý nhân nâng đỡ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc; cùng Thiên Phủ thì ra vào thông đạt; cùng Thiên Tướng thì ở ngoài phát tài; cùng Phá Quân thì được quý nhân thương, tiểu nhân không đủ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài không yên.",
+    "goc": "紫微同左右出外贵人扶持发福，天府同出入通达，天相同在外发财，破军同贵人见爱，小人不足，加羊陀火铃空劫在外不安静。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Thiên Di tuy là cung mạnh, càng cần người phò tá; có cát tinh chiếu Mệnh thì nhờ người khác mà quý.",
+    "goc": "迁移虽是强宫，更要相佐，有吉星照命，则因人之贵。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Không có Phụ Bật đi cùng là vua cô độc, ngọc đẹp cũng chưa đủ.",
+    "goc": "无辅弼同行则为孤君，虽美玉不足。"
+   }
+  ]
+ },
+ "武曲+天府": {
+  "dinhDieu": "Hợp động không hợp giữ, chỗ náo nhiệt dễ kiếm tiền; gặp sát tinh thì ở ngoài chuốc thị phi.",
+  "canCu": [
+   "Vũ Khúc vào Thiên Di — chủ ra ngoài làm thực, phần nhiều phát triển trong tài chính, kỹ thuật, quân đội, cảnh sát.",
+   "Vũ Khúc thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh — Toàn Thư nói “ở ngoài chuốc thị phi”."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Vũ Khúc ở chốn náo nhiệt bận rộn thì kiếm được ít, không nên ngồi yên giữ; cùng Tham Lang thì làm nhà buôn lớn; cùng Thất Sát, Phá Quân thì thân tâm không giữ yên được; thêm Dương, Đà, Hỏa, Linh thì ở ngoài chuốc thị phi.",
+    "goc": "武曲闹忙中进少不宜静守，贪狼同作巨商，七杀破军同身心不得静守，加羊陀火铃在外招是非。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Luận người có số buôn bán hay không",
+    "dich": "Buôn bán thì Tử Phủ gặp Kình Dương; Vũ Khúc ở Thiên Di thì lợi thị trường.",
+    "goc": "经商紫府遇擎羊，武曲迁移利市场"
+   }
+  ]
+ },
+ "紫微+天相": {
+  "dinhDieu": "Tử Vi ở Thiên Di: ra ngoài gặp được quý nhân.",
+  "cotLoi": [
+   "Tử Vi ở cung Thiên Di: ra ngoài gặp được quý nhân. Sách xưa đặc biệt ghi một câu “cùng Tả Hữu”, tức bên cạnh có Tả Phù, Hữu Bật đi theo thì sự nâng đỡ ấy mới thành thực; quyển 1 còn nói Thiên Di vốn là cung mạnh, nhưng vẫn cần người phò tá; có cát tinh chiếu Mệnh thì quý khí này là do người khác đem tới cho bạn. Tử Vi hội đủ Tả Phù, Hữu Bật thì rời quê ra nơi khác dễ gặp người chịu nâng đỡ hơn ở quê, ra ngoài đi lên cũng thuận. Nếu thêm Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp thì ở ngoài không yên, thị phi nhiều, bôn ba nhiều. Tử Vi, Thiên Phủ ở Dần hoặc Thân cùng ngồi Thiên Di, cung Mệnh có Thất Sát, thầy Nghê gọi là Thất Sát triều Đẩu, giảng theo hướng đi xa, trấn thủ biên cương — điều này phải rơi vào tuổi tác tương xứng với thân phận ấy mới nói như vậy; Cốt Tủy Phú trong Toàn Thư cũng có câu “Thất Sát triều Đẩu, tước lộc vinh xương”."
+  ],
+  "canCu": [
+   "Tử Vi vào Thiên Di — ra nơi khác gặp quý nhân; sự nâng đỡ có thành thực không phải xem có Tả Phù, Hữu Bật cùng không (Toàn Thư: “Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc”).",
+   "Tử Vi hội Tả Phù, Hữu Bật ở Thiên Di — ra ngoài được nhiều quý nhân nâng đỡ."
+  ],
+  "xuatXu": [
+   {
+    "nguon": "Toàn Thư, quyển 2, cung Thiên Di",
+    "dich": "Tử Vi cùng Tả Hữu thì ra ngoài có quý nhân nâng đỡ, phát phúc; cùng Thiên Phủ thì ra vào thông đạt; cùng Thiên Tướng thì ở ngoài phát tài; cùng Phá Quân thì được quý nhân thương, tiểu nhân không đủ; thêm Dương, Đà, Hỏa, Linh, Không, Kiếp thì ở ngoài không yên.",
+    "goc": "紫微同左右出外贵人扶持发福，天府同出入通达，天相同在外发财，破军同贵人见爱，小人不足，加羊陀火铃空劫在外不安静。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Thiên Di tuy là cung mạnh, càng cần người phò tá; có cát tinh chiếu Mệnh thì nhờ người khác mà quý.",
+    "goc": "迁移虽是强宫，更要相佐，有吉星照命，则因人之贵。"
+   },
+   {
+    "nguon": "Toàn Thư, quyển 1, Hỏi Tử Vi chủ về gì",
+    "dich": "Không có Phụ Bật đi cùng là vua cô độc, ngọc đẹp cũng chưa đủ.",
+    "goc": "无辅弼同行则为孤君，虽美玉不足。"
+   }
+  ]
+ }
+}

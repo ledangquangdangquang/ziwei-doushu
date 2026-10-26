@@ -1,75 +1,92 @@
 'use client';
-import { useState } from 'react';
-import BirthForm from '@/components/BirthForm';
+import { useRef, useState } from 'react';
+import dynamic from 'next/dynamic';
+import BirthForm, { type BirthFormState } from '@/components/BirthForm';
+import BacDauStars from '@/components/BacDauStars';
 import ChartBoard from '@/components/ChartBoard';
-import InsightPanel from '@/components/InsightPanel';
-import TimeNav, { type TimeView } from '@/components/TimeNav';
 import { generateChart } from '@/lib/ziwei/algorithm';
+import { useHistory } from '@/lib/ziwei/history';
+import { formToBirthInfo } from '@/lib/ziwei/share';
 import type { BirthInfo, ZiweiChart, Palace } from '@/lib/ziwei/types';
 
+// Hai khối này mang toàn bộ bài luận (~1,1 MB); chỉ tải khi đã lập lá số
+const LuanGiaiPanel = dynamic(() => import('@/components/LuanGiaiPanel'));
+const CungDialog = dynamic(() => import('@/components/CungDialog'));
+
 /**
- * 命盘页 —— 开源版「排盘引擎 Demo」
- *
- * 这是一个最小可运行示例：用本仓库的排盘引擎 generateChart() 配合基础 UI
- * 组件，渲染一张完整紫微命盘 + 基础解读，并支持本命 / 大限 / 流年切换。
- *
- * 说明：线上商业版的完整交互界面（重设计的新 UI、AI 流式解读、合盘、分享
- * 卡片等）不在开源范围内；但排盘内核——安星算法、四化、格局识别、古籍库——
- * 完全开放（见 lib/ziwei/*），可自由二次开发出你自己的界面。
+ * /chart — Split Studio (form) → Workbench (lá số + luận giải). Xem design.md.
+ * BirthForm quy đổi giờ/lịch Việt Nam (lib/ziwei/vn-calendar.ts) → generateChart().
  */
 export default function ChartPage() {
   const [chart, setChart] = useState<ZiweiChart | null>(null);
   const [selectedPalace, setSelectedPalace] = useState<Palace | null>(null);
-  const [view, setView] = useState<TimeView>('mingpan');
-  const [liunianYear, setLiunianYear] = useState(() => new Date().getFullYear());
+  const { history, save, remove } = useHistory();
+  // BirthForm chỉ trả BirthInfo khi gửi; giữ bản form mới nhất để lưu vào lịch sử
+  const formRef = useRef<BirthFormState | null>(null);
 
-  // ── 未起盘：展示出生信息表单 ──
+  const show = (info: BirthInfo) => { setChart(generateChart(info)); window.scrollTo({ top: 0 }); };
+
   if (!chart) {
     return (
-      <main style={{ maxWidth: 720, margin: '0 auto', padding: '48px 20px' }}>
-        <h1 style={{ fontSize: 28, fontWeight: 700, marginBottom: 8 }}>紫微斗数排盘</h1>
-        <p style={{ color: '#888', marginBottom: 32, fontSize: 14, lineHeight: 1.7 }}>
-          输入出生年月日时，开源排盘引擎即时生成命盘。
-          <br />
-          （本页为引擎 Demo，完整商业版界面不在开源范围；排盘内核完全开放。）
-        </p>
-        <BirthForm onSubmit={(info: BirthInfo) => setChart(generateChart(info))} />
+      <main className="page">
+        <div className="hero-split">
+          <div className="hero-split__text">
+            <h1 className="hero__title reveal">Lá số Tử Vi theo lịch Việt.</h1>
+            <p className="hero__lede reveal" style={{ '--i': 1 } as React.CSSProperties}>
+              Nhập ngày giờ sinh dương lịch. Lá số được đổi sang âm lịch Việt Nam, quy giờ theo nơi sinh,
+              rồi luận giải đủ mười hai cung.
+            </p>
+          </div>
+          <div className="hero-split__form">
+            <BirthForm
+              onFormSave={f => { formRef.current = f; }}
+              onSubmit={(info: BirthInfo) => { if (formRef.current) save(formRef.current); show(info); }}
+            />
+          </div>
+          <div className="hero-split__art">
+            <BacDauStars />
+          </div>
+        </div>
+
+        {history.length > 0 && (
+          <section className="history" aria-labelledby="history-title">
+            <h2 id="history-title">Lá số đã xem</h2>
+            <p className="history__note">Chỉ lưu trên trình duyệt này, không gửi đi đâu.</p>
+            <ul>
+              {history.map(e => (
+                <li key={e.id} className="history__row">
+                  <button type="button" className="history__open" onClick={() => { save(e.form); show(formToBirthInfo(e.form)); }}>
+                    <b>{e.form.name || 'Không tên'}</b>
+                    <span className="num">{e.label}</span>
+                  </button>
+                  <button type="button" className="history__del" aria-label={`Xóa ${e.form.name || e.label}`} onClick={() => remove(e.id)}>Xóa</button>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
       </main>
     );
   }
 
-  // ── 已起盘：命盘 + 解读 ──
   return (
-    <main style={{ maxWidth: 1280, margin: '0 auto', padding: '24px 16px' }}>
-      <button
-        type="button"
-        onClick={() => { setChart(null); setSelectedPalace(null); }}
-        style={{
-          marginBottom: 16, padding: '6px 14px', cursor: 'pointer',
-          border: '1px solid #ccc', borderRadius: 8, background: 'transparent',
-        }}
-      >
-        ← 重新起盘
-      </button>
-
-      <TimeNav
-        chart={chart}
-        view={view}
-        liunianYear={liunianYear}
-        onViewChange={setView}
-        onYearChange={setLiunianYear}
-      />
-
-      <div
-        style={{
-          display: 'grid',
-          gridTemplateColumns: 'minmax(0, 1fr) minmax(0, 380px)',
-          gap: 20, marginTop: 16, alignItems: 'start',
-        }}
-      >
-        <ChartBoard chart={chart} onPalaceSelect={setSelectedPalace} />
-        <InsightPanel chart={chart} selectedPalace={selectedPalace} />
+    <main className="page page--wide">
+      <div className="bench-head">
+        <h1>{chart.birthInfo.name ? `Lá số của ${chart.birthInfo.name}` : 'Lá số của bạn'}</h1>
+        <button
+          type="button"
+          className="btn btn--ghost bench-head__chip"
+          onClick={() => { setChart(null); setSelectedPalace(null); }}
+        >
+          ← Lập lá số khác
+        </button>
       </div>
+
+      <div className="workbench">
+        <ChartBoard chart={chart} onPalaceSelect={setSelectedPalace} />
+        <LuanGiaiPanel chart={chart} />
+      </div>
+      <CungDialog chart={chart} palace={selectedPalace} onClose={() => setSelectedPalace(null)} />
     </main>
   );
 }
